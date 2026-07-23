@@ -1,0 +1,106 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Fantastic Berlin — floor-first listings</title>
+    <meta name="description" content="A faster, floor-first view of Fantastic Frank Berlin for-sale listings." />
+    <link rel="preconnect" href="https://res.cloudinary.com" />
+    <link rel="stylesheet" href="./style.css" />
+  </head>
+  <body>
+    <header class="site-header">
+      <div class="wrap">
+        <div class="title-row">
+          <h1>Fantastic Berlin</h1>
+          <a class="source" href="https://www.fantasticfrank.com/en/berlin/for-sale/" target="_blank" rel="noopener">
+            source ↗
+          </a>
+        </div>
+        <p class="tagline">
+          The same properties, sorted by what matters. Higher floors first.
+          <span id="meta" class="meta"></span>
+        </p>
+      </div>
+    </header>
+
+    <div class="toolbar">
+      <div class="wrap toolbar-inner">
+        <label class="control">
+          <span>Sort</span>
+          <select id="sort">
+            <option value="floor">Floor (high → low)</option>
+            <option value="ppsqm">€/m² (low → high)</option>
+            <option value="price">Price (low → high)</option>
+            <option value="price-desc">Price (high → low)</option>
+            <option value="size">Size (large → small)</option>
+            <option value="new">Newest</option>
+          </select>
+        </label>
+
+        <label class="control">
+          <span>Min floor</span>
+          <select id="minFloor">
+            <option value="">Any</option>
+            <option value="1">1+</option>
+            <option value="2">2+</option>
+            <option value="3">3+</option>
+            <option value="4">4+</option>
+            <option value="5">5+</option>
+            <option value="top">Top / attic only</option>
+          </select>
+        </label>
+
+        <label class="control">
+          <span>Neighborhood</span>
+          <select id="neighborhood"><option value="">All</option></select>
+        </label>
+
+        <label class="control">
+          <span>Max €/m²</span>
+          <select id="maxPpsqm">
+            <option value="">Any</option>
+            <option value="6000">6,000</option>
+            <option value="7000">7,000</option>
+            <option value="8000">8,000</option>
+            <option value="9000">9,000</option>
+            <option value="10000">10,000</option>
+            <option value="12000">12,000</option>
+          </select>
+        </label>
+
+        <label class="control">
+          <span>Min rooms</span>
+          <select id="minRooms">
+            <option value="">Any</option>
+            <option value="2">2+</option>
+            <option value="3">3+</option>
+            <option value="4">4+</option>
+            <option value="5">5+</option>
+          </select>
+        </label>
+
+        <label class="control checkbox">
+          <input type="checkbox" id="newOnly" />
+          <span>New only</span>
+        </label>
+
+        <button id="reset" class="reset" type="button">Reset</button>
+      </div>
+    </div>
+
+    <main class="wrap">
+      <div id="status" class="status-line"></div>
+      <section id="grid" class="grid"></section>
+    </main>
+
+    <footer class="wrap footer">
+      <p>
+        Not affiliated with Fantastic Frank. Data mirrored from their public listings for personal use.
+        Click any card to open the original listing.
+      </p>
+    </footer>
+
+    <script src="./app.js"></script>
+  </body>
+</html>

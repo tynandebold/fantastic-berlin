@@ -1,0 +1,23 @@
+{
+  "name": "fantastic-berlin",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "A faster, floor-first view of Fantastic Frank Berlin for-sale listings.",
+  "scripts": {
+    "scrape": "tsx scraper/scrape.ts",
+    "build:site": "node -e \"require('fs').copyFileSync('data/listings.json','site/listings.json')\"",
+    "serve": "npm run build:site && python3 -m http.server 8799 --directory site",
+    "test": "tsx --test scraper/*.test.ts"
+  },
+  "dependencies": {
+    "playwright": "^1.61.1",
+    "playwright-extra": "^4.3.6",
+    "puppeteer-extra-plugin-stealth": "^2.11.2",
+    "tsx": "^4.23.1",
+    "typescript": "^7.0.2"
+  },
+  "devDependencies": {
+    "@types/node": "^26.1.1"
+  }
+}

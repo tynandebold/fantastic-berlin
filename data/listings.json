@@ -1,0 +1,86 @@
+{
+  "generatedAt": "2026-07-23T19:47:43.434Z",
+  "count": 4,
+  "listings": [
+    {
+      "id": "katzbachstrasse-27",
+      "url": "https://www.fantasticfrank.com/en/berlin/property/katzbachstrasse-27/",
+      "title": "Katzbachstrasse 27, Kreuzberg",
+      "status": "For Sale",
+      "neighborhood": "Kreuzberg",
+      "price": 785000,
+      "rooms": 2.5,
+      "sizeSqm": 92,
+      "floor": {
+        "raw": "5th, front building (attic floor)",
+        "value": null,
+        "isTop": true
+      },
+      "pricePerSqm": 8533,
+      "imageUrl": "https://res.cloudinary.com/dbi0cooxc/image/upload/f_jpg,q_70,w_1200,h_630,c_fill,g_auto/v1783113758/_V9A6768A-4_yvkq23.jpg",
+      "firstSeen": "2026-07-23",
+      "lastSeen": "2026-07-23",
+      "previousPrice": null
+    },
+    {
+      "id": "bevernstrasse-2",
+      "url": "https://www.fantasticfrank.com/en/berlin/property/bevernstrasse-2/",
+      "title": "Bevernstrasse 2, Kreuzberg",
+      "status": "For Sale",
+      "neighborhood": "Kreuzberg",
+      "price": 1498000,
+      "rooms": 3,
+      "sizeSqm": 155,
+      "floor": {
+        "raw": "5th (penthouse)",
+        "value": null,
+        "isTop": true
+      },
+      "pricePerSqm": 9665,
+      "imageUrl": "https://res.cloudinary.com/dbi0cooxc/image/upload/f_jpg,q_70,w_1200,h_630,c_fill,g_auto/v1781682867/_V9A3757_jkn52r.jpg",
+      "firstSeen": "2026-07-23",
+      "lastSeen": "2026-07-23",
+      "previousPrice": null
+    },
+    {
+      "id": "esmarchstrasse-12",
+      "url": "https://www.fantasticfrank.com/en/berlin/property/esmarchstrasse-12/",
+      "title": "Esmarchstrasse 12, Prenzlauer Berg",
+      "status": "For Sale",
+      "neighborhood": "Prenzlauer Berg",
+      "price": 445000,
+      "rooms": 2,
+      "sizeSqm": 57,
+      "floor": {
+        "raw": "3rd, front building",
+        "value": 3,
+        "isTop": false
+      },
+      "pricePerSqm": 7807,
+      "imageUrl": "https://res.cloudinary.com/dbi0cooxc/image/upload/f_jpg,q_70,w_1200,h_630,c_fill,g_auto/v1783671820/_V9A7800B_ztfmxg.jpg",
+      "firstSeen": "2026-07-23",
+      "lastSeen": "2026-07-23",
+      "previousPrice": null
+    },
+    {
+      "id": "zillestrasse-69",
+      "url": "https://www.fantasticfrank.com/en/berlin/property/zillestrasse-69/",
+      "title": "Zillestrasse 69, Charlottenburg",
+      "status": "For Sale",
+      "neighborhood": "Charlottenburg",
+      "price": 670000,
+      "rooms": 2.5,
+      "sizeSqm": 79,
+      "floor": {
+        "raw": "3rd, rear building",
+        "value": 3,
+        "isTop": false
+      },
+      "pricePerSqm": 8481,
+      "imageUrl": "https://res.cloudinary.com/dbi0cooxc/image/upload/f_jpg,q_70,w_1200,h_630,c_fill,g_auto/v1781681669/_V9A3435_iie8bd.jpg",
+      "firstSeen": "2026-07-23",
+      "lastSeen": "2026-07-23",
+      "previousPrice": null
+    }
+  ]
+}
