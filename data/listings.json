@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-23T19:47:43.434Z",
-  "count": 4,
+  "generatedAt": "2026-07-23T20:28:37.789Z",
+  "count": 27,
   "listings": [
     {
       "id": "katzbachstrasse-27",
@@ -13,14 +13,14 @@
       "sizeSqm": 92,
       "floor": {
         "raw": "5th, front building (attic floor)",
-        "value": null,
+        "value": 5,
         "isTop": true
       },
       "pricePerSqm": 8533,
       "imageUrl": "https://res.cloudinary.com/dbi0cooxc/image/upload/f_jpg,q_70,w_1200,h_630,c_fill,g_auto/v1783113758/_V9A6768A-4_yvkq23.jpg",
       "firstSeen": "2026-07-23",
       "lastSeen": "2026-07-23",
-      "previousPrice": null
+      "previousPrice": 785000
     },
     {
       "id": "bevernstrasse-2",
@@ -33,11 +33,171 @@
       "sizeSqm": 155,
       "floor": {
         "raw": "5th (penthouse)",
-        "value": null,
+        "value": 5,
         "isTop": true
       },
       "pricePerSqm": 9665,
       "imageUrl": "https://res.cloudinary.com/dbi0cooxc/image/upload/f_jpg,q_70,w_1200,h_630,c_fill,g_auto/v1781682867/_V9A3757_jkn52r.jpg",
+      "firstSeen": "2026-07-23",
+      "lastSeen": "2026-07-23",
+      "previousPrice": 1498000
+    },
+    {
+      "id": "friedrichstrasse-penthouse",
+      "url": "https://www.fantasticfrank.com/en/berlin/property/friedrichstrasse-penthouse/",
+      "title": "Friedrichstrasse Penthouse, Düsseldorf-Friedrichstadt",
+      "status": "For Sale",
+      "neighborhood": "Düsseldorf-Friedrichstadt",
+      "price": 2848000,
+      "rooms": 5,
+      "sizeSqm": 287,
+      "floor": {
+        "raw": "3rd (penthouse)",
+        "value": 3,
+        "isTop": true
+      },
+      "pricePerSqm": 9923,
+      "imageUrl": "https://res.cloudinary.com/dbi0cooxc/image/upload/f_jpg,q_70,w_1200,h_630,c_fill,g_auto/v1777053481/A_Bild_Whg_Penthouse_pdq6el.jpg",
+      "firstSeen": "2026-07-23",
+      "lastSeen": "2026-07-23",
+      "previousPrice": null
+    },
+    {
+      "id": "rubensstrasse-98",
+      "url": "https://www.fantasticfrank.com/en/berlin/property/rubensstrasse-98/",
+      "title": "Rubensstrasse 98, Friedenau",
+      "status": "For Sale",
+      "neighborhood": "Friedenau",
+      "price": 680000,
+      "rooms": 4,
+      "sizeSqm": 90,
+      "floor": {
+        "raw": "Attic floor, front building",
+        "value": null,
+        "isTop": true
+      },
+      "pricePerSqm": 7556,
+      "imageUrl": "https://res.cloudinary.com/dbi0cooxc/image/upload/f_jpg,q_70,w_1200,h_630,c_fill,g_auto/v1777360729/_V9A3549_zdptya.jpg",
+      "firstSeen": "2026-07-23",
+      "lastSeen": "2026-07-23",
+      "previousPrice": null
+    },
+    {
+      "id": "eisenacher-strasse-57",
+      "url": "https://www.fantasticfrank.com/en/berlin/property/eisenacher-strasse-57/",
+      "title": "Eisenacher Strasse 57, Schöneberg",
+      "status": "For Sale",
+      "neighborhood": "Schöneberg",
+      "price": 998000,
+      "rooms": 4,
+      "sizeSqm": 133,
+      "floor": {
+        "raw": "5th, rear building",
+        "value": 5,
+        "isTop": false
+      },
+      "pricePerSqm": 7504,
+      "imageUrl": "https://res.cloudinary.com/dbi0cooxc/image/upload/f_jpg,q_70,w_1200,h_630,c_fill,g_auto/v1774631643/_V9A7073SUMMER_B_vun1az.jpg",
+      "firstSeen": "2026-07-23",
+      "lastSeen": "2026-07-23",
+      "previousPrice": null
+    },
+    {
+      "id": "strausberger-platz-4",
+      "url": "https://www.fantasticfrank.com/en/berlin/property/strausberger-platz-4/",
+      "title": "Strausberger Platz 4, Friedrichshain",
+      "status": "For Sale",
+      "neighborhood": "Friedrichshain",
+      "price": 434000,
+      "rooms": 2,
+      "sizeSqm": 60,
+      "floor": {
+        "raw": "5th, front building",
+        "value": 5,
+        "isTop": false
+      },
+      "pricePerSqm": 7233,
+      "imageUrl": "https://res.cloudinary.com/dbi0cooxc/image/upload/f_jpg,q_70,w_1200,h_630,c_fill,g_auto/v1760792415/_V9A5521B_usyzvd.jpg",
+      "firstSeen": "2026-07-23",
+      "lastSeen": "2026-07-23",
+      "previousPrice": null
+    },
+    {
+      "id": "gneisenaustrasse-16",
+      "url": "https://www.fantasticfrank.com/en/berlin/property/gneisenaustrasse-16/",
+      "title": "Gneisenaustrasse 16, Kreuzberg",
+      "status": "For Sale",
+      "neighborhood": "Kreuzberg",
+      "price": 625000,
+      "rooms": 3,
+      "sizeSqm": 94,
+      "floor": {
+        "raw": "4th, front building",
+        "value": 4,
+        "isTop": false
+      },
+      "pricePerSqm": 6649,
+      "imageUrl": "https://res.cloudinary.com/dbi0cooxc/image/upload/f_jpg,q_70,w_1200,h_630,c_fill,g_auto/v1779914400/_V9A0483_yigjv0.jpg",
+      "firstSeen": "2026-07-23",
+      "lastSeen": "2026-07-23",
+      "previousPrice": null
+    },
+    {
+      "id": "am-zuckerberg",
+      "url": "https://www.fantasticfrank.com/en/berlin/property/am-zuckerberg/",
+      "title": "Am Zuckerberg, Köln - Agnesviertel",
+      "status": "For Sale",
+      "neighborhood": "Köln - Agnesviertel",
+      "price": 670000,
+      "rooms": 2.5,
+      "sizeSqm": 84,
+      "floor": {
+        "raw": "4th & 5th, front building",
+        "value": 4,
+        "isTop": false
+      },
+      "pricePerSqm": 7976,
+      "imageUrl": "https://res.cloudinary.com/dbi0cooxc/image/upload/f_jpg,q_70,w_1200,h_630,c_fill,g_auto/v1746297796/_MG_2835-Avec_accentuation-Bruit_jk9i23.jpg",
+      "firstSeen": "2026-07-23",
+      "lastSeen": "2026-07-23",
+      "previousPrice": null
+    },
+    {
+      "id": "suarezstrasse-12",
+      "url": "https://www.fantasticfrank.com/en/berlin/property/suarezstrasse-12/",
+      "title": "Suarezstrasse 12, Charlottenburg",
+      "status": "Coming Soon",
+      "neighborhood": "Charlottenburg",
+      "price": 1138000,
+      "rooms": 5,
+      "sizeSqm": 173,
+      "floor": {
+        "raw": "4th, front building",
+        "value": 4,
+        "isTop": false
+      },
+      "pricePerSqm": 6578,
+      "imageUrl": "https://res.cloudinary.com/dbi0cooxc/image/upload/f_jpg,q_70,w_1200,h_630,c_fill,g_auto/v1780571311/_MG_0392_a3zawx.jpg",
+      "firstSeen": "2026-07-23",
+      "lastSeen": "2026-07-23",
+      "previousPrice": null
+    },
+    {
+      "id": "baerwaldstrasse-53",
+      "url": "https://www.fantasticfrank.com/en/berlin/property/baerwaldstrasse-53/",
+      "title": "Baerwaldstrasse 53, Kreuzberg",
+      "status": "Coming Soon",
+      "neighborhood": "Kreuzberg",
+      "price": 594000,
+      "rooms": 3,
+      "sizeSqm": 80,
+      "floor": {
+        "raw": "4th, front building",
+        "value": 4,
+        "isTop": false
+      },
+      "pricePerSqm": 7425,
+      "imageUrl": "https://res.cloudinary.com/dbi0cooxc/image/upload/f_jpg,q_70,w_1200,h_630,c_fill,g_auto/v1717748573/Unbenannttt_3_ouiiqw.png",
       "firstSeen": "2026-07-23",
       "lastSeen": "2026-07-23",
       "previousPrice": null
@@ -60,7 +220,7 @@
       "imageUrl": "https://res.cloudinary.com/dbi0cooxc/image/upload/f_jpg,q_70,w_1200,h_630,c_fill,g_auto/v1783671820/_V9A7800B_ztfmxg.jpg",
       "firstSeen": "2026-07-23",
       "lastSeen": "2026-07-23",
-      "previousPrice": null
+      "previousPrice": 445000
     },
     {
       "id": "zillestrasse-69",
@@ -78,6 +238,306 @@
       },
       "pricePerSqm": 8481,
       "imageUrl": "https://res.cloudinary.com/dbi0cooxc/image/upload/f_jpg,q_70,w_1200,h_630,c_fill,g_auto/v1781681669/_V9A3435_iie8bd.jpg",
+      "firstSeen": "2026-07-23",
+      "lastSeen": "2026-07-23",
+      "previousPrice": 670000
+    },
+    {
+      "id": "carloft",
+      "url": "https://www.fantasticfrank.com/en/berlin/property/carloft/",
+      "title": "Carloft, Kreuzberg",
+      "status": "For Sale",
+      "neighborhood": "Kreuzberg",
+      "price": 2348000,
+      "rooms": 4,
+      "sizeSqm": 262,
+      "floor": {
+        "raw": "3rd",
+        "value": 3,
+        "isTop": false
+      },
+      "pricePerSqm": 8962,
+      "imageUrl": "https://res.cloudinary.com/dbi0cooxc/image/upload/f_jpg,q_70,w_1200,h_630,c_fill,g_auto/v1780568369/_V9A2273B_yk9quo.jpg",
+      "firstSeen": "2026-07-23",
+      "lastSeen": "2026-07-23",
+      "previousPrice": null
+    },
+    {
+      "id": "lausitzer-strasse-35",
+      "url": "https://www.fantasticfrank.com/en/berlin/property/lausitzer-strasse-35/",
+      "title": "Lausitzer Strasse 35, Kreuzberg",
+      "status": "For Sale",
+      "neighborhood": "Kreuzberg",
+      "price": 480000,
+      "rooms": 3,
+      "sizeSqm": 69,
+      "floor": {
+        "raw": "3rd, front building",
+        "value": 3,
+        "isTop": false
+      },
+      "pricePerSqm": 6957,
+      "imageUrl": "https://res.cloudinary.com/dbi0cooxc/image/upload/f_jpg,q_70,w_1200,h_630,c_fill,g_auto/v1780640765/_V9A2365_doeope.jpg",
+      "firstSeen": "2026-07-23",
+      "lastSeen": "2026-07-23",
+      "previousPrice": null
+    },
+    {
+      "id": "gleimstrasse-57",
+      "url": "https://www.fantasticfrank.com/en/berlin/property/gleimstrasse-57/",
+      "title": "Gleimstrasse 57, Prenzlauer Berg",
+      "status": "For Sale",
+      "neighborhood": "Prenzlauer Berg",
+      "price": 449000,
+      "rooms": 3,
+      "sizeSqm": 68,
+      "floor": {
+        "raw": "3rd, side wing",
+        "value": 3,
+        "isTop": false
+      },
+      "pricePerSqm": 6603,
+      "imageUrl": "https://res.cloudinary.com/dbi0cooxc/image/upload/f_jpg,q_70,w_1200,h_630,c_fill,g_auto/v1775029918/_V9A0824_zhkxao.jpg",
+      "firstSeen": "2026-07-23",
+      "lastSeen": "2026-07-23",
+      "previousPrice": null
+    },
+    {
+      "id": "suites-am-tacheles-1",
+      "url": "https://www.fantasticfrank.com/en/berlin/property/suites-am-tacheles-1/",
+      "title": "Suites am Tacheles, Mitte",
+      "status": "For Sale",
+      "neighborhood": "Mitte",
+      "price": 726000,
+      "rooms": 2,
+      "sizeSqm": 55,
+      "floor": {
+        "raw": "2nd",
+        "value": 2,
+        "isTop": false
+      },
+      "pricePerSqm": 13200,
+      "imageUrl": "https://res.cloudinary.com/dbi0cooxc/image/upload/f_jpg,q_70,w_1200,h_630,c_fill,g_auto/v1780386881/_V9A1085_pciqy2.jpg",
+      "firstSeen": "2026-07-23",
+      "lastSeen": "2026-07-23",
+      "previousPrice": null
+    },
+    {
+      "id": "friedrichstrasse",
+      "url": "https://www.fantasticfrank.com/en/berlin/property/friedrichstrasse/",
+      "title": "Friedrichstrasse, Düsseldorf-Friedrichstadt",
+      "status": "For Sale",
+      "neighborhood": "Düsseldorf-Friedrichstadt",
+      "price": 1398000,
+      "rooms": 3,
+      "sizeSqm": 144,
+      "floor": {
+        "raw": "2nd",
+        "value": 2,
+        "isTop": false
+      },
+      "pricePerSqm": 9708,
+      "imageUrl": "https://res.cloudinary.com/dbi0cooxc/image/upload/f_jpg,q_70,w_1200,h_630,c_fill,g_auto/v1777053390/A_Bild_Whg_144_qm_guf9nl.jpg",
+      "firstSeen": "2026-07-23",
+      "lastSeen": "2026-07-23",
+      "previousPrice": null
+    },
+    {
+      "id": "barbarossastrasse",
+      "url": "https://www.fantasticfrank.com/en/berlin/property/barbarossastrasse/",
+      "title": "Barbarossastrasse, Schöneberg",
+      "status": "For Sale",
+      "neighborhood": "Schöneberg",
+      "price": 398000,
+      "rooms": 2,
+      "sizeSqm": 54,
+      "floor": {
+        "raw": "2nd",
+        "value": 2,
+        "isTop": false
+      },
+      "pricePerSqm": 7370,
+      "imageUrl": "https://res.cloudinary.com/dbi0cooxc/image/upload/f_jpg,q_70,w_1200,h_630,c_fill,g_auto/v1778054998/_V9A5669C_yr9isf.jpg",
+      "firstSeen": "2026-07-23",
+      "lastSeen": "2026-07-23",
+      "previousPrice": null
+    },
+    {
+      "id": "luisenstadt-am-engelbecken",
+      "url": "https://www.fantasticfrank.com/en/berlin/property/luisenstadt-am-engelbecken/",
+      "title": "Luisenstadt am Engelbecken, Kreuzberg",
+      "status": "For Sale",
+      "neighborhood": "Kreuzberg",
+      "price": 970000,
+      "rooms": 3.5,
+      "sizeSqm": 110,
+      "floor": {
+        "raw": "1st, front building",
+        "value": 1,
+        "isTop": false
+      },
+      "pricePerSqm": 8818,
+      "imageUrl": "https://res.cloudinary.com/dbi0cooxc/image/upload/f_jpg,q_70,w_1200,h_630,c_fill,g_auto/v1777977272/_V9A5166_horizontal_rgyral.jpg",
+      "firstSeen": "2026-07-23",
+      "lastSeen": "2026-07-23",
+      "previousPrice": null
+    },
+    {
+      "id": "friedrichstrasse-1",
+      "url": "https://www.fantasticfrank.com/en/berlin/property/friedrichstrasse-1/",
+      "title": "Friedrichstrasse Duplex, Düsseldorf-Friedrichstadt",
+      "status": "For Sale",
+      "neighborhood": "Düsseldorf-Friedrichstadt",
+      "price": 2250000,
+      "rooms": 5,
+      "sizeSqm": 239,
+      "floor": {
+        "raw": "Ground & 1st floor",
+        "value": 1,
+        "isTop": false
+      },
+      "pricePerSqm": 9414,
+      "imageUrl": "https://res.cloudinary.com/dbi0cooxc/image/upload/f_jpg,q_70,w_1200,h_630,c_fill,g_auto/v1777053558/A_Bild_Whg_EG_o7fvda.jpg",
+      "firstSeen": "2026-07-23",
+      "lastSeen": "2026-07-23",
+      "previousPrice": null
+    },
+    {
+      "id": "dresdener-strasse-117-1",
+      "url": "https://www.fantasticfrank.com/en/berlin/property/dresdener-strasse-117-1/",
+      "title": "Dresdener Strasse 117, Kreuzberg",
+      "status": "For Sale",
+      "neighborhood": "Kreuzberg",
+      "price": 675000,
+      "rooms": 3,
+      "sizeSqm": 98,
+      "floor": {
+        "raw": "1st, rear building",
+        "value": 1,
+        "isTop": false
+      },
+      "pricePerSqm": 6888,
+      "imageUrl": "https://res.cloudinary.com/dbi0cooxc/image/upload/f_jpg,q_70,w_1200,h_630,c_fill,g_auto/v1779819699/_V9A2223B_mee8zr.jpg",
+      "firstSeen": "2026-07-23",
+      "lastSeen": "2026-07-23",
+      "previousPrice": null
+    },
+    {
+      "id": "kastanienallee-27",
+      "url": "https://www.fantasticfrank.com/en/berlin/property/kastanienallee-27/",
+      "title": "Kastanienallee 27, Prenzlauer Berg",
+      "status": "Coming Soon",
+      "neighborhood": "Prenzlauer Berg",
+      "price": 690000,
+      "rooms": 3,
+      "sizeSqm": 87,
+      "floor": {
+        "raw": "1st, front building",
+        "value": 1,
+        "isTop": false
+      },
+      "pricePerSqm": 7931,
+      "imageUrl": "https://res.cloudinary.com/dbi0cooxc/image/upload/f_jpg,q_70,w_1200,h_630,c_fill,g_auto/v1784725747/_MG_0641_1_b4c79n.jpg",
+      "firstSeen": "2026-07-23",
+      "lastSeen": "2026-07-23",
+      "previousPrice": null
+    },
+    {
+      "id": "christburger-strasse-48",
+      "url": "https://www.fantasticfrank.com/en/berlin/property/christburger-strasse-48/",
+      "title": "Christburger Strasse 48, Prenzlauer Berg",
+      "status": "For Sale",
+      "neighborhood": "Prenzlauer Berg",
+      "price": 425000,
+      "rooms": 2,
+      "sizeSqm": 67,
+      "floor": {
+        "raw": "Ground floor, side wing",
+        "value": 0,
+        "isTop": false
+      },
+      "pricePerSqm": 6343,
+      "imageUrl": "https://res.cloudinary.com/dbi0cooxc/image/upload/f_jpg,q_70,w_1200,h_630,c_fill,g_auto/v1777965142/_V9A4679-2_igmu0h.jpg",
+      "firstSeen": "2026-07-23",
+      "lastSeen": "2026-07-23",
+      "previousPrice": null
+    },
+    {
+      "id": "villa-thielpark",
+      "url": "https://www.fantasticfrank.com/en/berlin/property/villa-thielpark/",
+      "title": "Villa Thielpark, Dahlem",
+      "status": "For Sale",
+      "neighborhood": "Dahlem",
+      "price": 8950000,
+      "rooms": 11,
+      "sizeSqm": 583,
+      "floor": {
+        "raw": "Souterrain, mezzanine, 1st & 2nd floor",
+        "value": -1,
+        "isTop": false
+      },
+      "pricePerSqm": 15352,
+      "imageUrl": "https://res.cloudinary.com/dbi0cooxc/image/upload/f_jpg,q_70,w_1200,h_630,c_fill,g_auto/v1752246834/_MG_3706b_ejrk0i.jpg",
+      "firstSeen": "2026-07-23",
+      "lastSeen": "2026-07-23",
+      "previousPrice": null
+    },
+    {
+      "id": "hofensemble-flieth",
+      "url": "https://www.fantasticfrank.com/en/berlin/property/hofensemble-flieth/",
+      "title": "Hofensemble Flieth, Gerswalde, Uckermark",
+      "status": "For Sale",
+      "neighborhood": "Gerswalde, Uckermark",
+      "price": 690000,
+      "rooms": 3,
+      "sizeSqm": 118,
+      "floor": {
+        "raw": "Garden floor & gallery",
+        "value": null,
+        "isTop": false
+      },
+      "pricePerSqm": 5847,
+      "imageUrl": "https://res.cloudinary.com/dbi0cooxc/image/upload/f_jpg,q_70,w_1200,h_630,c_fill,g_auto/v1773660738/_V9A9730_saadg6.jpg",
+      "firstSeen": "2026-07-23",
+      "lastSeen": "2026-07-23",
+      "previousPrice": null
+    },
+    {
+      "id": "jalousiefabrik-new-development",
+      "url": "https://www.fantasticfrank.com/en/berlin/property/jalousiefabrik-new-development/",
+      "title": "Jalousiefabrik - New Development, Kreuzberg – 53",
+      "status": "Coming Soon",
+      "neighborhood": "Kreuzberg",
+      "price": 3920001242000,
+      "rooms": 2,
+      "sizeSqm": 125,
+      "floor": {
+        "raw": "",
+        "value": null,
+        "isTop": false
+      },
+      "pricePerSqm": 31360009936,
+      "imageUrl": "https://res.cloudinary.com/dbi0cooxc/image/upload/f_jpg,q_70,w_1200,h_630,c_fill,g_auto/v1781682869/_V9A4174_rj35gq.jpg",
+      "firstSeen": "2026-07-23",
+      "lastSeen": "2026-07-23",
+      "previousPrice": null
+    },
+    {
+      "id": "jalousiefabrik-factory-lofts",
+      "url": "https://www.fantasticfrank.com/en/berlin/property/jalousiefabrik-factory-lofts/",
+      "title": "Jalousiefabrik - Factory lofts, Kreuzberg – 56",
+      "status": "Coming Soon",
+      "neighborhood": "Kreuzberg",
+      "price": 4620001414000,
+      "rooms": 2,
+      "sizeSqm": 139,
+      "floor": {
+        "raw": "",
+        "value": null,
+        "isTop": false
+      },
+      "pricePerSqm": 33237420245,
+      "imageUrl": "https://res.cloudinary.com/dbi0cooxc/image/upload/f_jpg,q_70,w_1200,h_630,c_fill,g_auto/v1782463436/_Z8A9990_bxc90z.jpg",
       "firstSeen": "2026-07-23",
       "lastSeen": "2026-07-23",
       "previousPrice": null
