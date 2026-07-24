@@ -1,5 +1,33 @@
 /* Fantastic Berlin — light, aviation-instrument aesthetic.
-   Paper ground, ink type, monospace data readouts, hairline rules, square corners. */
+   Paper ground, ink type, monospace data readouts, hairline rules, square corners.
+   Source Code Pro (self-hosted, weights 300/400/600) to match tynandebold.com. */
+
+@font-face {
+  font-family: "Source Code Pro";
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: local("Source Code Pro Light"), local("SourceCodePro-Light"),
+    url("fonts/source-code-pro-v11-latin-300.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "Source Code Pro";
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: local("Source Code Pro Regular"), local("SourceCodePro-Regular"),
+    url("fonts/source-code-pro-v11-latin-regular.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "Source Code Pro";
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: local("Source Code Pro SemiBold"), local("SourceCodePro-SemiBold"),
+    url("fonts/source-code-pro-v11-latin-600.woff2") format("woff2");
+}
 
 :root {
   --paper: #f4f2ec;
@@ -12,8 +40,10 @@
   --accent: #c2410c; /* signal orange, used sparingly */
   --go: #2f7d43; /* price drop = cheaper = good */
 
+  /* System sans for prose; Source Code Pro (self-hosted, matching
+     tynandebold.com) reserved for the data readouts. */
   --sans: system-ui, -apple-system, "Helvetica Neue", Arial, sans-serif;
-  --mono: ui-monospace, "SF Mono", "JetBrains Mono", Menlo, Consolas, monospace;
+  --mono: "Source Code Pro", "Courier New", Courier, monospace;
 }
 
 * {
@@ -70,7 +100,7 @@ body {
 h1 {
   margin: 0;
   font-size: 24px;
-  font-weight: 700;
+  font-weight: 600;
   letter-spacing: 0.02em;
   text-transform: uppercase;
 }
@@ -248,7 +278,7 @@ h1 {
 
 .floor-badge .num {
   font-size: 24px;
-  font-weight: 700;
+  font-weight: 600;
   line-height: 1;
 }
 
@@ -295,7 +325,7 @@ h1 {
 
 .badge {
   font-size: 11px;
-  font-weight: 700;
+  font-weight: 600;
   text-transform: uppercase;
   letter-spacing: 0.07em;
   padding: 4px 8px;
@@ -383,7 +413,7 @@ h1 {
 
 .price {
   font-size: 17px;
-  font-weight: 700;
+  font-weight: 600;
 }
 
 .price .was {
