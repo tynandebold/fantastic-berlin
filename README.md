@@ -1,37 +1,48 @@
-# Fantastic Berlin
+# Altitude
 
-A faster, floor-first view of [Fantastic Frank Berlin](https://www.fantasticfrank.com/en/berlin/for-sale/)
-for-sale listings. Same properties, surfaced the way I actually browse: highest floors first, with
-euro-per-square-meter, size, rooms, neighborhood, an image, and "new since last run" flags. Sold and
-reserved listings are filtered out.
+A faster, floor-first view of Berlin for-sale listings from two agencies:
+[Fantastic Frank](https://www.fantasticfrank.com/en/berlin/for-sale/) and
+[Next Estate](https://www.next-estate.de/en/buy/). Same properties, surfaced the way I actually
+browse: highest floors first, with euro-per-square-meter, size, rooms, neighborhood, an image, a
+source tag, and "new since last run" flags. Sold and reserved listings are filtered out. Filter by
+source to see one agency at a time.
 
 ## How it works
 
 ```
-sitemap.xml (open)  ─┐
-                     ├─▶  scraper  ─▶  data/listings.json  ─▶  site/ (static)  ─▶  GitHub Pages
-for-sale index +     │   (local,        (committed)            fetches JSON
-detail pages (gated) ┘    daily)
+Fantastic Frank  ─▶  scrape.ts    (Playwright + stealth, LOCAL) ─┐
+                                                                 ├─▶  data/listings.json  ─▶  site/  ─▶  GitHub Pages
+Next Estate      ─▶  ne-scrape.ts (plain fetch, no browser)     ─┘     (committed)          (static)     (publish-only CI)
 ```
 
-The source sits behind a Vercel bot challenge that blocks plain HTTP and datacenter IPs. The scraper
-uses `playwright-extra` + the stealth plugin with real Chrome to clear it, which works reliably from a
-home connection. So scraping runs **locally, on demand** (not in CI): you run it whenever you want to
-refresh, commit the JSON, and push. A publish-only GitHub Action then deploys the static site. CI never
-touches the challenged site. This place does not list many new properties, so an occasional manual run
-is plenty.
+Both scrapers write into **one** `data/listings.json`. Each run does a **per-source merge**: it
+rebuilds only its own source's rows and keeps the other source's rows untouched (rows are partitioned
+by URL host), so the two are fully independent. Every listing carries a `source` field.
 
-Images are hotlinked from the source's Cloudinary CDN (which is open), not re-hosted.
+The two sources need very different handling:
+
+- **Fantastic Frank** sits behind a Vercel bot challenge that blocks plain HTTP and datacenter IPs.
+  Its scraper uses `playwright-extra` + the stealth plugin with real Chrome to clear it, which only
+  works reliably from a home connection. So it runs **locally, on demand** (never in CI).
+- **Next Estate** is a plain server-rendered WordPress site with no bot challenge, so its scraper is
+  just `fetch` + an HTML parser — fast, no browser. It reads the `/en/buy/` index for the whole
+  catalog and fetches each detail page only for its floor level.
+
+A publish-only GitHub Action deploys the static site whenever `data/listings.json` or `site/` changes.
+CI never scrapes. Images are hotlinked from each source's CDN, not re-hosted.
 
 ## Project layout
 
 ```
 scraper/
-  parse.ts      pure parsers (floor, price, m², rooms, district) + parse.test.ts
-  sitemap.ts    reads the open sitemap for URLs + images (fallback)
-  browser.ts    stealth browser + checkpoint clearing
-  extract.ts    pulls the facts grid off each detail page
-  scrape.ts     orchestrator: index -> details -> filter -> merge -> write
+  types.ts       shared Listing type (incl. `source`)
+  parse.ts       pure parsers (floor, price, m², rooms, district) + parse.test.ts
+  store.ts       shared per-source merge + floor-first sort + write
+  browser.ts     Fantastic Frank: stealth browser + checkpoint clearing
+  extract.ts     Fantastic Frank: pulls the facts grid off each detail page
+  scrape.ts      Fantastic Frank orchestrator
+  ne-extract.ts  Next Estate: parses index cards + detail facts + ne-extract.test.ts
+  ne-scrape.ts   Next Estate orchestrator
 data/listings.json   the snapshot (source of truth; also persists firstSeen + previousPrice)
 site/                vanilla HTML/CSS/JS, reads listings.json
 .github/workflows/pages.yml   publish-only Pages deploy
@@ -41,34 +52,40 @@ site/                vanilla HTML/CSS/JS, reads listings.json
 
 ```bash
 npm install
-npx playwright install chromium      # once
+npx playwright install chromium      # once (Fantastic Frank only)
 npm test                             # parser unit tests
-npm run scrape                       # full scrape (opens a real Chrome window ~5 min)
+
+npm run scrape:ne                    # Next Estate — fast, plain fetch (~1 min)
+npm run scrape:ff                    # Fantastic Frank — opens a real Chrome window (~5 min)
+npm run scrape                       # both (Next Estate first, then Fantastic Frank)
+
 npm run serve                        # copies data into site/ and serves at http://localhost:8799
 ```
 
-Sample a few listings while iterating: `FF_LIMIT=5 npm run scrape`.
-Env knobs: `FF_LIMIT` (cap detail pages), `HEADLESS=1` (try headless), `FF_CHANNEL=chromium` (bundled browser).
+Sample a few listings while iterating: `NE_LIMIT=5 npm run scrape:ne`, `FF_LIMIT=5 npm run scrape:ff`.
+Env knobs: `NE_LIMIT` / `FF_LIMIT` (cap listings), and for Fantastic Frank `HEADLESS=1`,
+`FF_CHANNEL=chromium`, `FF_CLEAR_TIMEOUT`, `FF_ATTEMPTS`.
 
 ## Updating (manual)
 
-Refresh whenever you feel like checking for new places:
+Refresh whenever you feel like checking for new places, then commit and push:
 
 ```bash
-npm run scrape                       # opens a real Chrome window, ~5 min
+npm run scrape:ne                    # or `npm run scrape` for both
 git add data/listings.json
 git commit -m "data: refresh listings"
 git push                             # the Pages Action redeploys automatically
 ```
 
-### If the checkpoint will not clear
+Next Estate is cheap to refresh (no browser). Fantastic Frank is the slow one and can be run less often.
+
+### If the Fantastic Frank checkpoint will not clear
 
 The scraper retries with backoff, but if it still fails with "checkpoint not cleared", the source has
 temporarily escalated its bot challenge for your IP (usually from running it several times in a row).
-Wait 15 to 30 minutes and try again. Tunable via env vars: `FF_CLEAR_TIMEOUT` (ms per attempt, default
-60000) and `FF_ATTEMPTS` (default 3).
+Wait 15 to 30 minutes and try again.
 
 ## Notes
 
-Not affiliated with Fantastic Frank. This mirrors public listing facts for personal use at low volume
-(once daily). Be a good citizen if you fork it.
+Not affiliated with either agency. This mirrors public listing facts for personal use at low volume.
+Be a good citizen if you fork it.

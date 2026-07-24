@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-23T20:28:37.789Z",
-  "count": 27,
+  "generatedAt": "2026-07-24T15:20:38.498Z",
+  "count": 97,
   "listings": [
     {
       "id": "katzbachstrasse-27",
@@ -43,26 +43,6 @@
       "previousPrice": 1498000
     },
     {
-      "id": "friedrichstrasse-penthouse",
-      "url": "https://www.fantasticfrank.com/en/berlin/property/friedrichstrasse-penthouse/",
-      "title": "Friedrichstrasse Penthouse, Düsseldorf-Friedrichstadt",
-      "status": "For Sale",
-      "neighborhood": "Düsseldorf-Friedrichstadt",
-      "price": 2848000,
-      "rooms": 5,
-      "sizeSqm": 287,
-      "floor": {
-        "raw": "3rd (penthouse)",
-        "value": 3,
-        "isTop": true
-      },
-      "pricePerSqm": 9923,
-      "imageUrl": "https://res.cloudinary.com/dbi0cooxc/image/upload/f_jpg,q_70,w_1200,h_630,c_fill,g_auto/v1777053481/A_Bild_Whg_Penthouse_pdq6el.jpg",
-      "firstSeen": "2026-07-23",
-      "lastSeen": "2026-07-23",
-      "previousPrice": null
-    },
-    {
       "id": "rubensstrasse-98",
       "url": "https://www.fantasticfrank.com/en/berlin/property/rubensstrasse-98/",
       "title": "Rubensstrasse 98, Friedenau",
@@ -80,6 +60,174 @@
       "imageUrl": "https://res.cloudinary.com/dbi0cooxc/image/upload/f_jpg,q_70,w_1200,h_630,c_fill,g_auto/v1777360729/_V9A3549_zdptya.jpg",
       "firstSeen": "2026-07-23",
       "lastSeen": "2026-07-23",
+      "previousPrice": null
+    },
+    {
+      "id": "21033",
+      "url": "https://www.next-estate.de/en/buy/21033/gartenstrasse-mitte-2-3-room-top-floor-apartment-with-approx-17-m2-terrace-and-great-potential/",
+      "source": "nextestate",
+      "title": "Gartenstraße, Mitte: 2–3 room top-floor apartment with approx. 17 m² terrace and great potential",
+      "status": "For Sale",
+      "neighborhood": "Mitte",
+      "price": 545000,
+      "rooms": 3,
+      "sizeSqm": 81,
+      "floor": {
+        "raw": "DG",
+        "value": null,
+        "isTop": true
+      },
+      "pricePerSqm": 6728,
+      "imageUrl": "https://www.next-estate.de/wp-content/uploads/resizer/resizer.php?w=700&src=../../uploads/photos/branch_a/21033_0adb504c-7d11-486b-bd93-5dc6621f0e69.jpg",
+      "firstSeen": "2026-07-24",
+      "lastSeen": "2026-07-24",
+      "previousPrice": null
+    },
+    {
+      "id": "21019",
+      "url": "https://www.next-estate.de/en/buy/21019/near-rosa-luxemburg-platz-25-room-top-floor-apartment-4th-floor-west-facing-terrace-fitted-kitchen/",
+      "source": "nextestate",
+      "title": "Near Rosa-Luxemburg-Platz: 2.5-room top-floor apartment (4th floor), west-facing terrace, fitted kitchen",
+      "status": "For Sale",
+      "neighborhood": "Prenzlauer Berg",
+      "price": 460000,
+      "rooms": 2.5,
+      "sizeSqm": 63,
+      "floor": {
+        "raw": "4 (DG)",
+        "value": null,
+        "isTop": true
+      },
+      "pricePerSqm": 7302,
+      "imageUrl": "https://www.next-estate.de/wp-content/uploads/resizer/resizer.php?w=700&src=../../uploads/photos/branch_a/21019__273149.jpg",
+      "firstSeen": "2026-07-24",
+      "lastSeen": "2026-07-24",
+      "previousPrice": null
+    },
+    {
+      "id": "21011",
+      "url": "https://www.next-estate.de/en/buy/21011/lehrter-strasse-moabit-modern-micro-living-on-the-16th-floor-with-concierge-gym-amp-communal-terrace/",
+      "source": "nextestate",
+      "title": "Lehrter Straße, Moabit: Modern micro-living on the 16th floor with concierge, gym & communal terrace",
+      "status": "For Sale",
+      "neighborhood": "Moabit",
+      "price": 220000,
+      "rooms": 1,
+      "sizeSqm": 23,
+      "floor": {
+        "raw": "16",
+        "value": 16,
+        "isTop": false
+      },
+      "pricePerSqm": 9565,
+      "imageUrl": "https://www.next-estate.de/wp-content/uploads/resizer/resizer.php?w=700&src=../../uploads/photos/branch_a/21011_d8aeecbf-9619-43e8-918d-bb01ecaa3055.jpg",
+      "firstSeen": "2026-07-24",
+      "lastSeen": "2026-07-24",
+      "previousPrice": null
+    },
+    {
+      "id": "20155",
+      "url": "https://www.next-estate.de/en/buy/20155/leibnitzstrasse-charlottenburg-modern-penthouse-3-rooms-spectacular-rooftop-terrace-with-views-of-berlin/",
+      "source": "nextestate",
+      "title": "Leibnitzstraße, Charlottenburg: modern penthouse, 3 rooms, spectacular rooftop terrace with views of Berlin",
+      "status": "For Sale",
+      "neighborhood": "Charlottenburg",
+      "price": 1425000,
+      "rooms": 3,
+      "sizeSqm": 117,
+      "floor": {
+        "raw": "7",
+        "value": 7,
+        "isTop": false
+      },
+      "pricePerSqm": 12179,
+      "imageUrl": "https://www.next-estate.de/wp-content/uploads/resizer/resizer.php?w=700&src=../../uploads/photos/branch_a/20155__249509.jpg",
+      "firstSeen": "2026-07-24",
+      "lastSeen": "2026-07-24",
+      "previousPrice": null
+    },
+    {
+      "id": "21111",
+      "url": "https://www.next-estate.de/en/buy/21111/arkonaplatz-breathtaking-views-across-the-whole-of-berlin-penthouse-maisonette-3-rooms-lift-south-west-facing-terrace/",
+      "source": "nextestate",
+      "title": "Arkonaplatz: Breathtaking views across the whole of Berlin: penthouse maisonette, 3 rooms, lift, south-west-facing terrace",
+      "status": "For Sale",
+      "neighborhood": "Mitte",
+      "price": 1150000,
+      "rooms": 3,
+      "sizeSqm": 96,
+      "floor": {
+        "raw": "6",
+        "value": 6,
+        "isTop": false
+      },
+      "pricePerSqm": 11979,
+      "imageUrl": "https://www.next-estate.de/wp-content/uploads/resizer/resizer.php?w=700&src=../../uploads/photos/branch_a/21111_7270315e-0a87-441e-9eba-b32b0b831fa8.jpg",
+      "firstSeen": "2026-07-24",
+      "lastSeen": "2026-07-24",
+      "previousPrice": 1150000
+    },
+    {
+      "id": "20605",
+      "url": "https://www.next-estate.de/en/buy/20605/in-the-bergmannkiez-neighborhood-project-sales--first-occupancy-after-renovation-elevator-balcony/",
+      "source": "nextestate",
+      "title": "In the Bergmannkiez neighborhood: Project sales—first occupancy after renovation, elevator, balcony",
+      "status": "For Sale",
+      "neighborhood": "Kreuzberg",
+      "price": 609000,
+      "rooms": 3,
+      "sizeSqm": 70,
+      "floor": {
+        "raw": "6",
+        "value": 6,
+        "isTop": false
+      },
+      "pricePerSqm": 8700,
+      "imageUrl": "https://www.next-estate.de/wp-content/uploads/resizer/resizer.php?w=700&src=../../uploads/photos/branch_a/20605__261399.jpg",
+      "firstSeen": "2026-07-24",
+      "lastSeen": "2026-07-24",
+      "previousPrice": null
+    },
+    {
+      "id": "19315",
+      "url": "https://www.next-estate.de/en/buy/19315/bright-new-build-penthouse-above-the-rooftops-of-friedrichshain---first-time-occupancy-with-great-interior---heat-pump-energy-efficiency-a/",
+      "source": "nextestate",
+      "title": "Bright new-build penthouse above the rooftops of Friedrichshain - first-time occupancy with great interior - heat pump, energy efficiency A+",
+      "status": "For Sale",
+      "neighborhood": "Friedrichshain",
+      "price": 899000,
+      "rooms": 2,
+      "sizeSqm": 78,
+      "floor": {
+        "raw": "6",
+        "value": 6,
+        "isTop": false
+      },
+      "pricePerSqm": 11526,
+      "imageUrl": "https://www.next-estate.de/wp-content/uploads/resizer/resizer.php?w=700&src=../../uploads/photos/branch_a/19315_5f4a5bba-6f32-48b8-a29d-456467d1fcd5.jpg",
+      "firstSeen": "2026-07-24",
+      "lastSeen": "2026-07-24",
+      "previousPrice": null
+    },
+    {
+      "id": "19313",
+      "url": "https://www.next-estate.de/en/buy/19313/cool-penthouse-with-large-rooftop-terrace-in-a-quiet-new-build-in-the-centre-of-friedrichshain---heat-pump-energy-efficiency-a/",
+      "source": "nextestate",
+      "title": "Cool penthouse with large rooftop terrace in a quiet new build in the centre of Friedrichshain - heat pump, energy efficiency A+",
+      "status": "For Sale",
+      "neighborhood": "Friedrichshain",
+      "price": 899000,
+      "rooms": 2,
+      "sizeSqm": 76,
+      "floor": {
+        "raw": "6",
+        "value": 6,
+        "isTop": false
+      },
+      "pricePerSqm": 11829,
+      "imageUrl": "https://www.next-estate.de/wp-content/uploads/resizer/resizer.php?w=700&src=../../uploads/photos/branch_a/19313_7710747a-e6c2-4b95-a92d-8a1e4bdd2531.jpg",
+      "firstSeen": "2026-07-24",
+      "lastSeen": "2026-07-24",
       "previousPrice": null
     },
     {
@@ -123,6 +271,405 @@
       "previousPrice": null
     },
     {
+      "id": "21147",
+      "url": "https://www.next-estate.de/en/buy/21147/helmholtzkiez-beautiful-5-room-rooftop-apartment-elevator-large-south-facing-terrace-underfloor-heating-ceiling-heights-of-up-to-480-m/",
+      "source": "nextestate",
+      "title": "Helmholtzkiez: Beautiful 5-room rooftop apartment, elevator, large south-facing terrace, underfloor heating, ceiling heights of up to 4.80 m.",
+      "status": "For Sale",
+      "neighborhood": "Prenzlauer Berg",
+      "price": 1250000,
+      "rooms": 5,
+      "sizeSqm": 139,
+      "floor": {
+        "raw": "5",
+        "value": 5,
+        "isTop": false
+      },
+      "pricePerSqm": 8993,
+      "imageUrl": "https://www.next-estate.de/wp-content/uploads/resizer/resizer.php?w=700&src=../../uploads/photos/branch_a/21147_aab15dd9-ef49-4282-857c-d3176f763c52.jpg",
+      "firstSeen": "2026-07-24",
+      "lastSeen": "2026-07-24",
+      "previousPrice": 1250000
+    },
+    {
+      "id": "21137",
+      "url": "https://www.next-estate.de/en/buy/21137/near-weinbergspark-mitte-2-bedroom-penthouse-lift-ac-parking-south-west-terrace-w-approx-25-sqm/",
+      "source": "nextestate",
+      "title": "Near Weinbergspark, Mitte: 2-bedroom penthouse, lift, a/c, parking, south-west-terrace w/ approx. 25 sqm",
+      "status": "For Sale",
+      "neighborhood": "Mitte",
+      "price": 499000,
+      "rooms": 2,
+      "sizeSqm": 60,
+      "floor": {
+        "raw": "5",
+        "value": 5,
+        "isTop": false
+      },
+      "pricePerSqm": 8317,
+      "imageUrl": "https://www.next-estate.de/wp-content/uploads/resizer/resizer.php?w=700&src=../../uploads/photos/branch_a/21137_825aa316-72e6-45d2-ae88-d67e2ffb36ad.jpg",
+      "firstSeen": "2026-07-24",
+      "lastSeen": "2026-07-24",
+      "previousPrice": 499000
+    },
+    {
+      "id": "21155",
+      "url": "https://www.next-estate.de/en/buy/21155/tiergarten-close-to-the-spree-spacious-attic-apartment-with-an-elevator-and-south-facing-terrace/",
+      "source": "nextestate",
+      "title": "Tiergarten, Close to the Spree: Spacious Attic Apartment with an Elevator and South-Facing Terrace",
+      "status": "For Sale",
+      "neighborhood": "Tiergarten",
+      "price": 495000,
+      "rooms": 2,
+      "sizeSqm": 73,
+      "floor": {
+        "raw": "5",
+        "value": 5,
+        "isTop": false
+      },
+      "pricePerSqm": 6781,
+      "imageUrl": "https://www.next-estate.de/wp-content/uploads/resizer/resizer.php?w=700&src=../../uploads/photos/branch_a/21155_15064456-59e5-44c7-8b4f-e228d1468135.jpg",
+      "firstSeen": "2026-07-24",
+      "lastSeen": "2026-07-24",
+      "previousPrice": null
+    },
+    {
+      "id": "21087",
+      "url": "https://www.next-estate.de/en/buy/21087/winsstrasse-prenzlauer-berg-light-filled-top-floor-apartment-with-southeast-facing-terrace-fireplace/",
+      "source": "nextestate",
+      "title": "Winsstraße, Prenzlauer Berg: Light-Filled Top-Floor Apartment with South/East-Facing Terrace, Fireplace",
+      "status": "For Sale",
+      "neighborhood": "Prenzlauer Berg",
+      "price": 1150000,
+      "rooms": 4,
+      "sizeSqm": 170,
+      "floor": {
+        "raw": "5",
+        "value": 5,
+        "isTop": false
+      },
+      "pricePerSqm": 6765,
+      "imageUrl": "https://www.next-estate.de/wp-content/uploads/resizer/resizer.php?w=700&src=../../uploads/photos/branch_a/21087_21cb19bf-0d7e-4f0f-aa30-b087718c8c3a.jpg",
+      "firstSeen": "2026-07-24",
+      "lastSeen": "2026-07-24",
+      "previousPrice": null
+    },
+    {
+      "id": "21081",
+      "url": "https://www.next-estate.de/en/buy/21081/between-wasserturmplatz-and-torstrasse-cosy-attic-apartment-with-south-facing-terrace-and-view-of-the-tv-tower-in-a-listed-historical-building/",
+      "source": "nextestate",
+      "title": "Between Wasserturmplatz and Torstraße: Cosy attic apartment with south-facing terrace and view of the TV tower in a listed historical building",
+      "status": "For Sale",
+      "neighborhood": "Prenzlauer Berg",
+      "price": 799000,
+      "rooms": 3,
+      "sizeSqm": 102,
+      "floor": {
+        "raw": "5",
+        "value": 5,
+        "isTop": false
+      },
+      "pricePerSqm": 7833,
+      "imageUrl": "https://www.next-estate.de/wp-content/uploads/resizer/resizer.php?w=700&src=../../uploads/photos/branch_a/21081_eb73707f-25c4-47eb-80e3-9187b737799f.jpg",
+      "firstSeen": "2026-07-24",
+      "lastSeen": "2026-07-24",
+      "previousPrice": null
+    },
+    {
+      "id": "21027",
+      "url": "https://www.next-estate.de/en/buy/21027/between-sudstern-and-bergmannkiez-freshly-renovated-top-floor-apartment-3-rooms-plus-eat-in-kitchen-terrace/",
+      "source": "nextestate",
+      "title": "Between Südstern and Bergmannkiez: freshly renovated top-floor apartment, 3 rooms plus eat-in kitchen, terrace",
+      "status": "For Sale",
+      "neighborhood": "Kreuzberg",
+      "price": 780000,
+      "rooms": 3,
+      "sizeSqm": 121,
+      "floor": {
+        "raw": "5",
+        "value": 5,
+        "isTop": false
+      },
+      "pricePerSqm": 6446,
+      "imageUrl": "https://www.next-estate.de/wp-content/uploads/resizer/resizer.php?w=700&src=../../uploads/photos/branch_a/21027_6ae8723f-59f7-47e3-b76a-46e40f31aff1.jpg",
+      "firstSeen": "2026-07-24",
+      "lastSeen": "2026-07-24",
+      "previousPrice": null
+    },
+    {
+      "id": "20961",
+      "url": "https://www.next-estate.de/en/buy/20961/kollwitzkiez-prenzlauer-berg-spectacular-penthouse-with-views-over-wasserturmplatz-and-high-end-finishes/",
+      "source": "nextestate",
+      "title": "Kollwitzkiez, Prenzlauer Berg: Spectacular penthouse with views over Wasserturmplatz and high-end finishes",
+      "status": "For Sale",
+      "neighborhood": "Prenzlauer Berg",
+      "price": 1995000,
+      "rooms": 3,
+      "sizeSqm": 150,
+      "floor": {
+        "raw": "5",
+        "value": 5,
+        "isTop": false
+      },
+      "pricePerSqm": 13300,
+      "imageUrl": "https://www.next-estate.de/wp-content/uploads/resizer/resizer.php?w=700&src=../../uploads/photos/branch_a/20961__271603.jpg",
+      "firstSeen": "2026-07-24",
+      "lastSeen": "2026-07-24",
+      "previousPrice": null
+    },
+    {
+      "id": "21057",
+      "url": "https://www.next-estate.de/en/buy/21057/work-life-style-223-m2-penthouse-loft-with-2-terraces-sauna-fitness-area-studio-apartment-amp-60-m2-of-additional-space-in-the-samariterviertel/",
+      "source": "nextestate",
+      "title": "Work. Life. Style. 223 m² Penthouse Loft with 2 Terraces, Sauna, Fitness Area, Studio Apartment & 60 m² of Additional Space in the Samariterviertel!",
+      "status": "For Sale",
+      "neighborhood": "Friedrichshain",
+      "price": 1499000,
+      "rooms": 4,
+      "sizeSqm": 224,
+      "floor": {
+        "raw": "5",
+        "value": 5,
+        "isTop": false
+      },
+      "pricePerSqm": 6692,
+      "imageUrl": "https://www.next-estate.de/wp-content/uploads/resizer/resizer.php?w=700&src=../../uploads/photos/branch_a/21057_a7375987-9a7a-499e-baa1-419700e8e3b3.jpg",
+      "firstSeen": "2026-07-24",
+      "lastSeen": "2026-07-24",
+      "previousPrice": null
+    },
+    {
+      "id": "20935",
+      "url": "https://www.next-estate.de/en/buy/20935/at-lausitzer-platz-kreuzberg-elegant-5-room-penthouse-apartment-with-south-terrace-and-custom-made-fittings/",
+      "source": "nextestate",
+      "title": "At Lausitzer Platz, Kreuzberg: Elegant 5-Room Penthouse Apartment with South Terrace and Custom-Made Fittings",
+      "status": "For Sale",
+      "neighborhood": "Kreuzberg",
+      "price": 1150000,
+      "rooms": 4,
+      "sizeSqm": 143,
+      "floor": {
+        "raw": "5",
+        "value": 5,
+        "isTop": false
+      },
+      "pricePerSqm": 8042,
+      "imageUrl": "https://www.next-estate.de/wp-content/uploads/resizer/resizer.php?w=700&src=../../uploads/photos/branch_a/20935__271023.jpg",
+      "firstSeen": "2026-07-24",
+      "lastSeen": "2026-07-24",
+      "previousPrice": null
+    },
+    {
+      "id": "20919",
+      "url": "https://www.next-estate.de/en/buy/20919/raabestrasse-prenzlauer-berg-duplex-penthouse-with-elevator-3-rooms-terrace-and-balcony-in-a-prime-location/",
+      "source": "nextestate",
+      "title": "Raabestraße, Prenzlauer Berg: Duplex penthouse with elevator, 3 rooms, terrace and balcony in a prime location",
+      "status": "For Sale",
+      "neighborhood": "Prenzlauer Berg",
+      "price": 849000,
+      "rooms": 3,
+      "sizeSqm": 99,
+      "floor": {
+        "raw": "5",
+        "value": 5,
+        "isTop": false
+      },
+      "pricePerSqm": 8576,
+      "imageUrl": "https://www.next-estate.de/wp-content/uploads/resizer/resizer.php?w=700&src=../../uploads/photos/branch_a/20919_f72609c2-40ab-4046-9b78-3233d13d7f12.jpg",
+      "firstSeen": "2026-07-24",
+      "lastSeen": "2026-07-24",
+      "previousPrice": null
+    },
+    {
+      "id": "20845",
+      "url": "https://www.next-estate.de/en/buy/20845/prenzlauer-berg-above-the-rooftops-of-the-winskiez-2-room-penthouse-terrace-views-of-greenery/",
+      "source": "nextestate",
+      "title": "Prenzlauer Berg, above the rooftops of the Winskiez: 2-room penthouse, terrace, views of greenery",
+      "status": "For Sale",
+      "neighborhood": "Prenzlauer Berg",
+      "price": 499000,
+      "rooms": 2,
+      "sizeSqm": 69,
+      "floor": {
+        "raw": "5",
+        "value": 5,
+        "isTop": false
+      },
+      "pricePerSqm": 7232,
+      "imageUrl": "https://www.next-estate.de/wp-content/uploads/resizer/resizer.php?w=700&src=../../uploads/photos/branch_a/20845_74953c51-ae16-47d3-8932-64fadcbb3b0e.jpg",
+      "firstSeen": "2026-07-24",
+      "lastSeen": "2026-07-24",
+      "previousPrice": null
+    },
+    {
+      "id": "20479",
+      "url": "https://www.next-estate.de/en/buy/20479/near-landwehr-canal-light-filled-3-room-top-floor-apartment-first-occupancy-elevator-3-terraces-district-heating-2-bathrooms/",
+      "source": "nextestate",
+      "title": "Near Landwehr Canal: Light-filled 3-room top-floor apartment, first occupancy, elevator, 3 terraces, district heating, 2 bathrooms",
+      "status": "For Sale",
+      "neighborhood": "Treptow Köpenick",
+      "price": 1127000,
+      "rooms": 3,
+      "sizeSqm": 136,
+      "floor": {
+        "raw": "5",
+        "value": 5,
+        "isTop": false
+      },
+      "pricePerSqm": 8287,
+      "imageUrl": "https://www.next-estate.de/wp-content/uploads/resizer/resizer.php?w=700&src=../../uploads/photos/branch_a/20479_63bed4b9-ea78-42e1-bfd3-3eeb00dff1c9.jpg",
+      "firstSeen": "2026-07-24",
+      "lastSeen": "2026-07-24",
+      "previousPrice": null
+    },
+    {
+      "id": "20859",
+      "url": "https://www.next-estate.de/en/buy/20859/near-the-landwehr-canal-4-room-penthouse-loft-brand-new-lift-terrace-district-heating-energy-efficiency-class-b/",
+      "source": "nextestate",
+      "title": "Near the Landwehr Canal: 4-room penthouse loft, brand new, lift, terrace, district heating, energy efficiency class B",
+      "status": "For Sale",
+      "neighborhood": "Treptow Köpenick",
+      "price": 1875000,
+      "rooms": 4,
+      "sizeSqm": 218,
+      "floor": {
+        "raw": "5",
+        "value": 5,
+        "isTop": false
+      },
+      "pricePerSqm": 8601,
+      "imageUrl": "https://www.next-estate.de/wp-content/uploads/resizer/resizer.php?w=700&src=../../uploads/photos/branch_a/20859_bceb65a3-9325-45db-991b-62d19f5ad52f.jpg",
+      "firstSeen": "2026-07-24",
+      "lastSeen": "2026-07-24",
+      "previousPrice": null
+    },
+    {
+      "id": "20481",
+      "url": "https://www.next-estate.de/en/buy/20481/close-to-the-canal-top-floor-apartment-lift-terrace-district-heating-underfloor-heating/",
+      "source": "nextestate",
+      "title": "Close to the canal: Top-floor apartment, lift, terrace, district heating, underfloor heating",
+      "status": "For Sale",
+      "neighborhood": "Treptow Köpenick",
+      "price": 857500,
+      "rooms": 2,
+      "sizeSqm": 103,
+      "floor": {
+        "raw": "5",
+        "value": 5,
+        "isTop": false
+      },
+      "pricePerSqm": 8325,
+      "imageUrl": "https://www.next-estate.de/wp-content/uploads/resizer/resizer.php?w=700&src=../../uploads/photos/branch_a/20481_6080eb12-97bc-4859-aded-c6a2b4e83ed9.jpg",
+      "firstSeen": "2026-07-24",
+      "lastSeen": "2026-07-24",
+      "previousPrice": null
+    },
+    {
+      "id": "19839",
+      "url": "https://www.next-estate.de/en/buy/19839/first-occupancy-in-kastanienallee-prenzlauer-berg-penthouse-5-room-elevator-terrace-ac-fireplace-amp-heat-pump/",
+      "source": "nextestate",
+      "title": "First Occupancy in Kastanienallee, Prenzlauer Berg: Penthouse, 5 Room, Elevator, Terrace, AC, Fireplace & Heat Pump",
+      "status": "For Sale",
+      "neighborhood": "Prenzlauer Berg",
+      "price": 2399000,
+      "rooms": 6,
+      "sizeSqm": 259,
+      "floor": {
+        "raw": "5",
+        "value": 5,
+        "isTop": false
+      },
+      "pricePerSqm": 9263,
+      "imageUrl": "https://www.next-estate.de/wp-content/uploads/resizer/resizer.php?w=700&src=../../uploads/photos/branch_a/19839__241065.jpg",
+      "firstSeen": "2026-07-24",
+      "lastSeen": "2026-07-24",
+      "previousPrice": null
+    },
+    {
+      "id": "17889",
+      "url": "https://www.next-estate.de/en/buy/17889/attic-duplex-with-fantastic-view-lift-terrace-and-high-quality-furnishings---between-mitte-and-prenzlauer-berg/",
+      "source": "nextestate",
+      "title": "Attic Duplex with fantastic view, lift, terrace and high-quality furnishings - between Mitte and Prenzlauer Berg",
+      "status": "For Sale",
+      "neighborhood": "Prenzlauer Berg",
+      "price": 2190000,
+      "rooms": 4,
+      "sizeSqm": 170,
+      "floor": {
+        "raw": "5",
+        "value": 5,
+        "isTop": false
+      },
+      "pricePerSqm": 12882,
+      "imageUrl": "https://www.next-estate.de/wp-content/uploads/resizer/resizer.php?w=700&src=../../uploads/photos/branch_a/17889_b3386059-be4b-43e2-bbc9-82e09c61de70.jpg",
+      "firstSeen": "2026-07-24",
+      "lastSeen": "2026-07-24",
+      "previousPrice": null
+    },
+    {
+      "id": "19183",
+      "url": "https://www.next-estate.de/en/buy/19183/first-time-occupancy-after-attic-conversion-5-rooms-elevator-southwest-facing-terrace-heat-pump-efficiency-class-a-loft-space---belgian-quarter/",
+      "source": "nextestate",
+      "title": "First-time occupancy after attic conversion: 5 rooms, elevator, southwest-facing terrace, heat pump, efficiency class A, loft space - Belgian Quarter",
+      "status": "For Sale",
+      "neighborhood": "Wedding",
+      "price": 1195000,
+      "rooms": 5,
+      "sizeSqm": 163,
+      "floor": {
+        "raw": "5",
+        "value": 5,
+        "isTop": false
+      },
+      "pricePerSqm": 7331,
+      "imageUrl": "https://www.next-estate.de/wp-content/uploads/resizer/resizer.php?w=700&src=../../uploads/photos/branch_a/19183_cb83a577-6e21-4e2c-a829-a58190c5f733.jpg",
+      "firstSeen": "2026-07-24",
+      "lastSeen": "2026-07-24",
+      "previousPrice": null
+    },
+    {
+      "id": "19173",
+      "url": "https://www.next-estate.de/en/buy/19173/first-occupancy-after-attic-expansion-4-rooms-elevator-southwest-facing-terrace-heat-pump-efficiency-class-a---belgian-quarte/",
+      "source": "nextestate",
+      "title": "First occupancy after attic expansion: 4 rooms, elevator, southwest-facing terrace, heat pump, efficiency class A - Belgian Quarte",
+      "status": "For Sale",
+      "neighborhood": "Wedding",
+      "price": 1100000,
+      "rooms": 4,
+      "sizeSqm": 140,
+      "floor": {
+        "raw": "5",
+        "value": 5,
+        "isTop": false
+      },
+      "pricePerSqm": 7857,
+      "imageUrl": "https://www.next-estate.de/wp-content/uploads/resizer/resizer.php?w=700&src=../../uploads/photos/branch_a/19173_109a6e23-c752-4714-af87-409846086d42.jpg",
+      "firstSeen": "2026-07-24",
+      "lastSeen": "2026-07-24",
+      "previousPrice": null
+    },
+    {
+      "id": "19179",
+      "url": "https://www.next-estate.de/en/buy/19179/first-occupancy-3-rooms-elevator-southwest-facing-terrace-heat-pump-efficiency-class-a---belgian-quarter/",
+      "source": "nextestate",
+      "title": "First occupancy: 3 rooms, elevator, southwest-facing terrace, heat pump, efficiency class A – Belgian Quarter",
+      "status": "For Sale",
+      "neighborhood": "Wedding",
+      "price": 899000,
+      "rooms": 3,
+      "sizeSqm": 120,
+      "floor": {
+        "raw": "5",
+        "value": 5,
+        "isTop": false
+      },
+      "pricePerSqm": 7492,
+      "imageUrl": "https://www.next-estate.de/wp-content/uploads/resizer/resizer.php?w=700&src=../../uploads/photos/branch_a/19179_38947e8f-3532-43d1-aeaf-5c9732543bc3.jpg",
+      "firstSeen": "2026-07-24",
+      "lastSeen": "2026-07-24",
+      "previousPrice": null
+    },
+    {
       "id": "gneisenaustrasse-16",
       "url": "https://www.fantasticfrank.com/en/berlin/property/gneisenaustrasse-16/",
       "title": "Gneisenaustrasse 16, Kreuzberg",
@@ -138,26 +685,6 @@
       },
       "pricePerSqm": 6649,
       "imageUrl": "https://res.cloudinary.com/dbi0cooxc/image/upload/f_jpg,q_70,w_1200,h_630,c_fill,g_auto/v1779914400/_V9A0483_yigjv0.jpg",
-      "firstSeen": "2026-07-23",
-      "lastSeen": "2026-07-23",
-      "previousPrice": null
-    },
-    {
-      "id": "am-zuckerberg",
-      "url": "https://www.fantasticfrank.com/en/berlin/property/am-zuckerberg/",
-      "title": "Am Zuckerberg, Köln - Agnesviertel",
-      "status": "For Sale",
-      "neighborhood": "Köln - Agnesviertel",
-      "price": 670000,
-      "rooms": 2.5,
-      "sizeSqm": 84,
-      "floor": {
-        "raw": "4th & 5th, front building",
-        "value": 4,
-        "isTop": false
-      },
-      "pricePerSqm": 7976,
-      "imageUrl": "https://res.cloudinary.com/dbi0cooxc/image/upload/f_jpg,q_70,w_1200,h_630,c_fill,g_auto/v1746297796/_MG_2835-Avec_accentuation-Bruit_jk9i23.jpg",
       "firstSeen": "2026-07-23",
       "lastSeen": "2026-07-23",
       "previousPrice": null
@@ -200,6 +727,216 @@
       "imageUrl": "https://res.cloudinary.com/dbi0cooxc/image/upload/f_jpg,q_70,w_1200,h_630,c_fill,g_auto/v1717748573/Unbenannttt_3_ouiiqw.png",
       "firstSeen": "2026-07-23",
       "lastSeen": "2026-07-23",
+      "previousPrice": null
+    },
+    {
+      "id": "21149",
+      "url": "https://www.next-estate.de/en/buy/21149/prenzlauer-berg-kastanienallee---280-sqm-factory-loft-mastic-asphalt-flooring-period-features-no-agency-fees/",
+      "source": "nextestate",
+      "title": "Prenzlauer Berg, Kastanienallee – 280 sqm factory loft, mastic asphalt flooring, period features, no agency fees",
+      "status": "For Sale",
+      "neighborhood": "Prenzlauer Berg",
+      "price": 1540000,
+      "rooms": 6,
+      "sizeSqm": 280,
+      "floor": {
+        "raw": "4",
+        "value": 4,
+        "isTop": false
+      },
+      "pricePerSqm": 5500,
+      "imageUrl": "https://www.next-estate.de/wp-content/uploads/resizer/resizer.php?w=700&src=../../uploads/photos/branch_a/21149_37c05da9-d478-447f-9b40-3c68c7bd8089.jpg",
+      "firstSeen": "2026-07-24",
+      "lastSeen": "2026-07-24",
+      "previousPrice": null
+    },
+    {
+      "id": "21143",
+      "url": "https://www.next-estate.de/en/buy/21143/helmholtzkiez-2-room-altbau-apartment-4th-floor-elevator-west-facing-balcony-designer-kitchen-bathroom-with-natural-light/",
+      "source": "nextestate",
+      "title": "Helmholtzkiez: 2-Room Altbau apartment, 4th floor, elevator, west-facing balcony, designer kitchen, bathroom with natural light",
+      "status": "For Sale",
+      "neighborhood": "Prenzlauer Berg",
+      "price": 649000,
+      "rooms": 2,
+      "sizeSqm": 75,
+      "floor": {
+        "raw": "4",
+        "value": 4,
+        "isTop": false
+      },
+      "pricePerSqm": 8653,
+      "imageUrl": "https://www.next-estate.de/wp-content/uploads/resizer/resizer.php?w=700&src=../../uploads/photos/branch_a/21143_a76cdd40-a56b-479e-8e8f-fbba246069cf.jpg",
+      "firstSeen": "2026-07-24",
+      "lastSeen": "2026-07-24",
+      "previousPrice": null
+    },
+    {
+      "id": "21069",
+      "url": "https://www.next-estate.de/en/buy/21069/living-in-the-avant-garde-taut-haus-on-engelbecken-a-5-room-apartment-with-a-large-balcony-and-unobstructed-views/",
+      "source": "nextestate",
+      "title": "Living in the avant-garde Taut-Haus on Engelbecken: a 5-room apartment with a large balcony and unobstructed views",
+      "status": "For Sale",
+      "neighborhood": "Mitte",
+      "price": 1690000,
+      "rooms": 5,
+      "sizeSqm": 175,
+      "floor": {
+        "raw": "4",
+        "value": 4,
+        "isTop": false
+      },
+      "pricePerSqm": 9657,
+      "imageUrl": "https://www.next-estate.de/wp-content/uploads/resizer/resizer.php?w=700&src=../../uploads/photos/branch_a/21069_d455e90f-fd17-4d41-ab38-6bff7f3cd935.jpg",
+      "firstSeen": "2026-07-24",
+      "lastSeen": "2026-07-24",
+      "previousPrice": null
+    },
+    {
+      "id": "20923",
+      "url": "https://www.next-estate.de/en/buy/20923/stargarder-strasse-helmholtzkiez-period-apartment-with-floorboards-kitchen-diner-and-potential-for-redesign/",
+      "source": "nextestate",
+      "title": "Stargarder Straße, Helmholtzkiez: Period apartment with floorboards, kitchen-diner and potential for redesign",
+      "status": "For Sale",
+      "neighborhood": "Prenzlauer Berg",
+      "price": 349000,
+      "rooms": 2,
+      "sizeSqm": 57,
+      "floor": {
+        "raw": "4",
+        "value": 4,
+        "isTop": false
+      },
+      "pricePerSqm": 6123,
+      "imageUrl": "https://www.next-estate.de/wp-content/uploads/resizer/resizer.php?w=700&src=../../uploads/photos/branch_a/20923_2cf0204b-faa3-43ee-a7b7-bfc3aff6e6a7.jpg",
+      "firstSeen": "2026-07-24",
+      "lastSeen": "2026-07-24",
+      "previousPrice": null
+    },
+    {
+      "id": "21125",
+      "url": "https://www.next-estate.de/en/buy/21125/first-row-maybachufer-charming-2-room-period-apartment-4th-floor-east-facing-loggia-bay-window-canal-view/",
+      "source": "nextestate",
+      "title": "First Row Maybachufer: Charming 2-Room Period Apartment, 4th Floor, East-Facing Loggia, Bay Window, Canal View",
+      "status": "For Sale",
+      "neighborhood": "Kreuzberg",
+      "price": 375000,
+      "rooms": 2,
+      "sizeSqm": 53,
+      "floor": {
+        "raw": "4",
+        "value": 4,
+        "isTop": false
+      },
+      "pricePerSqm": 7075,
+      "imageUrl": "https://www.next-estate.de/wp-content/uploads/resizer/resizer.php?w=700&src=../../uploads/photos/branch_a/21125__276489.jpg",
+      "firstSeen": "2026-07-24",
+      "lastSeen": "2026-07-24",
+      "previousPrice": null
+    },
+    {
+      "id": "21071",
+      "url": "https://www.next-estate.de/en/buy/21071/kollwitzstrasse--knaackstrasse-3-room-period-apartment-with-west-facing-balcony-and-fantastic-views/",
+      "source": "nextestate",
+      "title": "Kollwitzstraße / Knaackstraße: 3-room period apartment with west-facing balcony and fantastic views",
+      "status": "For Sale",
+      "neighborhood": "Prenzlauer Berg",
+      "price": 625000,
+      "rooms": 3,
+      "sizeSqm": 83,
+      "floor": {
+        "raw": "4",
+        "value": 4,
+        "isTop": false
+      },
+      "pricePerSqm": 7530,
+      "imageUrl": "https://www.next-estate.de/wp-content/uploads/resizer/resizer.php?w=700&src=../../uploads/photos/branch_a/21071_b212354c-cb1c-429b-910f-6759addde9b6.jpg",
+      "firstSeen": "2026-07-24",
+      "lastSeen": "2026-07-24",
+      "previousPrice": null
+    },
+    {
+      "id": "21039",
+      "url": "https://www.next-estate.de/en/buy/21039/choriner-strasse-berlin-mitte-classic-period-apartment-3-rooms-polished-floorboards-fitted-kitchen/",
+      "source": "nextestate",
+      "title": "Choriner Straße, Berlin-Mitte: Classic period apartment, 3 rooms, polished floorboards, fitted kitchen",
+      "status": "For Sale",
+      "neighborhood": "Mitte",
+      "price": 545000,
+      "rooms": 3,
+      "sizeSqm": 84,
+      "floor": {
+        "raw": "4",
+        "value": 4,
+        "isTop": false
+      },
+      "pricePerSqm": 6488,
+      "imageUrl": "https://www.next-estate.de/wp-content/uploads/resizer/resizer.php?w=700&src=../../uploads/photos/branch_a/21039_29e43f72-52fc-4373-a3ee-93e34cfcdea4.jpg",
+      "firstSeen": "2026-07-24",
+      "lastSeen": "2026-07-24",
+      "previousPrice": null
+    },
+    {
+      "id": "20483",
+      "url": "https://www.next-estate.de/en/buy/20483/close-to-landwehrkanal-4-room-loft-lift-first-time-use-4th-floor-balconies-district-heating-energy-efficiency-b/",
+      "source": "nextestate",
+      "title": "Close to Landwehrkanal: 4-room loft, lift, first-time-use, 4th floor, balconies, district heating, energy efficiency B",
+      "status": "For Sale",
+      "neighborhood": "Treptow Köpenick",
+      "price": 1850000,
+      "rooms": 4,
+      "sizeSqm": 218,
+      "floor": {
+        "raw": "4",
+        "value": 4,
+        "isTop": false
+      },
+      "pricePerSqm": 8486,
+      "imageUrl": "https://www.next-estate.de/wp-content/uploads/resizer/resizer.php?w=700&src=../../uploads/photos/branch_a/20483_4ce30fef-1716-4c9f-b950-2c7dc3aa81eb.jpg",
+      "firstSeen": "2026-07-24",
+      "lastSeen": "2026-07-24",
+      "previousPrice": null
+    },
+    {
+      "id": "20763",
+      "url": "https://www.next-estate.de/en/buy/20763/belgian-quarter-wedding-3-room-apartment-first-occupancy-after-renovation-4th-floor-balcony-lift-heat-pump/",
+      "source": "nextestate",
+      "title": "Belgian Quarter, Wedding: 3-room apartment, first occupancy after renovation, 4th floor, balcony, lift, heat pump",
+      "status": "For Sale",
+      "neighborhood": "Wedding",
+      "price": 599000,
+      "rooms": 3,
+      "sizeSqm": 87,
+      "floor": {
+        "raw": "4",
+        "value": 4,
+        "isTop": false
+      },
+      "pricePerSqm": 6885,
+      "imageUrl": "https://www.next-estate.de/wp-content/uploads/resizer/resizer.php?w=700&src=../../uploads/photos/branch_a/20763_b84b2f78-f7f9-4874-abb0-a2f51ff60d43.jpg",
+      "firstSeen": "2026-07-24",
+      "lastSeen": "2026-07-24",
+      "previousPrice": null
+    },
+    {
+      "id": "19711",
+      "url": "https://www.next-estate.de/en/buy/19711/richardkiez-neukolln-rixdorf-top-floor-maisonette-with-spectacular-southeast-terrace-3-rooms-2-bathrooms/",
+      "source": "nextestate",
+      "title": "Richardkiez, Neukölln Rixdorf: Top-floor maisonette with spectacular southeast-terrace, 3 rooms, 2 bathrooms",
+      "status": "For Sale",
+      "neighborhood": "Neukölln",
+      "price": 749000,
+      "rooms": 3,
+      "sizeSqm": 111,
+      "floor": {
+        "raw": "4",
+        "value": 4,
+        "isTop": false
+      },
+      "pricePerSqm": 6748,
+      "imageUrl": "https://www.next-estate.de/wp-content/uploads/resizer/resizer.php?w=700&src=../../uploads/photos/branch_a/19711_313cf5ed-c8bf-4501-ab41-2decf50071ca.jpg",
+      "firstSeen": "2026-07-24",
+      "lastSeen": "2026-07-24",
       "previousPrice": null
     },
     {
@@ -303,6 +1040,300 @@
       "previousPrice": null
     },
     {
+      "id": "21163",
+      "url": "https://www.next-estate.de/en/buy/21163/samariterkiez-friedrichshain-refurbished-2-room-period-apartment-with-south-facing-balcony-amp-lift/",
+      "source": "nextestate",
+      "title": "Samariterkiez, Friedrichshain: Refurbished 2-room period apartment with south-facing balcony & lift",
+      "status": "For Sale",
+      "neighborhood": "Friedrichshain",
+      "price": 526500,
+      "rooms": 2,
+      "sizeSqm": 83,
+      "floor": {
+        "raw": "3",
+        "value": 3,
+        "isTop": false
+      },
+      "pricePerSqm": 6343,
+      "imageUrl": "https://www.next-estate.de/wp-content/uploads/resizer/resizer.php?w=700&src=../../uploads/photos/branch_a/21163_6bb70cc9-770b-4e60-82da-2435f9e12a94.jpg",
+      "firstSeen": "2026-07-24",
+      "lastSeen": "2026-07-24",
+      "previousPrice": null
+    },
+    {
+      "id": "21103",
+      "url": "https://www.next-estate.de/en/buy/21103/between-wins--and-kollwitzkiez-2-room-apartment-with-historic-details-in-a-quiet-courtyard-setting/",
+      "source": "nextestate",
+      "title": "Between Wins- and Kollwitzkiez: 2-Room Apartment with Historic Details in a Quiet Courtyard Setting",
+      "status": "For Sale",
+      "neighborhood": "Prenzlauer Berg",
+      "price": 335000,
+      "rooms": 2,
+      "sizeSqm": 55,
+      "floor": {
+        "raw": "3",
+        "value": 3,
+        "isTop": false
+      },
+      "pricePerSqm": 6091,
+      "imageUrl": "https://www.next-estate.de/wp-content/uploads/resizer/resizer.php?w=700&src=../../uploads/photos/branch_a/21103_e67990e3-5e65-4b3f-a82f-f52f94002e6a.jpg",
+      "firstSeen": "2026-07-24",
+      "lastSeen": "2026-07-24",
+      "previousPrice": null
+    },
+    {
+      "id": "21067",
+      "url": "https://www.next-estate.de/en/buy/21067/refurbished-3-room-apartment-with-balcony-elevator-amp-parking-space-near-fritz-schloss-park/",
+      "source": "nextestate",
+      "title": "Refurbished 3-Room Apartment with Balcony, Elevator & Parking Space near Fritz-Schloß-Park",
+      "status": "For Sale",
+      "neighborhood": "Moabit",
+      "price": 449000,
+      "rooms": 3,
+      "sizeSqm": 70,
+      "floor": {
+        "raw": "3",
+        "value": 3,
+        "isTop": false
+      },
+      "pricePerSqm": 6414,
+      "imageUrl": "https://www.next-estate.de/wp-content/uploads/resizer/resizer.php?w=700&src=../../uploads/photos/branch_a/21067_5b03c344-d34f-4992-aef1-a2581a95f74a.jpg",
+      "firstSeen": "2026-07-24",
+      "lastSeen": "2026-07-24",
+      "previousPrice": null
+    },
+    {
+      "id": "20959",
+      "url": "https://www.next-estate.de/en/buy/20959/kollwitzkiez-beautiful-5-room-stucco-period-apartment-with-fireplace-west-facing-orientation-amp-views-of-the-wasserturm-tower/",
+      "source": "nextestate",
+      "title": "Kollwitzkiez: Beautiful 5-room stucco period apartment with fireplace, west-facing orientation & views of the Wasserturm Tower",
+      "status": "For Sale",
+      "neighborhood": "Prenzlauer Berg",
+      "price": 1349000,
+      "rooms": 5,
+      "sizeSqm": 159,
+      "floor": {
+        "raw": "3",
+        "value": 3,
+        "isTop": false
+      },
+      "pricePerSqm": 8484,
+      "imageUrl": "https://www.next-estate.de/wp-content/uploads/resizer/resizer.php?w=700&src=../../uploads/photos/branch_a/20959_a0e84b5b-7f87-4d9f-939f-047f6650f0b3.jpg",
+      "firstSeen": "2026-07-24",
+      "lastSeen": "2026-07-24",
+      "previousPrice": null
+    },
+    {
+      "id": "21075",
+      "url": "https://www.next-estate.de/en/buy/21075/simon-dach-kiez-renovated-2-room-historic-apartment-3rd-floor-with-lift-wooden-floorboards-french-balcony/",
+      "source": "nextestate",
+      "title": "Simon Dach Kiez: Renovated 2-room historic apartment, 3rd floor with lift, wooden floorboards, French balcony",
+      "status": "For Sale",
+      "neighborhood": "Friedrichshain",
+      "price": 325000,
+      "rooms": 2,
+      "sizeSqm": 52,
+      "floor": {
+        "raw": "3",
+        "value": 3,
+        "isTop": false
+      },
+      "pricePerSqm": 6250,
+      "imageUrl": "https://www.next-estate.de/wp-content/uploads/resizer/resizer.php?w=700&src=../../uploads/photos/branch_a/21075__275021.jpg",
+      "firstSeen": "2026-07-24",
+      "lastSeen": "2026-07-24",
+      "previousPrice": null
+    },
+    {
+      "id": "20983",
+      "url": "https://www.next-estate.de/en/buy/20983/at-arkonaplatz-stunning-loft-with-outstanding-features-balcony-elevator-panoramic-views-and-fireplace/",
+      "source": "nextestate",
+      "title": "At Arkonaplatz: Stunning loft with outstanding features, balcony, elevator, panoramic views and fireplace",
+      "status": "For Sale",
+      "neighborhood": "Mitte",
+      "price": 2195000,
+      "rooms": 4,
+      "sizeSqm": 185,
+      "floor": {
+        "raw": "3",
+        "value": 3,
+        "isTop": false
+      },
+      "pricePerSqm": 11865,
+      "imageUrl": "https://www.next-estate.de/wp-content/uploads/resizer/resizer.php?w=700&src=../../uploads/photos/branch_a/20983_5bd3d203-901c-4e9a-9dc7-0eeae636543e.jpg",
+      "firstSeen": "2026-07-24",
+      "lastSeen": "2026-07-24",
+      "previousPrice": null
+    },
+    {
+      "id": "21007",
+      "url": "https://www.next-estate.de/en/buy/21007/oranienburger-strasse-berlin-mitte-5-6-room-apartment-in-a-listed-period-building-with-many-historical-details/",
+      "source": "nextestate",
+      "title": "Oranienburger Straße, Berlin Mitte: 5–6 Room Apartment in a Listed Period Building with Many Historical Details",
+      "status": "For Sale",
+      "neighborhood": "Mitte",
+      "price": 1475000,
+      "rooms": 5,
+      "sizeSqm": 186,
+      "floor": {
+        "raw": "3",
+        "value": 3,
+        "isTop": false
+      },
+      "pricePerSqm": 7930,
+      "imageUrl": "https://www.next-estate.de/wp-content/uploads/resizer/resizer.php?w=700&src=../../uploads/photos/branch_a/21007__272799.jpg",
+      "firstSeen": "2026-07-24",
+      "lastSeen": "2026-07-24",
+      "previousPrice": null
+    },
+    {
+      "id": "21015",
+      "url": "https://www.next-estate.de/en/buy/21015/henselmann-ensemble-prenzlauer-berg-recently-modernized-and-bright-3-room-apartment-with-east-facing-balcony/",
+      "source": "nextestate",
+      "title": "Henselmann Ensemble, Prenzlauer Berg: recently modernized and bright 3-room apartment with east-facing balcony",
+      "status": "For Sale",
+      "neighborhood": "Prenzlauer Berg",
+      "price": 449000,
+      "rooms": 3,
+      "sizeSqm": 65,
+      "floor": {
+        "raw": "3",
+        "value": 3,
+        "isTop": false
+      },
+      "pricePerSqm": 6908,
+      "imageUrl": "https://www.next-estate.de/wp-content/uploads/resizer/resizer.php?w=700&src=../../uploads/photos/branch_a/21015__273097.jpg",
+      "firstSeen": "2026-07-24",
+      "lastSeen": "2026-07-24",
+      "previousPrice": null
+    },
+    {
+      "id": "20847",
+      "url": "https://www.next-estate.de/en/buy/20847/reichenberger-strasse-near-maybachufer-charming-period-apartment-3-rooms-wooden-floors-double-glazed-sash-windows/",
+      "source": "nextestate",
+      "title": "Reichenberger Straße, near Maybachufer: charming period apartment, 3 rooms, wooden floors, double-glazed sash windows",
+      "status": "For Sale",
+      "neighborhood": "Kreuzberg",
+      "price": 549000,
+      "rooms": 3,
+      "sizeSqm": 73,
+      "floor": {
+        "raw": "3",
+        "value": 3,
+        "isTop": false
+      },
+      "pricePerSqm": 7521,
+      "imageUrl": "https://www.next-estate.de/wp-content/uploads/resizer/resizer.php?w=700&src=../../uploads/photos/branch_a/20847_c2856291-7915-4c23-8381-60eb97745351.jpg",
+      "firstSeen": "2026-07-24",
+      "lastSeen": "2026-07-24",
+      "previousPrice": null
+    },
+    {
+      "id": "20805",
+      "url": "https://www.next-estate.de/en/buy/20805/botzowviertel-prenzlauer-berg---25-rooms-plus-eat-in-kitchen-approx-33-m-ceiling-height-wooden-floors-elevator-period-building/",
+      "source": "nextestate",
+      "title": "Bötzowviertel, Prenzlauer Berg – 2.5 rooms plus eat-in kitchen, approx. 3.3 m ceiling height, wooden floors, elevator, period building",
+      "status": "For Sale",
+      "neighborhood": "Prenzlauer Berg",
+      "price": 499000,
+      "rooms": 3.5,
+      "sizeSqm": 80,
+      "floor": {
+        "raw": "3",
+        "value": 3,
+        "isTop": false
+      },
+      "pricePerSqm": 6238,
+      "imageUrl": "https://www.next-estate.de/wp-content/uploads/resizer/resizer.php?w=700&src=../../uploads/photos/branch_a/20805_ed500c78-f8e6-483c-96ed-0667ab697595.jpg",
+      "firstSeen": "2026-07-24",
+      "lastSeen": "2026-07-24",
+      "previousPrice": null
+    },
+    {
+      "id": "20841",
+      "url": "https://www.next-estate.de/en/buy/20841/between-winskiez-and-kollwitzkiez-2-3-room-apartment-balcony-fitted-kitchen-overlooking-the-quiet-and-green-inner-courtyard/",
+      "source": "nextestate",
+      "title": "Between Winskiez and Kollwitzkiez: 2–3 room apartment, balcony, fitted kitchen, overlooking the quiet and green inner courtyard",
+      "status": "For Sale",
+      "neighborhood": "Prenzlauer Berg",
+      "price": 1045000,
+      "rooms": 3,
+      "sizeSqm": 117,
+      "floor": {
+        "raw": "3",
+        "value": 3,
+        "isTop": false
+      },
+      "pricePerSqm": 8932,
+      "imageUrl": "https://www.next-estate.de/wp-content/uploads/resizer/resizer.php?w=700&src=../../uploads/photos/branch_a/20841_86e18eeb-5176-4ed4-9c80-d5e0d9b0c34a.jpg",
+      "firstSeen": "2026-07-24",
+      "lastSeen": "2026-07-24",
+      "previousPrice": null
+    },
+    {
+      "id": "20909",
+      "url": "https://www.next-estate.de/en/buy/20909/hufelandstrasse-beautiful-3-room-apartment-balcony-district-heating-e-efficiency-b-custom-made-kitchen/",
+      "source": "nextestate",
+      "title": "Hufelandstraße: Beautiful 3-Room Apartment, Balcony, District Heating, E-Efficiency B, Custom-Made Kitchen",
+      "status": "For Sale",
+      "neighborhood": "Prenzlauer Berg",
+      "price": 649900,
+      "rooms": 3,
+      "sizeSqm": 81,
+      "floor": {
+        "raw": "3",
+        "value": 3,
+        "isTop": false
+      },
+      "pricePerSqm": 8023,
+      "imageUrl": "https://www.next-estate.de/wp-content/uploads/resizer/resizer.php?w=700&src=../../uploads/photos/branch_a/20909__270333.jpg",
+      "firstSeen": "2026-07-24",
+      "lastSeen": "2026-07-24",
+      "previousPrice": null
+    },
+    {
+      "id": "20887",
+      "url": "https://www.next-estate.de/en/buy/20887/chausseestrasse-mitte-2-room-new-build-apartment-in-living-108-3rd-floor-shared-terrace-elevator/",
+      "source": "nextestate",
+      "title": "Chausseestraße, Mitte: 2-room new-build apartment in “Living 108”, 3rd floor, shared terrace, elevator",
+      "status": "For Sale",
+      "neighborhood": "Mitte",
+      "price": 425000,
+      "rooms": 2,
+      "sizeSqm": 53,
+      "floor": {
+        "raw": "3",
+        "value": 3,
+        "isTop": false
+      },
+      "pricePerSqm": 8019,
+      "imageUrl": "https://www.next-estate.de/wp-content/uploads/resizer/resizer.php?w=700&src=../../uploads/photos/branch_a/20887__269611.jpg",
+      "firstSeen": "2026-07-24",
+      "lastSeen": "2026-07-24",
+      "previousPrice": null
+    },
+    {
+      "id": "20637",
+      "url": "https://www.next-estate.de/en/buy/20637/berlin-mitte-near-pergamon-museum-exclusive-2-room-designer-apartment-new-build-balcony-elevator/",
+      "source": "nextestate",
+      "title": "Berlin Mitte, near Pergamon Museum: Exclusive 2-Room Designer Apartment, New Build, Balcony, Elevator",
+      "status": "For Sale",
+      "neighborhood": "Mitte",
+      "price": 1095000,
+      "rooms": 2,
+      "sizeSqm": 111,
+      "floor": {
+        "raw": "3",
+        "value": 3,
+        "isTop": false
+      },
+      "pricePerSqm": 9865,
+      "imageUrl": "https://www.next-estate.de/wp-content/uploads/resizer/resizer.php?w=700&src=../../uploads/photos/branch_a/20637_a70b4ac0-85d3-4f6d-b815-8871307cf894.jpg",
+      "firstSeen": "2026-07-24",
+      "lastSeen": "2026-07-24",
+      "previousPrice": null
+    },
+    {
       "id": "suites-am-tacheles-1",
       "url": "https://www.fantasticfrank.com/en/berlin/property/suites-am-tacheles-1/",
       "title": "Suites am Tacheles, Mitte",
@@ -318,26 +1349,6 @@
       },
       "pricePerSqm": 13200,
       "imageUrl": "https://res.cloudinary.com/dbi0cooxc/image/upload/f_jpg,q_70,w_1200,h_630,c_fill,g_auto/v1780386881/_V9A1085_pciqy2.jpg",
-      "firstSeen": "2026-07-23",
-      "lastSeen": "2026-07-23",
-      "previousPrice": null
-    },
-    {
-      "id": "friedrichstrasse",
-      "url": "https://www.fantasticfrank.com/en/berlin/property/friedrichstrasse/",
-      "title": "Friedrichstrasse, Düsseldorf-Friedrichstadt",
-      "status": "For Sale",
-      "neighborhood": "Düsseldorf-Friedrichstadt",
-      "price": 1398000,
-      "rooms": 3,
-      "sizeSqm": 144,
-      "floor": {
-        "raw": "2nd",
-        "value": 2,
-        "isTop": false
-      },
-      "pricePerSqm": 9708,
-      "imageUrl": "https://res.cloudinary.com/dbi0cooxc/image/upload/f_jpg,q_70,w_1200,h_630,c_fill,g_auto/v1777053390/A_Bild_Whg_144_qm_guf9nl.jpg",
       "firstSeen": "2026-07-23",
       "lastSeen": "2026-07-23",
       "previousPrice": null
@@ -363,6 +1374,153 @@
       "previousPrice": null
     },
     {
+      "id": "21181",
+      "url": "https://www.next-estate.de/en/buy/21181/noldnerkiez-renovated-2-room-period-apartment-with-south-facing-balcony/",
+      "source": "nextestate",
+      "title": "Nöldnerkiez: Renovated 2-Room Period Apartment with South-Facing Balcony",
+      "status": "For Sale",
+      "neighborhood": null,
+      "price": 285000,
+      "rooms": 2,
+      "sizeSqm": 54,
+      "floor": {
+        "raw": "2",
+        "value": 2,
+        "isTop": false
+      },
+      "pricePerSqm": 5278,
+      "imageUrl": "https://www.next-estate.de/wp-content/uploads/resizer/resizer.php?w=700&src=../../uploads/photos/branch_a/21181_deddd36e-10a3-405e-b909-d2de1efd2d87.jpg",
+      "firstSeen": "2026-07-24",
+      "lastSeen": "2026-07-24",
+      "previousPrice": null
+    },
+    {
+      "id": "21063",
+      "url": "https://www.next-estate.de/en/buy/21063/pappelallee-prenzlauer-berg-bright-new-build-apartment-with-large-west-facing-balcony-lift-energy-rating-a/",
+      "source": "nextestate",
+      "title": "Pappelallee, Prenzlauer Berg: Bright new-build apartment with large west-facing balcony, lift, energy rating A",
+      "status": "For Sale",
+      "neighborhood": "Prenzlauer Berg",
+      "price": 649000,
+      "rooms": 3,
+      "sizeSqm": 82,
+      "floor": {
+        "raw": "2",
+        "value": 2,
+        "isTop": false
+      },
+      "pricePerSqm": 7915,
+      "imageUrl": "https://www.next-estate.de/wp-content/uploads/resizer/resizer.php?w=700&src=../../uploads/photos/branch_a/21063__274761.jpg",
+      "firstSeen": "2026-07-24",
+      "lastSeen": "2026-07-24",
+      "previousPrice": null
+    },
+    {
+      "id": "21023",
+      "url": "https://www.next-estate.de/en/buy/21023/near-rosa-luxemburg-platz-4-room-apartment-in-an-historic-building-2-bathrooms-elegantly-and-extensively-renovated/",
+      "source": "nextestate",
+      "title": "Near Rosa-Luxemburg-Platz: 4-room apartment in an historic building, 2 bathrooms, elegantly and extensively renovated",
+      "status": "For Sale",
+      "neighborhood": "Prenzlauer Berg",
+      "price": 849000,
+      "rooms": 4,
+      "sizeSqm": 118,
+      "floor": {
+        "raw": "2",
+        "value": 2,
+        "isTop": false
+      },
+      "pricePerSqm": 7195,
+      "imageUrl": "https://www.next-estate.de/wp-content/uploads/resizer/resizer.php?w=700&src=../../uploads/photos/branch_a/21023__273235.jpg",
+      "firstSeen": "2026-07-24",
+      "lastSeen": "2026-07-24",
+      "previousPrice": null
+    },
+    {
+      "id": "20991",
+      "url": "https://www.next-estate.de/en/buy/20991/friedrichshain-3-room-period-apartment-with-eat-in-kitchen-balcony-stucco-district-heating-quiet-location/",
+      "source": "nextestate",
+      "title": "Friedrichshain: 3-Room Period Apartment with Eat-In Kitchen, Balcony, Stucco, District Heating, Quiet Location",
+      "status": "For Sale",
+      "neighborhood": "Friedrichshain",
+      "price": 599000,
+      "rooms": 3,
+      "sizeSqm": 94,
+      "floor": {
+        "raw": "2",
+        "value": 2,
+        "isTop": false
+      },
+      "pricePerSqm": 6372,
+      "imageUrl": "https://www.next-estate.de/wp-content/uploads/resizer/resizer.php?w=700&src=../../uploads/photos/branch_a/20991__272441.jpg",
+      "firstSeen": "2026-07-24",
+      "lastSeen": "2026-07-24",
+      "previousPrice": null
+    },
+    {
+      "id": "20999",
+      "url": "https://www.next-estate.de/en/buy/20999/chausseestrasse-mitte-2-room-new-build-apartment-with-large-terrace-parking-space-and-high-quality-fittings/",
+      "source": "nextestate",
+      "title": "Chausseestraße, Mitte: 2-room new-build apartment with large terrace, parking space, and high-quality fittings",
+      "status": "For Sale",
+      "neighborhood": "Mitte",
+      "price": 645000,
+      "rooms": 2,
+      "sizeSqm": 87,
+      "floor": {
+        "raw": "2",
+        "value": 2,
+        "isTop": false
+      },
+      "pricePerSqm": 7414,
+      "imageUrl": "https://www.next-estate.de/wp-content/uploads/resizer/resizer.php?w=700&src=../../uploads/photos/branch_a/20999__272649.jpg",
+      "firstSeen": "2026-07-24",
+      "lastSeen": "2026-07-24",
+      "previousPrice": null
+    },
+    {
+      "id": "20713",
+      "url": "https://www.next-estate.de/en/buy/20713/view-of-zionskirche---project-sales-4-rooms-balcony-lift-first-occupancy-after-refurbishment/",
+      "source": "nextestate",
+      "title": "View of Zionskirche – Project Sales: 4 rooms, balcony, lift, first occupancy after refurbishment",
+      "status": "For Sale",
+      "neighborhood": "Mitte",
+      "price": 1639625,
+      "rooms": 4,
+      "sizeSqm": 131,
+      "floor": {
+        "raw": "2",
+        "value": 2,
+        "isTop": false
+      },
+      "pricePerSqm": 12516,
+      "imageUrl": "https://www.next-estate.de/wp-content/uploads/resizer/resizer.php?w=700&src=../../uploads/photos/branch_a/20713_d7cb708a-e351-44c5-b4d8-f9551f2e7fd0.jpg",
+      "firstSeen": "2026-07-24",
+      "lastSeen": "2026-07-24",
+      "previousPrice": null
+    },
+    {
+      "id": "20995",
+      "url": "https://www.next-estate.de/en/buy/20995/in-the-bergmannkiez-neighborhood-project-sales--first-occupancy-after-renovation-elevator-balcony/",
+      "source": "nextestate",
+      "title": "In the Bergmannkiez neighborhood: Project sales—first occupancy after renovation, elevator, balcony",
+      "status": "For Sale",
+      "neighborhood": "Kreuzberg",
+      "price": 559000,
+      "rooms": 3,
+      "sizeSqm": 69,
+      "floor": {
+        "raw": "2",
+        "value": 2,
+        "isTop": false
+      },
+      "pricePerSqm": 8101,
+      "imageUrl": "https://www.next-estate.de/wp-content/uploads/resizer/resizer.php?w=700&src=../../uploads/photos/branch_a/20995__272593.jpg",
+      "firstSeen": "2026-07-24",
+      "lastSeen": "2026-07-24",
+      "previousPrice": null
+    },
+    {
       "id": "luisenstadt-am-engelbecken",
       "url": "https://www.fantasticfrank.com/en/berlin/property/luisenstadt-am-engelbecken/",
       "title": "Luisenstadt am Engelbecken, Kreuzberg",
@@ -378,26 +1536,6 @@
       },
       "pricePerSqm": 8818,
       "imageUrl": "https://res.cloudinary.com/dbi0cooxc/image/upload/f_jpg,q_70,w_1200,h_630,c_fill,g_auto/v1777977272/_V9A5166_horizontal_rgyral.jpg",
-      "firstSeen": "2026-07-23",
-      "lastSeen": "2026-07-23",
-      "previousPrice": null
-    },
-    {
-      "id": "friedrichstrasse-1",
-      "url": "https://www.fantasticfrank.com/en/berlin/property/friedrichstrasse-1/",
-      "title": "Friedrichstrasse Duplex, Düsseldorf-Friedrichstadt",
-      "status": "For Sale",
-      "neighborhood": "Düsseldorf-Friedrichstadt",
-      "price": 2250000,
-      "rooms": 5,
-      "sizeSqm": 239,
-      "floor": {
-        "raw": "Ground & 1st floor",
-        "value": 1,
-        "isTop": false
-      },
-      "pricePerSqm": 9414,
-      "imageUrl": "https://res.cloudinary.com/dbi0cooxc/image/upload/f_jpg,q_70,w_1200,h_630,c_fill,g_auto/v1777053558/A_Bild_Whg_EG_o7fvda.jpg",
       "firstSeen": "2026-07-23",
       "lastSeen": "2026-07-23",
       "previousPrice": null
@@ -443,6 +1581,174 @@
       "previousPrice": null
     },
     {
+      "id": "21133",
+      "url": "https://www.next-estate.de/en/buy/21133/near-engelbecken-quiet-two-bedroom-apartment-in-the-rear-building-with-a-private-loggia/",
+      "source": "nextestate",
+      "title": "Near Engelbecken: Quiet Two-Bedroom Apartment in the Rear Building with a Private Loggia",
+      "status": "For Sale",
+      "neighborhood": "Mitte",
+      "price": 444000,
+      "rooms": 2,
+      "sizeSqm": 59,
+      "floor": {
+        "raw": "1",
+        "value": 1,
+        "isTop": false
+      },
+      "pricePerSqm": 7525,
+      "imageUrl": "https://www.next-estate.de/wp-content/uploads/resizer/resizer.php?w=700&src=../../uploads/photos/branch_a/21133_0fff4677-554b-42a2-8d18-808f9fee49ee.jpg",
+      "firstSeen": "2026-07-24",
+      "lastSeen": "2026-07-24",
+      "previousPrice": null
+    },
+    {
+      "id": "21091",
+      "url": "https://www.next-estate.de/en/buy/21091/schlegelstrasse-mitte-4-room-apartment-incl-parking-space-with-impressive-ceiling-height-on-the-raised-first-floor/",
+      "source": "nextestate",
+      "title": "Schlegelstraße, Mitte: 4-room apartment incl. parking space with impressive ceiling height on the raised first floor",
+      "status": "For Sale",
+      "neighborhood": "Mitte",
+      "price": 899000,
+      "rooms": 4,
+      "sizeSqm": 129,
+      "floor": {
+        "raw": "1",
+        "value": 1,
+        "isTop": false
+      },
+      "pricePerSqm": 6969,
+      "imageUrl": "https://www.next-estate.de/wp-content/uploads/resizer/resizer.php?w=700&src=../../uploads/photos/branch_a/21091__275671.jpg",
+      "firstSeen": "2026-07-24",
+      "lastSeen": "2026-07-24",
+      "previousPrice": null
+    },
+    {
+      "id": "21029",
+      "url": "https://www.next-estate.de/en/buy/21029/raabestrasse-charming-3-room-period-apartment-with-large-balcony-and-wooden-floorboards/",
+      "source": "nextestate",
+      "title": "Raabestraße: Charming 3-room period apartment with large balcony and wooden floorboards",
+      "status": "For Sale",
+      "neighborhood": "Prenzlauer Berg",
+      "price": 650000,
+      "rooms": 3,
+      "sizeSqm": 75,
+      "floor": {
+        "raw": "1",
+        "value": 1,
+        "isTop": false
+      },
+      "pricePerSqm": 8667,
+      "imageUrl": "https://www.next-estate.de/wp-content/uploads/resizer/resizer.php?w=700&src=../../uploads/photos/branch_a/21029_73d59d92-18bd-4203-92ae-9a3bacd71cb5.jpg",
+      "firstSeen": "2026-07-24",
+      "lastSeen": "2026-07-24",
+      "previousPrice": null
+    },
+    {
+      "id": "21037",
+      "url": "https://www.next-estate.de/en/buy/21037/prenzlauer-berg-near-volkspark-friedrichshain-4-room-apartment-in-a-new-building-two-balconies-lift-underground-car-park/",
+      "source": "nextestate",
+      "title": "Prenzlauer Berg, near Volkspark Friedrichshain: 4-room apartment in a new building, two balconies, lift, underground car park",
+      "status": "For Sale",
+      "neighborhood": "Prenzlauer Berg",
+      "price": 945000,
+      "rooms": 4,
+      "sizeSqm": 124,
+      "floor": {
+        "raw": "1",
+        "value": 1,
+        "isTop": false
+      },
+      "pricePerSqm": 7621,
+      "imageUrl": "https://www.next-estate.de/wp-content/uploads/resizer/resizer.php?w=700&src=../../uploads/photos/branch_a/21037_22ca713b-d551-4b91-94f4-a29a19410be9.jpg",
+      "firstSeen": "2026-07-24",
+      "lastSeen": "2026-07-24",
+      "previousPrice": null
+    },
+    {
+      "id": "20855",
+      "url": "https://www.next-estate.de/en/buy/20855/near-the-landwehr-canal-light-filled-4-room-flat-newly-renovated-lift-balcony-district-heating/",
+      "source": "nextestate",
+      "title": "Near the Landwehr Canal: Light-filled 4-room flat, newly renovated, lift, balcony, district heating",
+      "status": "For Sale",
+      "neighborhood": "Treptow Köpenick",
+      "price": 1290000,
+      "rooms": 4,
+      "sizeSqm": 162,
+      "floor": {
+        "raw": "1",
+        "value": 1,
+        "isTop": false
+      },
+      "pricePerSqm": 7963,
+      "imageUrl": "https://www.next-estate.de/wp-content/uploads/resizer/resizer.php?w=700&src=../../uploads/photos/branch_a/20855_517544a5-c829-4460-aa4f-11fa5ecda135.jpg",
+      "firstSeen": "2026-07-24",
+      "lastSeen": "2026-07-24",
+      "previousPrice": null
+    },
+    {
+      "id": "20825",
+      "url": "https://www.next-estate.de/en/buy/20825/henselmann-ensemble-prenzlauer-berg-well-designed-and-quiet-2-room-apartment-on-the-raised-ground-floor/",
+      "source": "nextestate",
+      "title": "Henselmann Ensemble, Prenzlauer Berg: Well-designed and quiet 2-room apartment on the raised ground floor",
+      "status": "For Sale",
+      "neighborhood": "Prenzlauer Berg",
+      "price": 275000,
+      "rooms": 2,
+      "sizeSqm": 55,
+      "floor": {
+        "raw": "1",
+        "value": 1,
+        "isTop": false
+      },
+      "pricePerSqm": 5000,
+      "imageUrl": "https://www.next-estate.de/wp-content/uploads/resizer/resizer.php?w=700&src=../../uploads/photos/branch_a/20825__268037.jpg",
+      "firstSeen": "2026-07-24",
+      "lastSeen": "2026-07-24",
+      "previousPrice": null
+    },
+    {
+      "id": "20583",
+      "url": "https://www.next-estate.de/en/buy/20583/schwedter-strasse-prenzlauer-berg-loft-with-elevator-balcony-underground-parking-space-included/",
+      "source": "nextestate",
+      "title": "Schwedter Straße, Prenzlauer Berg: loft with elevator, balcony, underground parking space included",
+      "status": "For Sale",
+      "neighborhood": "Prenzlauer Berg",
+      "price": 625000,
+      "rooms": 2,
+      "sizeSqm": 73,
+      "floor": {
+        "raw": "1",
+        "value": 1,
+        "isTop": false
+      },
+      "pricePerSqm": 8562,
+      "imageUrl": "https://www.next-estate.de/wp-content/uploads/resizer/resizer.php?w=700&src=../../uploads/photos/branch_a/20583_e046ebb9-28e5-4792-b4ae-f4b1a0e9b62a.jpg",
+      "firstSeen": "2026-07-24",
+      "lastSeen": "2026-07-24",
+      "previousPrice": null
+    },
+    {
+      "id": "20559",
+      "url": "https://www.next-estate.de/en/buy/20559/metzer-strasse-kollwitzkiez-4-room-apartment-garden-terrace-bay-window-2-bathrooms-nolte-fitted-kitchen-elevated-ground-floor/",
+      "source": "nextestate",
+      "title": "Metzer Straße, Kollwitzkiez: 4-room apartment, garden terrace, bay window, 2 bathrooms, Nolte fitted kitchen, elevated ground floor",
+      "status": "For Sale",
+      "neighborhood": "Prenzlauer Berg",
+      "price": 1045000,
+      "rooms": 4,
+      "sizeSqm": 128,
+      "floor": {
+        "raw": "1",
+        "value": 1,
+        "isTop": false
+      },
+      "pricePerSqm": 8164,
+      "imageUrl": "https://www.next-estate.de/wp-content/uploads/resizer/resizer.php?w=700&src=../../uploads/photos/branch_a/20559_d4684210-c662-4cca-919e-3ba63f413ce5.jpg",
+      "firstSeen": "2026-07-24",
+      "lastSeen": "2026-07-24",
+      "previousPrice": null
+    },
+    {
       "id": "christburger-strasse-48",
       "url": "https://www.fantasticfrank.com/en/berlin/property/christburger-strasse-48/",
       "title": "Christburger Strasse 48, Prenzlauer Berg",
@@ -460,6 +1766,48 @@
       "imageUrl": "https://res.cloudinary.com/dbi0cooxc/image/upload/f_jpg,q_70,w_1200,h_630,c_fill,g_auto/v1777965142/_V9A4679-2_igmu0h.jpg",
       "firstSeen": "2026-07-23",
       "lastSeen": "2026-07-23",
+      "previousPrice": null
+    },
+    {
+      "id": "20509",
+      "url": "https://www.next-estate.de/en/buy/20509/bergmannkiez-project-sale---garden-apartment-with-terrace-balcony-first-occupancy-after-refurbishment-3-rooms/",
+      "source": "nextestate",
+      "title": "Bergmannkiez: Project sale – garden apartment with terrace, balcony, first occupancy after refurbishment, 3 rooms",
+      "status": "For Sale",
+      "neighborhood": "Kreuzberg",
+      "price": 539000,
+      "rooms": 3,
+      "sizeSqm": 65,
+      "floor": {
+        "raw": "EG",
+        "value": 0,
+        "isTop": false
+      },
+      "pricePerSqm": 8292,
+      "imageUrl": "https://www.next-estate.de/wp-content/uploads/resizer/resizer.php?w=700&src=../../uploads/photos/branch_a/20509_0c781948-ae3a-493b-ab17-2308f3098c59.jpg",
+      "firstSeen": "2026-07-24",
+      "lastSeen": "2026-07-24",
+      "previousPrice": null
+    },
+    {
+      "id": "20413",
+      "url": "https://www.next-estate.de/en/buy/20413/choriner-strasse-versatile-commercial-unit-with-4-office-rooms-on-approx-121-m2---direct-street-access/",
+      "source": "nextestate",
+      "title": "Choriner Straße: Versatile commercial unit with 4 office rooms on approx. 121 m² – direct street access",
+      "status": "For Sale",
+      "neighborhood": "Prenzlauer Berg",
+      "price": 645000,
+      "rooms": 4,
+      "sizeSqm": 121,
+      "floor": {
+        "raw": "EG",
+        "value": 0,
+        "isTop": false
+      },
+      "pricePerSqm": 5331,
+      "imageUrl": "https://www.next-estate.de/wp-content/uploads/resizer/resizer.php?w=700&src=../../uploads/photos/branch_a/20413__256349.jpg",
+      "firstSeen": "2026-07-24",
+      "lastSeen": "2026-07-24",
       "previousPrice": null
     },
     {
@@ -540,6 +1888,132 @@
       "imageUrl": "https://res.cloudinary.com/dbi0cooxc/image/upload/f_jpg,q_70,w_1200,h_630,c_fill,g_auto/v1782463436/_Z8A9990_bxc90z.jpg",
       "firstSeen": "2026-07-23",
       "lastSeen": "2026-07-23",
+      "previousPrice": null
+    },
+    {
+      "id": "21169",
+      "url": "https://www.next-estate.de/en/buy/21169/samariterkiez-resfurbished-2-room-ground-floor-apartment-with-courtyard-views-and-a-small-terrace-amp-garden/",
+      "source": "nextestate",
+      "title": "Samariterkiez: Resfurbished 2-room ground-floor apartment with courtyard views and a small terrace & garden",
+      "status": "For Sale",
+      "neighborhood": "Friedrichshain",
+      "price": 389500,
+      "rooms": 2,
+      "sizeSqm": 69,
+      "floor": {
+        "raw": "",
+        "value": null,
+        "isTop": false
+      },
+      "pricePerSqm": 5645,
+      "imageUrl": "https://www.next-estate.de/wp-content/uploads/resizer/resizer.php?w=700&src=../../uploads/photos/branch_a/21169_9fc7b06a-f2fd-4079-85bf-5ff24f9c0fd8.jpg",
+      "firstSeen": "2026-07-24",
+      "lastSeen": "2026-07-24",
+      "previousPrice": null
+    },
+    {
+      "id": "21129",
+      "url": "https://www.next-estate.de/en/buy/21129/at-paul-lincke-ufer-kreuzberg-charming-and-quiet-1-room-period-apartment-with-exposed-brickwork/",
+      "source": "nextestate",
+      "title": "At Paul-Lincke-Ufer, Kreuzberg: Charming and Quiet 1-Room Period Apartment with Exposed Brickwork",
+      "status": "For Sale",
+      "neighborhood": "Kreuzberg",
+      "price": 198000,
+      "rooms": 1,
+      "sizeSqm": 38,
+      "floor": {
+        "raw": "",
+        "value": null,
+        "isTop": false
+      },
+      "pricePerSqm": 5211,
+      "imageUrl": "https://www.next-estate.de/wp-content/uploads/resizer/resizer.php?w=700&src=../../uploads/photos/branch_a/21129_cdb9ab26-232d-45a4-930b-4953083e6511.jpg",
+      "firstSeen": "2026-07-24",
+      "lastSeen": "2026-07-24",
+      "previousPrice": null
+    },
+    {
+      "id": "20461",
+      "url": "https://www.next-estate.de/en/buy/20461/eichendorffstr-berlin----mitte-refurbished-3-room-apartment-fitted-kitchen-green-view/",
+      "source": "nextestate",
+      "title": "Eichendorffstr. Berlin - Mitte: Refurbished 3-Room Apartment, Fitted Kitchen, Green View",
+      "status": "For Sale",
+      "neighborhood": "Mitte",
+      "price": 575000,
+      "rooms": 3,
+      "sizeSqm": 71,
+      "floor": {
+        "raw": "",
+        "value": null,
+        "isTop": false
+      },
+      "pricePerSqm": 8099,
+      "imageUrl": "https://www.next-estate.de/wp-content/uploads/resizer/resizer.php?w=700&src=../../uploads/photos/branch_a/20461_a57223b3-1599-4586-a713-a921311f858c.jpg",
+      "firstSeen": "2026-07-24",
+      "lastSeen": "2026-07-24",
+      "previousPrice": null
+    },
+    {
+      "id": "21049",
+      "url": "https://www.next-estate.de/en/buy/21049/rummelsburger-bucht-architect-designed-townhouse-at-medaillonpark-with-garden-roof-terrace-and-parking-space/",
+      "source": "nextestate",
+      "title": "Rummelsburger Bucht: Architect-designed townhouse at Medaillonpark with garden, roof terrace and parking space",
+      "status": "For Sale",
+      "neighborhood": "Rummelsburg",
+      "price": 1890000,
+      "rooms": 6,
+      "sizeSqm": 250,
+      "floor": {
+        "raw": "",
+        "value": null,
+        "isTop": false
+      },
+      "pricePerSqm": 7560,
+      "imageUrl": "https://www.next-estate.de/wp-content/uploads/resizer/resizer.php?w=700&src=../../uploads/photos/branch_a/21049_3a1c708d-23a0-4ad0-8351-4d2a0e41ffc8.jpg",
+      "firstSeen": "2026-07-24",
+      "lastSeen": "2026-07-24",
+      "previousPrice": null
+    },
+    {
+      "id": "21055",
+      "url": "https://www.next-estate.de/en/buy/21055/samariterkiez-friedrichshain-versatile-ground-floor-apartment-high-ceilings-stucco-detailing/",
+      "source": "nextestate",
+      "title": "Samariterkiez, Friedrichshain: versatile ground-floor apartment, high ceilings, stucco detailing",
+      "status": "For Sale",
+      "neighborhood": "Friedrichshain",
+      "price": 299000,
+      "rooms": 2,
+      "sizeSqm": 79,
+      "floor": {
+        "raw": "",
+        "value": null,
+        "isTop": false
+      },
+      "pricePerSqm": 3785,
+      "imageUrl": "https://www.next-estate.de/wp-content/uploads/resizer/resizer.php?w=700&src=../../uploads/photos/branch_a/21055_a0219b06-e5d6-4d60-96b4-6990c9d22881.jpg",
+      "firstSeen": "2026-07-24",
+      "lastSeen": "2026-07-24",
+      "previousPrice": null
+    },
+    {
+      "id": "20171",
+      "url": "https://www.next-estate.de/en/buy/20171/berlin-spandau-flexible-residential-complex-with-garden---renovated-dream-home-with-potential-for-expansion---approx-800-m2-plot---energy-efficient-quiet-location/",
+      "source": "nextestate",
+      "title": "Berlin-Spandau: Flexible residential complex with garden – renovated dream home with potential for expansion – approx. 800 m² plot – energy-efficient, quiet location",
+      "status": "For Sale",
+      "neighborhood": null,
+      "price": 1950000,
+      "rooms": 10,
+      "sizeSqm": 626,
+      "floor": {
+        "raw": "",
+        "value": null,
+        "isTop": false
+      },
+      "pricePerSqm": 3115,
+      "imageUrl": "https://www.next-estate.de/wp-content/uploads/resizer/resizer.php?w=700&src=../../uploads/photos/branch_a/20171_8a1233f4-91a9-4748-ad9d-f5d628f4e9e1.jpg",
+      "firstSeen": "2026-07-24",
+      "lastSeen": "2026-07-24",
       "previousPrice": null
     }
   ]

@@ -9,9 +9,12 @@ export type Floor = {
   isTop: boolean;
 };
 
+export type Source = "fantasticfrank" | "nextestate";
+
 export type Listing = {
   id: string; // slug from the detail URL, e.g. "suarezstrasse-12"
   url: string;
+  source: Source; // which agency this listing came from
   title: string;
   status: string; // "For Sale" | "Coming Soon" (Sold/Reserved are filtered out)
   neighborhood: string | null; // Berlin district
@@ -20,7 +23,7 @@ export type Listing = {
   sizeSqm: number | null;
   floor: Floor;
   pricePerSqm: number | null; // computed from price / sizeSqm
-  imageUrl: string | null; // one representative image (Cloudinary CDN)
+  imageUrl: string | null; // one representative image (hotlinked from the source CDN)
   firstSeen: string; // ISO date, carried forward across runs
   lastSeen: string; // ISO date of the run that last saw it
   previousPrice: number | null; // price at the previous run, for drop detection

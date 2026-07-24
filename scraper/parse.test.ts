@@ -7,6 +7,7 @@ import {
   parseSize,
   pricePerSqm,
   parseNeighborhood,
+  isNonBerlin,
   slugFromUrl,
 } from "./parse.js";
 
@@ -106,4 +107,12 @@ test("slugFromUrl", () => {
     slugFromUrl("https://www.fantasticfrank.com/en/berlin/property/suarezstrasse-12/"),
     "suarezstrasse-12",
   );
+});
+
+test("isNonBerlin: drops other German cities, keeps Berlin districts", () => {
+  assert.equal(isNonBerlin("Düsseldorf-Friedrichstadt"), true);
+  assert.equal(isNonBerlin("Köln - Agnesviertel"), true);
+  assert.equal(isNonBerlin("Prenzlauer Berg"), false);
+  assert.equal(isNonBerlin("Mitte"), false);
+  assert.equal(isNonBerlin(null), false);
 });

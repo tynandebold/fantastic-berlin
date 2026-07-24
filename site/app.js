@@ -9,11 +9,40 @@ const state = {
     neighborhood: "",
     maxPpsqm: "",
     minRooms: "",
+    source: "",
     newOnly: false,
   },
 };
 
 const euro = new Intl.NumberFormat("de-DE");
+
+const SOURCE_LABELS = {
+  fantasticfrank: "Fantastic Frank",
+  nextestate: "Next Estate",
+};
+
+const SOURCE_ABBR = {
+  fantasticfrank: "FF",
+  nextestate: "NE",
+};
+
+// Prefer the explicit field, but infer from the URL host so rows written before
+// the `source` field existed still tag correctly.
+function sourceKey(l) {
+  if (l.source) {
+    return l.source;
+  }
+
+  return l.url.includes("next-estate.de") ? "nextestate" : "fantasticfrank";
+}
+
+function sourceLabel(l) {
+  return SOURCE_LABELS[sourceKey(l)] ?? "—";
+}
+
+function sourceAbbr(l) {
+  return SOURCE_ABBR[sourceKey(l)] ?? "?";
+}
 
 function formatPrice(n) {
   if (n == null) {
@@ -85,6 +114,10 @@ function passesFilters(l) {
     if (l.rooms == null || l.rooms < Number(f.minRooms)) {
       return false;
     }
+  }
+
+  if (f.source && sourceKey(l) !== f.source) {
+    return false;
   }
 
   if (f.newOnly && !isNew(l)) {
@@ -166,8 +199,11 @@ function card(l) {
         <div class="badges">${badges.join("")}</div>
       </div>
       <div class="body">
-        <div class="addr">${l.title}</div>
-        <div class="hood">${l.neighborhood ?? "Berlin"}</div>
+        <div class="addr" title="${l.title}">${l.title}</div>
+        <div class="hood">
+          <span class="hood-name">${l.neighborhood ?? "Berlin"}</span>
+          <span class="src src-${sourceKey(l)}" title="${sourceLabel(l)}">${sourceAbbr(l)}</span>
+        </div>
         <div class="stats">
           <div class="stat">
             <span class="v ${l.sizeSqm == null ? "muted" : ""}">${l.sizeSqm != null ? l.sizeSqm + " m²" : "—"}</span>
@@ -230,15 +266,17 @@ function wireControls() {
   bind("neighborhood", "neighborhood");
   bind("maxPpsqm", "maxPpsqm");
   bind("minRooms", "minRooms");
+  bind("source", "source");
   bind("newOnly", "newOnly", true);
 
   document.getElementById("reset").addEventListener("click", () => {
-    state.filters = { sort: "floor", minFloor: "", neighborhood: "", maxPpsqm: "", minRooms: "", newOnly: false };
+    state.filters = { sort: "floor", minFloor: "", neighborhood: "", maxPpsqm: "", minRooms: "", source: "", newOnly: false };
     document.getElementById("sort").value = "floor";
     document.getElementById("minFloor").value = "";
     document.getElementById("neighborhood").value = "";
     document.getElementById("maxPpsqm").value = "";
     document.getElementById("minRooms").value = "";
+    document.getElementById("source").value = "";
     document.getElementById("newOnly").checked = false;
     render();
   });

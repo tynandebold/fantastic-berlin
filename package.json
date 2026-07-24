@@ -3,14 +3,17 @@
   "version": "0.1.0",
   "private": true,
   "type": "module",
-  "description": "A faster, floor-first view of Fantastic Frank Berlin for-sale listings.",
+  "description": "A faster, floor-first view of Berlin for-sale listings (Fantastic Frank + next-estate).",
   "scripts": {
-    "scrape": "tsx scraper/scrape.ts",
+    "scrape": "npm run scrape:ne && npm run scrape:ff",
+    "scrape:ff": "tsx scraper/scrape.ts",
+    "scrape:ne": "tsx scraper/ne-scrape.ts",
     "build:site": "node -e \"require('fs').copyFileSync('data/listings.json','site/listings.json')\"",
     "serve": "npm run build:site && python3 -m http.server 8799 --directory site",
     "test": "tsx --test scraper/*.test.ts"
   },
   "dependencies": {
+    "node-html-parser": "^7.1.0",
     "playwright": "^1.61.1",
     "playwright-extra": "^4.3.6",
     "puppeteer-extra-plugin-stealth": "^2.11.2",

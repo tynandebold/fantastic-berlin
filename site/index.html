@@ -3,8 +3,8 @@
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>Fantastic Berlin — floor-first listings</title>
-    <meta name="description" content="A faster, floor-first view of Fantastic Frank Berlin for-sale listings." />
+    <title>Altitude · Berlin apartments, floor-first</title>
+    <meta name="description" content="A faster, floor-first view of Berlin for-sale listings from Fantastic Frank and Next Estate." />
     <link rel="shortcut icon" type="image/x-icon" href="./favicon.ico" />
     <link rel="preconnect" href="https://res.cloudinary.com" />
     <link rel="preload" href="./fonts/source-code-pro-v11-latin-regular.woff2" as="font" type="font/woff2" crossorigin />
@@ -15,13 +15,10 @@
     <header class="site-header">
       <div class="wrap">
         <div class="title-row">
-          <h1>Fantastic Berlin</h1>
-          <a class="source" href="https://www.fantasticfrank.com/en/berlin/for-sale/" target="_blank" rel="noopener">
-            source ↗
-          </a>
+          <h1>Altitude</h1>
         </div>
         <p class="tagline">
-          The same properties, sorted by what matters. Higher floors first.
+          Berlin apartments, highest floors first.
           <span id="meta" class="meta"></span>
         </p>
       </div>
@@ -57,6 +54,15 @@
         <label class="control">
           <span>Neighborhood</span>
           <select id="neighborhood"><option value="">All</option></select>
+        </label>
+
+        <label class="control">
+          <span>Source</span>
+          <select id="source">
+            <option value="">All</option>
+            <option value="fantasticfrank">Fantastic Frank</option>
+            <option value="nextestate">Next Estate</option>
+          </select>
         </label>
 
         <label class="control">
@@ -99,8 +105,10 @@
 
     <footer class="wrap footer">
       <p>
-        Not affiliated with Fantastic Frank. Data mirrored from their public listings for personal use.
-        Click any card to open the original listing.
+        Not affiliated with either agency. Listings mirrored from their public pages for personal use;
+        click any card to open the original. Sources:
+        <a href="https://www.fantasticfrank.com/en/berlin/for-sale/" target="_blank" rel="noopener">Fantastic Frank ↗</a>,
+        <a href="https://www.next-estate.de/en/buy/" target="_blank" rel="noopener">Next Estate ↗</a>.
       </p>
     </footer>
 

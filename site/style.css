@@ -105,15 +105,13 @@ h1 {
   text-transform: uppercase;
 }
 
-.source {
+.footer a {
   color: var(--ink-2);
   text-decoration: none;
-  font-size: 13px;
   border-bottom: 1px solid var(--line-strong);
-  padding-bottom: 1px;
 }
 
-.source:hover {
+.footer a:hover {
   color: var(--accent);
   border-color: var(--accent);
 }
@@ -194,7 +192,6 @@ h1 {
 }
 
 .reset {
-  margin-left: auto;
   background: transparent;
   color: var(--ink-2);
   border: 1px solid var(--line-strong);
@@ -351,24 +348,54 @@ h1 {
 
 /* Card body */
 .body {
+  flex: 1; /* fill the card so the price row can pin to the bottom */
   padding: 14px 16px 16px;
   display: flex;
   flex-direction: column;
   gap: 10px;
 }
 
+/* Clamp to two lines so titles of different lengths occupy the same height,
+   which keeps the stats and price rows aligned across cards. */
 .addr {
   font-size: 16px;
   font-weight: 600;
   line-height: 1.3;
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 2;
+  line-clamp: 2;
+  overflow: hidden;
+  min-height: calc(1.3em * 2);
 }
 
 .hood {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 10px;
   color: var(--muted);
   font-size: 12.5px;
   text-transform: uppercase;
   letter-spacing: 0.07em;
   margin-top: -4px;
+}
+
+.hood-name {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+/* Source chip: which agency the listing came from */
+.src {
+  flex-shrink: 0;
+  font-size: 11px;
+  letter-spacing: 0.05em;
+  color: var(--ink-2);
+  border: 1px solid var(--line-strong);
+  padding: 2px 7px;
+  white-space: nowrap;
 }
 
 .stats {
@@ -403,6 +430,7 @@ h1 {
 }
 
 .price-row {
+  margin-top: auto; /* pin to the bottom so prices line up across cards */
   display: flex;
   align-items: baseline;
   justify-content: space-between;

@@ -2,8 +2,7 @@
 // filter out Sold/Reserved -> merge with the previous run -> write listings.json.
 // Run: npm run scrape   (FF_LIMIT=5 to sample, HEADLESS=1 to try headless)
 
-import { readFileSync, writeFileSync, mkdirSync } from "node:fs";
-import { dirname, resolve } from "node:path";
+import { resolve, dirname } from "node:path";
 import { fileURLToPath } from "node:url";
 
 import { launchSession, gotoCleared } from "./browser.js";
@@ -18,9 +17,11 @@ import {
   pricePerSqm,
   slugFromUrl,
 } from "./parse.js";
-import type { Listing, ListingsFile } from "./types.js";
+import { loadPreviousByUrl, mergeAndWrite } from "./store.js";
+import type { Listing } from "./types.js";
 
 const INDEX_URL = "https://www.fantasticfrank.com/en/berlin/for-sale/";
+const HOST = "www.fantasticfrank.com";
 const OUT_PATH = resolve(dirname(fileURLToPath(import.meta.url)), "../data/listings.json");
 
 // Statuses the user does not want to see.
@@ -79,6 +80,7 @@ function toListing(
   return {
     id: slug,
     url,
+    source: "fantasticfrank",
     title,
     status,
     neighborhood: neighborhood || null,
@@ -94,27 +96,10 @@ function toListing(
   };
 }
 
-// Floor first (the whole point): isTop, then higher number, then unknowns last.
-function sortListings(list: Listing[]): Listing[] {
-  const rank = (l: Listing) => (l.floor.isTop ? 1000 + (l.floor.value ?? 0) : l.floor.value ?? -1000);
-
-  return [...list].sort((a, b) => rank(b) - rank(a));
-}
-
-function loadPrevious(): Map<string, Listing> {
-  try {
-    const parsed = JSON.parse(readFileSync(OUT_PATH, "utf8")) as ListingsFile;
-
-    return new Map(parsed.listings.map((l) => [l.url, l]));
-  } catch {
-    return new Map();
-  }
-}
-
 async function main() {
   const limit = process.env.FF_LIMIT ? Number(process.env.FF_LIMIT) : Infinity;
   const today = new Date().toISOString().slice(0, 10);
-  const previous = loadPrevious();
+  const previous = loadPreviousByUrl(OUT_PATH);
 
   // Sitemap gives a url -> image fallback (open, no checkpoint).
   const imageByUrl = new Map<string, string | null>();
@@ -177,28 +162,18 @@ async function main() {
     await session.close();
   }
 
-  // Sanity guards: fail loudly rather than publish a broken/empty site.
-  if (kept.length === 0) {
-    throw new Error("scraped 0 listings — aborting (site left unchanged)");
-  }
-
-  if (previous.size > 0 && kept.length < previous.size * 0.5) {
-    throw new Error(
-      `listing count dropped from ${previous.size} to ${kept.length} (>50%) — aborting as suspicious`,
-    );
-  }
-
-  const out: ListingsFile = {
-    generatedAt: new Date().toISOString(),
-    count: kept.length,
-    listings: sortListings(kept),
-  };
-
-  mkdirSync(dirname(OUT_PATH), { recursive: true });
-  writeFileSync(OUT_PATH, JSON.stringify(out, null, 2));
+  // Merge into the shared file (keeps next-estate rows untouched), with the
+  // sanity guards scoped to this source. Fails loudly rather than publish junk.
+  const { total, others } = mergeAndWrite({
+    source: "fantasticfrank",
+    host: HOST,
+    fresh: kept,
+    outPath: OUT_PATH,
+  });
 
   console.log(
-    `[scrape] wrote ${kept.length} listings (${excludedCount} excluded) to ${OUT_PATH}`,
+    `[scrape] wrote ${kept.length} Fantastic Frank listings (${excludedCount} excluded); ` +
+      `${others} other-source rows preserved; ${total} total in ${OUT_PATH}`,
   );
 }
 

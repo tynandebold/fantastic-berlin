@@ -225,6 +225,41 @@ export function parseNeighborhood(...sources: (string | null | undefined)[]): st
   return null;
 }
 
+// Non-Berlin German cities that occasionally leak into the feeds (Fantastic
+// Frank cross-lists a few Düsseldorf/Köln properties). A listing whose district
+// names one of these is not in Berlin, so the site drops it. Matched against the
+// neighborhood only (not the title) to avoid false hits on Berlin street names
+// like "Düsseldorfer Straße".
+const NON_BERLIN_CITIES = [
+  "Düsseldorf",
+  "Dusseldorf",
+  "Köln",
+  "Koeln",
+  "Cologne",
+  "Hamburg",
+  "München",
+  "Muenchen",
+  "Munich",
+  "Frankfurt",
+  "Stuttgart",
+  "Leipzig",
+  "Dresden",
+  "Hannover",
+  "Bremen",
+  "Nürnberg",
+  "Nuremberg",
+];
+
+export function isNonBerlin(neighborhood: string | null | undefined): boolean {
+  if (!neighborhood) {
+    return false;
+  }
+
+  const lower = neighborhood.toLowerCase();
+
+  return NON_BERLIN_CITIES.some((c) => lower.includes(c.toLowerCase()));
+}
+
 // "https://.../en/berlin/property/suarezstrasse-12/" -> "suarezstrasse-12"
 export function slugFromUrl(url: string): string {
   const trimmed = url.replace(/\/+$/, "");
