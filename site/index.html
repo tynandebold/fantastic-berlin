@@ -24,8 +24,11 @@
       </div>
     </header>
 
-    <div class="toolbar">
-      <div class="wrap toolbar-inner">
+    <div class="toolbar" id="toolbar">
+      <button class="filter-toggle" id="filterToggle" type="button" aria-controls="toolbarInner" aria-expanded="false">
+        Filters
+      </button>
+      <div class="wrap toolbar-inner" id="toolbarInner">
         <label class="control">
           <span>Sort</span>
           <select id="sort">

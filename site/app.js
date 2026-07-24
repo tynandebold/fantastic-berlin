@@ -280,6 +280,16 @@ function wireControls() {
     document.getElementById("newOnly").checked = false;
     render();
   });
+
+  // Mobile: collapse the filters behind a toggle so they don't wall off the list.
+  const toggle = document.getElementById("filterToggle");
+  const toolbar = document.getElementById("toolbar");
+
+  toggle.addEventListener("click", () => {
+    const open = toolbar.classList.toggle("open");
+
+    toggle.setAttribute("aria-expanded", String(open));
+  });
 }
 
 async function loadData() {
