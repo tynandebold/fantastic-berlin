@@ -88,30 +88,47 @@ async function main() {
   console.log(`[ne] ${cards.length} listings on the index`);
 
   const listings: Listing[] = [];
+  let fetchedCount = 0;
 
   for (const [i, card] of cards.entries()) {
-    let floorRaw: string | null = null;
+    const prev = previous.get(card.url);
 
-    // Only the floor needs the detail page; a failed fetch just leaves floor
-    // unknown (sorts last) rather than dropping an otherwise-complete listing.
-    try {
-      const facts = parseDetailFacts(await fetchHtml(card.url));
-      floorRaw = facts["Floor Level"] ?? null;
-    } catch (err) {
-      console.warn(`  [${i + 1}/${cards.length}] detail failed ${card.url}: ${(err as Error).message}`);
+    // The floor never changes and is the ONLY field the detail page adds — every
+    // other field comes from the index we just re-read (so price drops are still
+    // caught). Reuse a known floor and only hit the detail page for new listings,
+    // or ones whose floor a prior run failed to get.
+    const haveFloor = prev != null && (prev.floor.value != null || prev.floor.isTop);
+
+    let floorRaw: string | null = prev?.floor.raw ?? null;
+    let note = "reused floor";
+
+    if (!haveFloor) {
+      note = "fetched";
+      fetchedCount++;
+
+      // A failed fetch just leaves floor unknown (sorts last) rather than
+      // dropping an otherwise-complete listing.
+      try {
+        const facts = parseDetailFacts(await fetchHtml(card.url));
+        floorRaw = facts["Floor Level"] ?? null;
+      } catch (err) {
+        console.warn(`  [${i + 1}/${cards.length}] detail failed ${card.url}: ${(err as Error).message}`);
+      }
+
+      // Politeness delay only when we actually hit the detail page.
+      await sleep(600);
     }
 
-    const listing = toListing(card, floorRaw, previous.get(card.url), today);
+    const listing = toListing(card, floorRaw, prev, today);
     listings.push(listing);
 
     console.log(
-      `  [${i + 1}/${cards.length}] ${listing.id} — floor=${listing.floor.raw || "?"} ` +
+      `  [${i + 1}/${cards.length}] ${listing.id} — floor=${listing.floor.raw || "?"} (${note}) ` +
         `€${listing.price ?? "?"} ${listing.sizeSqm ?? "?"}m² ${listing.neighborhood ?? "?"}`,
     );
-
-    // Politeness delay between detail fetches.
-    await sleep(600);
   }
+
+  console.log(`[ne] detail fetches this run: ${fetchedCount}/${cards.length} (the rest reused a stored floor)`);
 
   const { total, mine, others } = mergeAndWrite({
     source: "nextestate",
