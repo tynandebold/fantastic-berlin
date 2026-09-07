@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-23T11:58:37.141Z",
-  "count": 96,
+  "generatedAt": "2026-09-07T08:29:36.523Z",
+  "count": 100,
   "listings": [
     {
       "id": "bevernstrasse-2",
@@ -9,7 +9,7 @@
       "title": "Bevernstrasse 2, Kreuzberg",
       "status": "For Sale",
       "neighborhood": "Kreuzberg",
-      "price": 1498000,
+      "price": 1495000,
       "rooms": 4,
       "sizeSqm": 155,
       "floor": {
@@ -17,10 +17,10 @@
         "value": 6,
         "isTop": true
       },
-      "pricePerSqm": 9665,
+      "pricePerSqm": 9645,
       "imageUrl": "https://res.cloudinary.com/dbi0cooxc/image/upload/f_jpg,q_70,w_1200,h_630,c_fill,g_auto/v1781682867/_V9A3757_jkn52r.jpg",
       "firstSeen": "2026-07-23",
-      "lastSeen": "2026-08-23",
+      "lastSeen": "2026-09-07",
       "previousPrice": 1498000
     },
     {
@@ -41,7 +41,7 @@
       "pricePerSqm": 8533,
       "imageUrl": "https://res.cloudinary.com/dbi0cooxc/image/upload/f_jpg,q_70,w_1200,h_630,c_fill,g_auto/v1783113758/_V9A6768A-4_yvkq23.jpg",
       "firstSeen": "2026-07-23",
-      "lastSeen": "2026-08-23",
+      "lastSeen": "2026-09-07",
       "previousPrice": 785000
     },
     {
@@ -60,10 +60,10 @@
         "isTop": true
       },
       "pricePerSqm": 6728,
-      "imageUrl": "https://www.next-estate.de/wp-content/uploads/resizer/resizer.php?w=700&src=../../uploads/photos/branch_a/21201_d3b48c26-ef35-46f2-ab00-f0ff7ae91afb.jpg",
+      "imageUrl": "https://www.next-estate.de/wp-content/uploads/resizer/resizer.php?w=700&src=../../uploads/photos/branch_b/21201_d3b48c26-ef35-46f2-ab00-f0ff7ae91afb.jpg",
       "firstSeen": "2026-08-23",
-      "lastSeen": "2026-08-23",
-      "previousPrice": null
+      "lastSeen": "2026-09-07",
+      "previousPrice": 545000
     },
     {
       "id": "21019",
@@ -81,9 +81,9 @@
         "isTop": true
       },
       "pricePerSqm": 7302,
-      "imageUrl": "https://www.next-estate.de/wp-content/uploads/resizer/resizer.php?w=700&src=../../uploads/photos/branch_a/21019__273149.jpg",
+      "imageUrl": "https://www.next-estate.de/wp-content/uploads/resizer/resizer.php?w=700&src=../../uploads/photos/branch_b/21019__273149.jpg",
       "firstSeen": "2026-07-24",
-      "lastSeen": "2026-08-23",
+      "lastSeen": "2026-09-07",
       "previousPrice": 460000
     },
     {
@@ -93,7 +93,7 @@
       "title": "Rubensstrasse 98, Friedenau",
       "status": "For Sale",
       "neighborhood": "Friedenau",
-      "price": 675000,
+      "price": 670000,
       "rooms": 4,
       "sizeSqm": 90,
       "floor": {
@@ -101,11 +101,11 @@
         "value": null,
         "isTop": true
       },
-      "pricePerSqm": 7500,
+      "pricePerSqm": 7444,
       "imageUrl": "https://res.cloudinary.com/dbi0cooxc/image/upload/f_jpg,q_70,w_1200,h_630,c_fill,g_auto/v1777360729/_V9A3549_zdptya.jpg",
       "firstSeen": "2026-08-23",
-      "lastSeen": "2026-08-23",
-      "previousPrice": null
+      "lastSeen": "2026-09-07",
+      "previousPrice": 675000
     },
     {
       "id": "20155",
@@ -123,9 +123,9 @@
         "isTop": false
       },
       "pricePerSqm": 12179,
-      "imageUrl": "https://www.next-estate.de/wp-content/uploads/resizer/resizer.php?w=700&src=../../uploads/photos/branch_a/20155__249509.jpg",
+      "imageUrl": "https://www.next-estate.de/wp-content/uploads/resizer/resizer.php?w=700&src=../../uploads/photos/branch_b/20155__249509.jpg",
       "firstSeen": "2026-07-24",
-      "lastSeen": "2026-08-23",
+      "lastSeen": "2026-09-07",
       "previousPrice": 1425000
     },
     {
@@ -144,9 +144,9 @@
         "isTop": false
       },
       "pricePerSqm": 11979,
-      "imageUrl": "https://www.next-estate.de/wp-content/uploads/resizer/resizer.php?w=700&src=../../uploads/photos/branch_a/21111_7270315e-0a87-441e-9eba-b32b0b831fa8.jpg",
+      "imageUrl": "https://www.next-estate.de/wp-content/uploads/resizer/resizer.php?w=700&src=../../uploads/photos/branch_b/21111_7270315e-0a87-441e-9eba-b32b0b831fa8.jpg",
       "firstSeen": "2026-07-24",
-      "lastSeen": "2026-08-23",
+      "lastSeen": "2026-09-07",
       "previousPrice": 1150000
     },
     {
@@ -165,9 +165,9 @@
         "isTop": false
       },
       "pricePerSqm": 8700,
-      "imageUrl": "https://www.next-estate.de/wp-content/uploads/resizer/resizer.php?w=700&src=../../uploads/photos/branch_a/20605__261399.jpg",
+      "imageUrl": "https://www.next-estate.de/wp-content/uploads/resizer/resizer.php?w=700&src=../../uploads/photos/branch_b/20605__261399.jpg",
       "firstSeen": "2026-07-24",
-      "lastSeen": "2026-08-23",
+      "lastSeen": "2026-09-07",
       "previousPrice": 609000
     },
     {
@@ -186,10 +186,10 @@
         "isTop": false
       },
       "pricePerSqm": 10885,
-      "imageUrl": "https://www.next-estate.de/wp-content/uploads/resizer/resizer.php?w=700&src=../../uploads/photos/branch_a/19315_5f4a5bba-6f32-48b8-a29d-456467d1fcd5.jpg",
+      "imageUrl": "https://www.next-estate.de/wp-content/uploads/resizer/resizer.php?w=700&src=../../uploads/photos/branch_b/19315_5f4a5bba-6f32-48b8-a29d-456467d1fcd5.jpg",
       "firstSeen": "2026-07-24",
-      "lastSeen": "2026-08-23",
-      "previousPrice": 899000
+      "lastSeen": "2026-09-07",
+      "previousPrice": 849000
     },
     {
       "id": "19313",
@@ -207,10 +207,52 @@
         "isTop": false
       },
       "pricePerSqm": 10513,
-      "imageUrl": "https://www.next-estate.de/wp-content/uploads/resizer/resizer.php?w=700&src=../../uploads/photos/branch_a/19313_f0ff2620-84c1-4c13-b2f5-ed245a09417a.jpg",
+      "imageUrl": "https://www.next-estate.de/wp-content/uploads/resizer/resizer.php?w=700&src=../../uploads/photos/branch_b/19313_f0ff2620-84c1-4c13-b2f5-ed245a09417a.jpg",
       "firstSeen": "2026-07-24",
-      "lastSeen": "2026-08-23",
-      "previousPrice": 899000
+      "lastSeen": "2026-09-07",
+      "previousPrice": 799000
+    },
+    {
+      "id": "21289",
+      "url": "https://www.next-estate.de/en/buy/21289/gaudystrasse-prenzlauer-berg---spacious-top-floor-apartment-with-park-views-and-south-facing-terrace/",
+      "source": "nextestate",
+      "title": "Gaudystraße, Prenzlauer Berg – Spacious Top-Floor Apartment with Park Views and South-Facing Terrace",
+      "status": "For Sale",
+      "neighborhood": "Prenzlauer Berg",
+      "price": 624500,
+      "rooms": 3,
+      "sizeSqm": 67,
+      "floor": {
+        "raw": "5",
+        "value": 5,
+        "isTop": false
+      },
+      "pricePerSqm": 9321,
+      "imageUrl": "https://www.next-estate.de/wp-content/uploads/resizer/resizer.php?w=700&src=../../uploads/photos/branch_b/21289_e6aca2f6-d623-450a-9a4d-db9815664083.jpg",
+      "firstSeen": "2026-09-07",
+      "lastSeen": "2026-09-07",
+      "previousPrice": null
+    },
+    {
+      "id": "21191",
+      "url": "https://www.next-estate.de/en/buy/21191/pro25-i-penthouse-i-privileged-living-in-the-samariterkiez/",
+      "source": "nextestate",
+      "title": "Pro25 I Penthouse I Privileged Living in the Samariterkiez",
+      "status": "For Sale",
+      "neighborhood": "Friedrichshain",
+      "price": 1475000,
+      "rooms": 4,
+      "sizeSqm": 224,
+      "floor": {
+        "raw": "5",
+        "value": 5,
+        "isTop": false
+      },
+      "pricePerSqm": 6585,
+      "imageUrl": "https://www.next-estate.de/wp-content/uploads/resizer/resizer.php?w=700&src=../../uploads/photos/branch_b/21191_160604c5-f423-493d-b95a-4682dfd93bf7.jpg",
+      "firstSeen": "2026-09-07",
+      "lastSeen": "2026-09-07",
+      "previousPrice": null
     },
     {
       "id": "21147",
@@ -228,9 +270,9 @@
         "isTop": false
       },
       "pricePerSqm": 8993,
-      "imageUrl": "https://www.next-estate.de/wp-content/uploads/resizer/resizer.php?w=700&src=../../uploads/photos/branch_a/21147_aab15dd9-ef49-4282-857c-d3176f763c52.jpg",
+      "imageUrl": "https://www.next-estate.de/wp-content/uploads/resizer/resizer.php?w=700&src=../../uploads/photos/branch_b/21147_aab15dd9-ef49-4282-857c-d3176f763c52.jpg",
       "firstSeen": "2026-07-24",
-      "lastSeen": "2026-08-23",
+      "lastSeen": "2026-09-07",
       "previousPrice": 1250000
     },
     {
@@ -249,9 +291,9 @@
         "isTop": false
       },
       "pricePerSqm": 8048,
-      "imageUrl": "https://www.next-estate.de/wp-content/uploads/resizer/resizer.php?w=700&src=../../uploads/photos/branch_a/21137_825aa316-72e6-45d2-ae88-d67e2ffb36ad.jpg",
+      "imageUrl": "https://www.next-estate.de/wp-content/uploads/resizer/resizer.php?w=700&src=../../uploads/photos/branch_b/21137_825aa316-72e6-45d2-ae88-d67e2ffb36ad.jpg",
       "firstSeen": "2026-07-24",
-      "lastSeen": "2026-08-23",
+      "lastSeen": "2026-09-07",
       "previousPrice": 499000
     },
     {
@@ -270,52 +312,10 @@
         "isTop": false
       },
       "pricePerSqm": 6781,
-      "imageUrl": "https://www.next-estate.de/wp-content/uploads/resizer/resizer.php?w=700&src=../../uploads/photos/branch_a/21155_15064456-59e5-44c7-8b4f-e228d1468135.jpg",
+      "imageUrl": "https://www.next-estate.de/wp-content/uploads/resizer/resizer.php?w=700&src=../../uploads/photos/branch_b/21155_15064456-59e5-44c7-8b4f-e228d1468135.jpg",
       "firstSeen": "2026-07-24",
-      "lastSeen": "2026-08-23",
+      "lastSeen": "2026-09-07",
       "previousPrice": 495000
-    },
-    {
-      "id": "21197",
-      "url": "https://www.next-estate.de/en/buy/21197/pro25-i-penthouse-i-privileged-living-in-the-samariterkiez/",
-      "source": "nextestate",
-      "title": "Pro25 I Penthouse I Privileged Living in the Samariterkiez",
-      "status": "For Sale",
-      "neighborhood": "Friedrichshain",
-      "price": 1475000,
-      "rooms": 4,
-      "sizeSqm": 224,
-      "floor": {
-        "raw": "5",
-        "value": 5,
-        "isTop": false
-      },
-      "pricePerSqm": 6585,
-      "imageUrl": "https://www.next-estate.de/wp-content/uploads/resizer/resizer.php?w=700&src=../../uploads/photos/branch_a/21197__278469.jpg",
-      "firstSeen": "2026-08-03",
-      "lastSeen": "2026-08-23",
-      "previousPrice": 1475000
-    },
-    {
-      "id": "20961",
-      "url": "https://www.next-estate.de/en/buy/20961/kollwitzkiez-prenzlauer-berg-spectacular-penthouse-with-views-over-wasserturmplatz-and-high-end-finishes/",
-      "source": "nextestate",
-      "title": "Kollwitzkiez, Prenzlauer Berg: Spectacular penthouse with views over Wasserturmplatz and high-end finishes",
-      "status": "For Sale",
-      "neighborhood": "Prenzlauer Berg",
-      "price": 1995000,
-      "rooms": 3,
-      "sizeSqm": 150,
-      "floor": {
-        "raw": "5",
-        "value": 5,
-        "isTop": false
-      },
-      "pricePerSqm": 13300,
-      "imageUrl": "https://www.next-estate.de/wp-content/uploads/resizer/resizer.php?w=700&src=../../uploads/photos/branch_a/20961__271603.jpg",
-      "firstSeen": "2026-07-24",
-      "lastSeen": "2026-08-23",
-      "previousPrice": 1995000
     },
     {
       "id": "21087",
@@ -333,9 +333,9 @@
         "isTop": false
       },
       "pricePerSqm": 6765,
-      "imageUrl": "https://www.next-estate.de/wp-content/uploads/resizer/resizer.php?w=700&src=../../uploads/photos/branch_a/21087_21cb19bf-0d7e-4f0f-aa30-b087718c8c3a.jpg",
+      "imageUrl": "https://www.next-estate.de/wp-content/uploads/resizer/resizer.php?w=700&src=../../uploads/photos/branch_b/21087_21cb19bf-0d7e-4f0f-aa30-b087718c8c3a.jpg",
       "firstSeen": "2026-07-24",
-      "lastSeen": "2026-08-23",
+      "lastSeen": "2026-09-07",
       "previousPrice": 1150000
     },
     {
@@ -354,9 +354,9 @@
         "isTop": false
       },
       "pricePerSqm": 7833,
-      "imageUrl": "https://www.next-estate.de/wp-content/uploads/resizer/resizer.php?w=700&src=../../uploads/photos/branch_a/21081_eb73707f-25c4-47eb-80e3-9187b737799f.jpg",
+      "imageUrl": "https://www.next-estate.de/wp-content/uploads/resizer/resizer.php?w=700&src=../../uploads/photos/branch_b/21081_eb73707f-25c4-47eb-80e3-9187b737799f.jpg",
       "firstSeen": "2026-07-24",
-      "lastSeen": "2026-08-23",
+      "lastSeen": "2026-09-07",
       "previousPrice": 799000
     },
     {
@@ -375,9 +375,9 @@
         "isTop": false
       },
       "pricePerSqm": 6446,
-      "imageUrl": "https://www.next-estate.de/wp-content/uploads/resizer/resizer.php?w=700&src=../../uploads/photos/branch_a/21027_6ae8723f-59f7-47e3-b76a-46e40f31aff1.jpg",
+      "imageUrl": "https://www.next-estate.de/wp-content/uploads/resizer/resizer.php?w=700&src=../../uploads/photos/branch_b/21027_6ae8723f-59f7-47e3-b76a-46e40f31aff1.jpg",
       "firstSeen": "2026-07-24",
-      "lastSeen": "2026-08-23",
+      "lastSeen": "2026-09-07",
       "previousPrice": 780000
     },
     {
@@ -396,9 +396,9 @@
         "isTop": false
       },
       "pricePerSqm": 8042,
-      "imageUrl": "https://www.next-estate.de/wp-content/uploads/resizer/resizer.php?w=700&src=../../uploads/photos/branch_a/20935__271023.jpg",
+      "imageUrl": "https://www.next-estate.de/wp-content/uploads/resizer/resizer.php?w=700&src=../../uploads/photos/branch_b/20935__271023.jpg",
       "firstSeen": "2026-07-24",
-      "lastSeen": "2026-08-23",
+      "lastSeen": "2026-09-07",
       "previousPrice": 1150000
     },
     {
@@ -417,9 +417,9 @@
         "isTop": false
       },
       "pricePerSqm": 8576,
-      "imageUrl": "https://www.next-estate.de/wp-content/uploads/resizer/resizer.php?w=700&src=../../uploads/photos/branch_a/20919_f72609c2-40ab-4046-9b78-3233d13d7f12.jpg",
+      "imageUrl": "https://www.next-estate.de/wp-content/uploads/resizer/resizer.php?w=700&src=../../uploads/photos/branch_b/20919_f72609c2-40ab-4046-9b78-3233d13d7f12.jpg",
       "firstSeen": "2026-07-24",
-      "lastSeen": "2026-08-23",
+      "lastSeen": "2026-09-07",
       "previousPrice": 849000
     },
     {
@@ -438,9 +438,9 @@
         "isTop": false
       },
       "pricePerSqm": 7232,
-      "imageUrl": "https://www.next-estate.de/wp-content/uploads/resizer/resizer.php?w=700&src=../../uploads/photos/branch_a/20845_74953c51-ae16-47d3-8932-64fadcbb3b0e.jpg",
+      "imageUrl": "https://www.next-estate.de/wp-content/uploads/resizer/resizer.php?w=700&src=../../uploads/photos/branch_b/20845_74953c51-ae16-47d3-8932-64fadcbb3b0e.jpg",
       "firstSeen": "2026-07-24",
-      "lastSeen": "2026-08-23",
+      "lastSeen": "2026-09-07",
       "previousPrice": 499000
     },
     {
@@ -459,9 +459,9 @@
         "isTop": false
       },
       "pricePerSqm": 8287,
-      "imageUrl": "https://www.next-estate.de/wp-content/uploads/resizer/resizer.php?w=700&src=../../uploads/photos/branch_a/20479_63bed4b9-ea78-42e1-bfd3-3eeb00dff1c9.jpg",
+      "imageUrl": "https://www.next-estate.de/wp-content/uploads/resizer/resizer.php?w=700&src=../../uploads/photos/branch_b/20479_63bed4b9-ea78-42e1-bfd3-3eeb00dff1c9.jpg",
       "firstSeen": "2026-07-24",
-      "lastSeen": "2026-08-23",
+      "lastSeen": "2026-09-07",
       "previousPrice": 1127000
     },
     {
@@ -480,9 +480,9 @@
         "isTop": false
       },
       "pricePerSqm": 8601,
-      "imageUrl": "https://www.next-estate.de/wp-content/uploads/resizer/resizer.php?w=700&src=../../uploads/photos/branch_a/20859_bceb65a3-9325-45db-991b-62d19f5ad52f.jpg",
+      "imageUrl": "https://www.next-estate.de/wp-content/uploads/resizer/resizer.php?w=700&src=../../uploads/photos/branch_b/20859_bceb65a3-9325-45db-991b-62d19f5ad52f.jpg",
       "firstSeen": "2026-07-24",
-      "lastSeen": "2026-08-23",
+      "lastSeen": "2026-09-07",
       "previousPrice": 1875000
     },
     {
@@ -501,9 +501,9 @@
         "isTop": false
       },
       "pricePerSqm": 8325,
-      "imageUrl": "https://www.next-estate.de/wp-content/uploads/resizer/resizer.php?w=700&src=../../uploads/photos/branch_a/20481_6080eb12-97bc-4859-aded-c6a2b4e83ed9.jpg",
+      "imageUrl": "https://www.next-estate.de/wp-content/uploads/resizer/resizer.php?w=700&src=../../uploads/photos/branch_b/20481_6080eb12-97bc-4859-aded-c6a2b4e83ed9.jpg",
       "firstSeen": "2026-07-24",
-      "lastSeen": "2026-08-23",
+      "lastSeen": "2026-09-07",
       "previousPrice": 857500
     },
     {
@@ -522,9 +522,9 @@
         "isTop": false
       },
       "pricePerSqm": 9263,
-      "imageUrl": "https://www.next-estate.de/wp-content/uploads/resizer/resizer.php?w=700&src=../../uploads/photos/branch_a/19839__241065.jpg",
+      "imageUrl": "https://www.next-estate.de/wp-content/uploads/resizer/resizer.php?w=700&src=../../uploads/photos/branch_b/19839__241065.jpg",
       "firstSeen": "2026-07-24",
-      "lastSeen": "2026-08-23",
+      "lastSeen": "2026-09-07",
       "previousPrice": 2399000
     },
     {
@@ -543,9 +543,9 @@
         "isTop": false
       },
       "pricePerSqm": 12882,
-      "imageUrl": "https://www.next-estate.de/wp-content/uploads/resizer/resizer.php?w=700&src=../../uploads/photos/branch_a/17889_b3386059-be4b-43e2-bbc9-82e09c61de70.jpg",
+      "imageUrl": "https://www.next-estate.de/wp-content/uploads/resizer/resizer.php?w=700&src=../../uploads/photos/branch_b/17889_b3386059-be4b-43e2-bbc9-82e09c61de70.jpg",
       "firstSeen": "2026-07-24",
-      "lastSeen": "2026-08-23",
+      "lastSeen": "2026-09-07",
       "previousPrice": 2190000
     },
     {
@@ -564,31 +564,10 @@
         "isTop": false
       },
       "pricePerSqm": 7331,
-      "imageUrl": "https://www.next-estate.de/wp-content/uploads/resizer/resizer.php?w=700&src=../../uploads/photos/branch_a/19183_cb83a577-6e21-4e2c-a829-a58190c5f733.jpg",
+      "imageUrl": "https://www.next-estate.de/wp-content/uploads/resizer/resizer.php?w=700&src=../../uploads/photos/branch_b/19183_cb83a577-6e21-4e2c-a829-a58190c5f733.jpg",
       "firstSeen": "2026-07-24",
-      "lastSeen": "2026-08-23",
+      "lastSeen": "2026-09-07",
       "previousPrice": 1195000
-    },
-    {
-      "id": "19173",
-      "url": "https://www.next-estate.de/en/buy/19173/first-occupancy-after-attic-expansion-4-rooms-elevator-southwest-facing-terrace-heat-pump-efficiency-class-a---belgian-quarte/",
-      "source": "nextestate",
-      "title": "First occupancy after attic expansion: 4 rooms, elevator, southwest-facing terrace, heat pump, efficiency class A - Belgian Quarte",
-      "status": "For Sale",
-      "neighborhood": "Wedding",
-      "price": 1100000,
-      "rooms": 4,
-      "sizeSqm": 140,
-      "floor": {
-        "raw": "5",
-        "value": 5,
-        "isTop": false
-      },
-      "pricePerSqm": 7857,
-      "imageUrl": "https://www.next-estate.de/wp-content/uploads/resizer/resizer.php?w=700&src=../../uploads/photos/branch_a/19173_109a6e23-c752-4714-af87-409846086d42.jpg",
-      "firstSeen": "2026-07-24",
-      "lastSeen": "2026-08-23",
-      "previousPrice": 1100000
     },
     {
       "id": "19179",
@@ -606,9 +585,9 @@
         "isTop": false
       },
       "pricePerSqm": 7492,
-      "imageUrl": "https://www.next-estate.de/wp-content/uploads/resizer/resizer.php?w=700&src=../../uploads/photos/branch_a/19179_38947e8f-3532-43d1-aeaf-5c9732543bc3.jpg",
+      "imageUrl": "https://www.next-estate.de/wp-content/uploads/resizer/resizer.php?w=700&src=../../uploads/photos/branch_b/19179_38947e8f-3532-43d1-aeaf-5c9732543bc3.jpg",
       "firstSeen": "2026-07-24",
-      "lastSeen": "2026-08-23",
+      "lastSeen": "2026-09-07",
       "previousPrice": 899000
     },
     {
@@ -618,7 +597,7 @@
       "title": "Eisenacher Strasse 57, Schöneberg",
       "status": "For Sale",
       "neighborhood": "Schöneberg",
-      "price": 998000,
+      "price": 997000,
       "rooms": 4,
       "sizeSqm": 133,
       "floor": {
@@ -626,10 +605,115 @@
         "value": 5,
         "isTop": false
       },
-      "pricePerSqm": 7504,
+      "pricePerSqm": 7496,
       "imageUrl": "https://res.cloudinary.com/dbi0cooxc/image/upload/f_jpg,q_70,w_1200,h_630,c_fill,g_auto/v1774631643/_V9A7073SUMMER_B_vun1az.jpg",
       "firstSeen": "2026-08-23",
-      "lastSeen": "2026-08-23",
+      "lastSeen": "2026-09-07",
+      "previousPrice": 998000
+    },
+    {
+      "id": "lehrter-strasse",
+      "url": "https://www.fantasticfrank.com/en/berlin/property/lehrter-strasse/",
+      "source": "fantasticfrank",
+      "title": "Lehrter Strasse, Tiergarten",
+      "status": "Coming Soon",
+      "neighborhood": "Tiergarten",
+      "price": 1147000,
+      "rooms": 2,
+      "sizeSqm": 133,
+      "floor": {
+        "raw": "5th",
+        "value": 5,
+        "isTop": false
+      },
+      "pricePerSqm": 8624,
+      "imageUrl": "https://res.cloudinary.com/dbi0cooxc/image/upload/f_jpg,q_70,w_1200,h_630,c_fill,g_auto/v1784117681/_DSF0396_sgwz9v_o1ycq5.webp",
+      "firstSeen": "2026-09-07",
+      "lastSeen": "2026-09-07",
+      "previousPrice": null
+    },
+    {
+      "id": "wolliner-strasse-63",
+      "url": "https://www.fantasticfrank.com/en/berlin/property/wolliner-strasse-63/",
+      "source": "fantasticfrank",
+      "title": "Wolliner Strasse 63, Prenzlauer Berg",
+      "status": "Coming Soon",
+      "neighborhood": "Prenzlauer Berg",
+      "price": 1275000,
+      "rooms": 3,
+      "sizeSqm": 142,
+      "floor": {
+        "raw": "5th, front building",
+        "value": 5,
+        "isTop": false
+      },
+      "pricePerSqm": 8979,
+      "imageUrl": "https://res.cloudinary.com/dbi0cooxc/image/upload/f_jpg,q_70,w_1200,h_630,c_fill,g_auto/v1788113190/_MG_7119_uflpad_sx0oyk.avif",
+      "firstSeen": "2026-09-07",
+      "lastSeen": "2026-09-07",
+      "previousPrice": null
+    },
+    {
+      "id": "21251",
+      "url": "https://www.next-estate.de/en/buy/21251/near-volkspark-friedrichshain-2-room-apartment-in-a-historic-building-with-west-facing-balcony/",
+      "source": "nextestate",
+      "title": "Near Volkspark Friedrichshain: 2-room apartment in a historic building with west-facing balcony!",
+      "status": "For Sale",
+      "neighborhood": "Friedrichshain",
+      "price": 445000,
+      "rooms": 2,
+      "sizeSqm": 74,
+      "floor": {
+        "raw": "4",
+        "value": 4,
+        "isTop": false
+      },
+      "pricePerSqm": 6014,
+      "imageUrl": "https://www.next-estate.de/wp-content/uploads/resizer/resizer.php?w=700&src=../../uploads/photos/branch_b/21251_91072d60-b3e9-4e63-a007-ab8ca22d31f0.jpg",
+      "firstSeen": "2026-09-07",
+      "lastSeen": "2026-09-07",
+      "previousPrice": null
+    },
+    {
+      "id": "21295",
+      "url": "https://www.next-estate.de/en/buy/21295/kollwitzstrasse--knaackstrasse-3-room-period-apartment-with-west-facing-balcony-and-fantastic-views/",
+      "source": "nextestate",
+      "title": "Kollwitzstraße / Knaackstraße: 3-room period apartment with west-facing balcony and fantastic views",
+      "status": "For Sale",
+      "neighborhood": "Prenzlauer Berg",
+      "price": 599000,
+      "rooms": 3,
+      "sizeSqm": 83,
+      "floor": {
+        "raw": "4",
+        "value": 4,
+        "isTop": false
+      },
+      "pricePerSqm": 7217,
+      "imageUrl": "https://www.next-estate.de/wp-content/uploads/resizer/resizer.php?w=700&src=../../uploads/photos/branch_b/21295__280683.jpg",
+      "firstSeen": "2026-09-07",
+      "lastSeen": "2026-09-07",
+      "previousPrice": null
+    },
+    {
+      "id": "21265",
+      "url": "https://www.next-estate.de/en/buy/21265/schoneberg-near-gleisdreieck-park-stunning-5-room-top-floor-maisonette-south-facing-terrace-and-loggia-panoramic-views/",
+      "source": "nextestate",
+      "title": "Schöneberg, near Gleisdreieck Park: Stunning 5-room top-floor maisonette, south-facing terrace and loggia, panoramic views",
+      "status": "For Sale",
+      "neighborhood": "Schöneberg",
+      "price": 945000,
+      "rooms": 5,
+      "sizeSqm": 139,
+      "floor": {
+        "raw": "4",
+        "value": 4,
+        "isTop": false
+      },
+      "pricePerSqm": 6799,
+      "imageUrl": "https://www.next-estate.de/wp-content/uploads/resizer/resizer.php?w=700&src=../../uploads/photos/branch_b/21265_669d3682-390a-4fb4-a72a-493c7bc54399.jpg",
+      "firstSeen": "2026-09-07",
+      "lastSeen": "2026-09-07",
       "previousPrice": null
     },
     {
@@ -648,10 +732,31 @@
         "isTop": false
       },
       "pricePerSqm": 8542,
-      "imageUrl": "https://www.next-estate.de/wp-content/uploads/resizer/resizer.php?w=700&src=../../uploads/photos/branch_a/21085_dbb7152f-9e85-4dcb-852e-2fdab0cbb26f.jpg",
+      "imageUrl": "https://www.next-estate.de/wp-content/uploads/resizer/resizer.php?w=700&src=../../uploads/photos/branch_b/21085_dbb7152f-9e85-4dcb-852e-2fdab0cbb26f.jpg",
       "firstSeen": "2026-07-31",
-      "lastSeen": "2026-08-23",
+      "lastSeen": "2026-09-07",
       "previousPrice": 615000
+    },
+    {
+      "id": "21261",
+      "url": "https://www.next-estate.de/en/buy/21261/choriner-strasse-berlin-mitte-classic-period-apartment-3-rooms-polished-floorboards-fitted-kitchen/",
+      "source": "nextestate",
+      "title": "Choriner Straße, Berlin-Mitte: Classic period apartment, 3 rooms, polished floorboards, fitted kitchen",
+      "status": "For Sale",
+      "neighborhood": "Mitte",
+      "price": 499000,
+      "rooms": 3,
+      "sizeSqm": 84,
+      "floor": {
+        "raw": "4",
+        "value": 4,
+        "isTop": false
+      },
+      "pricePerSqm": 5940,
+      "imageUrl": "https://www.next-estate.de/wp-content/uploads/resizer/resizer.php?w=700&src=../../uploads/photos/branch_b/21261__279735.jpg",
+      "firstSeen": "2026-09-07",
+      "lastSeen": "2026-09-07",
+      "previousPrice": null
     },
     {
       "id": "21125",
@@ -669,9 +774,9 @@
         "isTop": false
       },
       "pricePerSqm": 7075,
-      "imageUrl": "https://www.next-estate.de/wp-content/uploads/resizer/resizer.php?w=700&src=../../uploads/photos/branch_a/21125__276489.jpg",
+      "imageUrl": "https://www.next-estate.de/wp-content/uploads/resizer/resizer.php?w=700&src=../../uploads/photos/branch_b/21125__276489.jpg",
       "firstSeen": "2026-07-24",
-      "lastSeen": "2026-08-23",
+      "lastSeen": "2026-09-07",
       "previousPrice": 375000
     },
     {
@@ -690,10 +795,31 @@
         "isTop": false
       },
       "pricePerSqm": 9657,
-      "imageUrl": "https://www.next-estate.de/wp-content/uploads/resizer/resizer.php?w=700&src=../../uploads/photos/branch_a/21069_d455e90f-fd17-4d41-ab38-6bff7f3cd935.jpg",
+      "imageUrl": "https://www.next-estate.de/wp-content/uploads/resizer/resizer.php?w=700&src=../../uploads/photos/branch_b/21069_d455e90f-fd17-4d41-ab38-6bff7f3cd935.jpg",
       "firstSeen": "2026-07-24",
-      "lastSeen": "2026-08-23",
+      "lastSeen": "2026-09-07",
       "previousPrice": 1690000
+    },
+    {
+      "id": "21279",
+      "url": "https://www.next-estate.de/en/buy/21279/prenzlauer-berg-refurbished-3-room-apartment-with-a-balcony-close-to-volkspark-friedrichshain/",
+      "source": "nextestate",
+      "title": "Prenzlauer Berg: Refurbished 3-room apartment with a balcony close to Volkspark Friedrichshain",
+      "status": "For Sale",
+      "neighborhood": "Prenzlauer Berg",
+      "price": 420000,
+      "rooms": 3,
+      "sizeSqm": 67,
+      "floor": {
+        "raw": "4",
+        "value": 4,
+        "isTop": false
+      },
+      "pricePerSqm": 6269,
+      "imageUrl": "https://www.next-estate.de/wp-content/uploads/resizer/resizer.php?w=700&src=../../uploads/photos/branch_b/21279_e7b5cdc8-e20e-402f-a895-e873a79033e8.jpg",
+      "firstSeen": "2026-09-07",
+      "lastSeen": "2026-09-07",
+      "previousPrice": null
     },
     {
       "id": "20923",
@@ -711,73 +837,10 @@
         "isTop": false
       },
       "pricePerSqm": 6054,
-      "imageUrl": "https://www.next-estate.de/wp-content/uploads/resizer/resizer.php?w=700&src=../../uploads/photos/branch_a/20923_cc271575-0520-460d-84ae-53643f448f51.jpg",
+      "imageUrl": "https://www.next-estate.de/wp-content/uploads/resizer/resizer.php?w=700&src=../../uploads/photos/branch_b/20923_cc271575-0520-460d-84ae-53643f448f51.jpg",
       "firstSeen": "2026-07-24",
-      "lastSeen": "2026-08-23",
-      "previousPrice": 349000
-    },
-    {
-      "id": "21071",
-      "url": "https://www.next-estate.de/en/buy/21071/kollwitzstrasse--knaackstrasse-3-room-period-apartment-with-west-facing-balcony-and-fantastic-views/",
-      "source": "nextestate",
-      "title": "Kollwitzstraße / Knaackstraße: 3-room period apartment with west-facing balcony and fantastic views",
-      "status": "For Sale",
-      "neighborhood": "Prenzlauer Berg",
-      "price": 625000,
-      "rooms": 3,
-      "sizeSqm": 83,
-      "floor": {
-        "raw": "4",
-        "value": 4,
-        "isTop": false
-      },
-      "pricePerSqm": 7530,
-      "imageUrl": "https://www.next-estate.de/wp-content/uploads/resizer/resizer.php?w=700&src=../../uploads/photos/branch_a/21071_58943fd8-55df-4197-8503-379f5ac0bd50.jpg",
-      "firstSeen": "2026-07-24",
-      "lastSeen": "2026-08-23",
-      "previousPrice": 625000
-    },
-    {
-      "id": "21149",
-      "url": "https://www.next-estate.de/en/buy/21149/prenzlauer-berg-kastanienallee---commercial-loft-of-approx-280-m2-mastic-asphalt-flooring-and-period-features-commission-free/",
-      "source": "nextestate",
-      "title": "Prenzlauer Berg, Kastanienallee – Commercial loft of approx. 280 m², mastic asphalt flooring and period features, commission-free",
-      "status": "For Sale",
-      "neighborhood": "Prenzlauer Berg",
-      "price": 1540000,
-      "rooms": 6,
-      "sizeSqm": 280,
-      "floor": {
-        "raw": "4",
-        "value": 4,
-        "isTop": false
-      },
-      "pricePerSqm": 5500,
-      "imageUrl": "https://www.next-estate.de/wp-content/uploads/resizer/resizer.php?w=700&src=../../uploads/photos/branch_a/21149_37c05da9-d478-447f-9b40-3c68c7bd8089.jpg",
-      "firstSeen": "2026-08-23",
-      "lastSeen": "2026-08-23",
-      "previousPrice": null
-    },
-    {
-      "id": "21039",
-      "url": "https://www.next-estate.de/en/buy/21039/choriner-strasse-berlin-mitte-classic-period-apartment-3-rooms-polished-floorboards-fitted-kitchen/",
-      "source": "nextestate",
-      "title": "Choriner Straße, Berlin-Mitte: Classic period apartment, 3 rooms, polished floorboards, fitted kitchen",
-      "status": "For Sale",
-      "neighborhood": "Mitte",
-      "price": 545000,
-      "rooms": 3,
-      "sizeSqm": 84,
-      "floor": {
-        "raw": "4",
-        "value": 4,
-        "isTop": false
-      },
-      "pricePerSqm": 6488,
-      "imageUrl": "https://www.next-estate.de/wp-content/uploads/resizer/resizer.php?w=700&src=../../uploads/photos/branch_a/21039_baefbb30-627d-420e-b446-6cff2b5e9792.jpg",
-      "firstSeen": "2026-07-24",
-      "lastSeen": "2026-08-23",
-      "previousPrice": 545000
+      "lastSeen": "2026-09-07",
+      "previousPrice": 339000
     },
     {
       "id": "20483",
@@ -795,9 +858,9 @@
         "isTop": false
       },
       "pricePerSqm": 8486,
-      "imageUrl": "https://www.next-estate.de/wp-content/uploads/resizer/resizer.php?w=700&src=../../uploads/photos/branch_a/20483_4ce30fef-1716-4c9f-b950-2c7dc3aa81eb.jpg",
+      "imageUrl": "https://www.next-estate.de/wp-content/uploads/resizer/resizer.php?w=700&src=../../uploads/photos/branch_b/20483_4ce30fef-1716-4c9f-b950-2c7dc3aa81eb.jpg",
       "firstSeen": "2026-07-24",
-      "lastSeen": "2026-08-23",
+      "lastSeen": "2026-09-07",
       "previousPrice": 1850000
     },
     {
@@ -816,9 +879,9 @@
         "isTop": false
       },
       "pricePerSqm": 6885,
-      "imageUrl": "https://www.next-estate.de/wp-content/uploads/resizer/resizer.php?w=700&src=../../uploads/photos/branch_a/20763_b84b2f78-f7f9-4874-abb0-a2f51ff60d43.jpg",
+      "imageUrl": "https://www.next-estate.de/wp-content/uploads/resizer/resizer.php?w=700&src=../../uploads/photos/branch_b/20763_b84b2f78-f7f9-4874-abb0-a2f51ff60d43.jpg",
       "firstSeen": "2026-07-24",
-      "lastSeen": "2026-08-23",
+      "lastSeen": "2026-09-07",
       "previousPrice": 599000
     },
     {
@@ -837,10 +900,31 @@
         "isTop": false
       },
       "pricePerSqm": 6748,
-      "imageUrl": "https://www.next-estate.de/wp-content/uploads/resizer/resizer.php?w=700&src=../../uploads/photos/branch_a/19711_313cf5ed-c8bf-4501-ab41-2decf50071ca.jpg",
+      "imageUrl": "https://www.next-estate.de/wp-content/uploads/resizer/resizer.php?w=700&src=../../uploads/photos/branch_b/19711_313cf5ed-c8bf-4501-ab41-2decf50071ca.jpg",
       "firstSeen": "2026-07-24",
-      "lastSeen": "2026-08-23",
+      "lastSeen": "2026-09-07",
       "previousPrice": 749000
+    },
+    {
+      "id": "gleimstrasse-43",
+      "url": "https://www.fantasticfrank.com/en/berlin/property/gleimstrasse-43/",
+      "source": "fantasticfrank",
+      "title": "Gleimstrasse 43, Prenzlauer Berg",
+      "status": "For Sale",
+      "neighborhood": "Prenzlauer Berg",
+      "price": 450000,
+      "rooms": 2,
+      "sizeSqm": 65,
+      "floor": {
+        "raw": "4th, side wing",
+        "value": 4,
+        "isTop": false
+      },
+      "pricePerSqm": 6923,
+      "imageUrl": "https://res.cloudinary.com/dbi0cooxc/image/upload/f_jpg,q_70,w_1200,h_630,c_fill,g_auto/v1788335567/_V9A3910_zr8iue.jpg",
+      "firstSeen": "2026-09-07",
+      "lastSeen": "2026-09-07",
+      "previousPrice": null
     },
     {
       "id": "gneisenaustrasse-16",
@@ -849,7 +933,7 @@
       "title": "Gneisenaustrasse 16, Kreuzberg",
       "status": "For Sale",
       "neighborhood": "Kreuzberg",
-      "price": 625000,
+      "price": 598000,
       "rooms": 3,
       "sizeSqm": 94,
       "floor": {
@@ -857,11 +941,11 @@
         "value": 4,
         "isTop": false
       },
-      "pricePerSqm": 6649,
+      "pricePerSqm": 6362,
       "imageUrl": "https://res.cloudinary.com/dbi0cooxc/image/upload/f_jpg,q_70,w_1200,h_630,c_fill,g_auto/v1779914400/_V9A0483_yigjv0.jpg",
       "firstSeen": "2026-08-23",
-      "lastSeen": "2026-08-23",
-      "previousPrice": null
+      "lastSeen": "2026-09-07",
+      "previousPrice": 625000
     },
     {
       "id": "baerwaldstrasse-53",
@@ -881,8 +965,50 @@
       "pricePerSqm": 7425,
       "imageUrl": "https://res.cloudinary.com/dbi0cooxc/image/upload/f_jpg,q_70,w_1200,h_630,c_fill,g_auto/v1717748573/Unbenannttt_3_ouiiqw.png",
       "firstSeen": "2026-07-23",
-      "lastSeen": "2026-08-23",
+      "lastSeen": "2026-09-07",
       "previousPrice": 594000
+    },
+    {
+      "id": "21233",
+      "url": "https://www.next-estate.de/en/buy/21233/between-winskiez-and-botzowviertel-beautiful-period-apartment-with-four-rooms-loggia-and-elevator/",
+      "source": "nextestate",
+      "title": "Between Winskiez and Bötzowviertel: Beautiful Period Apartment with Four Rooms, Loggia and Elevator",
+      "status": "For Sale",
+      "neighborhood": "Prenzlauer Berg , Prenzlauer Berg",
+      "price": 925000,
+      "rooms": 4,
+      "sizeSqm": 116,
+      "floor": {
+        "raw": "3",
+        "value": 3,
+        "isTop": false
+      },
+      "pricePerSqm": 7974,
+      "imageUrl": "https://www.next-estate.de/wp-content/uploads/resizer/resizer.php?w=700&src=../../uploads/photos/branch_b/21233_bf2a7237-77ab-461d-99bf-15e94af575fc.jpg",
+      "firstSeen": "2026-09-07",
+      "lastSeen": "2026-09-07",
+      "previousPrice": null
+    },
+    {
+      "id": "21267",
+      "url": "https://www.next-estate.de/en/buy/21267/prenzlauer-berg-2-room-period-apartment-in-a-listed-historic-building-with-balcony-and-park-like-communal-garden/",
+      "source": "nextestate",
+      "title": "Prenzlauer Berg: 2-Room Period Apartment in a Listed Historic Building with Balcony and Park-Like Communal Garden",
+      "status": "For Sale",
+      "neighborhood": "Prenzlauer Berg",
+      "price": 275000,
+      "rooms": 2,
+      "sizeSqm": 54,
+      "floor": {
+        "raw": "3",
+        "value": 3,
+        "isTop": false
+      },
+      "pricePerSqm": 5093,
+      "imageUrl": "https://www.next-estate.de/wp-content/uploads/resizer/resizer.php?w=700&src=../../uploads/photos/branch_b/21267_74b1445d-a5ce-4d3d-8413-b18a57e629be.jpg",
+      "firstSeen": "2026-09-07",
+      "lastSeen": "2026-09-07",
+      "previousPrice": null
     },
     {
       "id": "21215",
@@ -900,10 +1026,10 @@
         "isTop": false
       },
       "pricePerSqm": 7125,
-      "imageUrl": "https://www.next-estate.de/wp-content/uploads/resizer/resizer.php?w=700&src=../../uploads/photos/branch_a/21215_b566752a-c3a8-4cc0-a438-bf58ad96948a.jpg",
+      "imageUrl": "https://www.next-estate.de/wp-content/uploads/resizer/resizer.php?w=700&src=../../uploads/photos/branch_b/21215_b566752a-c3a8-4cc0-a438-bf58ad96948a.jpg",
       "firstSeen": "2026-08-23",
-      "lastSeen": "2026-08-23",
-      "previousPrice": null
+      "lastSeen": "2026-09-07",
+      "previousPrice": 285000
     },
     {
       "id": "20959",
@@ -921,9 +1047,9 @@
         "isTop": false
       },
       "pricePerSqm": 8484,
-      "imageUrl": "https://www.next-estate.de/wp-content/uploads/resizer/resizer.php?w=700&src=../../uploads/photos/branch_a/20959_a0e84b5b-7f87-4d9f-939f-047f6650f0b3.jpg",
+      "imageUrl": "https://www.next-estate.de/wp-content/uploads/resizer/resizer.php?w=700&src=../../uploads/photos/branch_b/20959_a0e84b5b-7f87-4d9f-939f-047f6650f0b3.jpg",
       "firstSeen": "2026-07-24",
-      "lastSeen": "2026-08-23",
+      "lastSeen": "2026-09-07",
       "previousPrice": 1349000
     },
     {
@@ -942,10 +1068,10 @@
         "isTop": false
       },
       "pricePerSqm": 6538,
-      "imageUrl": "https://www.next-estate.de/wp-content/uploads/resizer/resizer.php?w=700&src=../../uploads/photos/branch_a/21239__279429.jpg",
+      "imageUrl": "https://www.next-estate.de/wp-content/uploads/resizer/resizer.php?w=700&src=../../uploads/photos/branch_b/21239__279429.jpg",
       "firstSeen": "2026-08-23",
-      "lastSeen": "2026-08-23",
-      "previousPrice": null
+      "lastSeen": "2026-09-07",
+      "previousPrice": 425000
     },
     {
       "id": "20983",
@@ -963,9 +1089,9 @@
         "isTop": false
       },
       "pricePerSqm": 11865,
-      "imageUrl": "https://www.next-estate.de/wp-content/uploads/resizer/resizer.php?w=700&src=../../uploads/photos/branch_a/20983_5bd3d203-901c-4e9a-9dc7-0eeae636543e.jpg",
+      "imageUrl": "https://www.next-estate.de/wp-content/uploads/resizer/resizer.php?w=700&src=../../uploads/photos/branch_b/20983_5bd3d203-901c-4e9a-9dc7-0eeae636543e.jpg",
       "firstSeen": "2026-07-24",
-      "lastSeen": "2026-08-23",
+      "lastSeen": "2026-09-07",
       "previousPrice": 2195000
     },
     {
@@ -984,9 +1110,9 @@
         "isTop": false
       },
       "pricePerSqm": 6343,
-      "imageUrl": "https://www.next-estate.de/wp-content/uploads/resizer/resizer.php?w=700&src=../../uploads/photos/branch_a/21163_531bd9d0-3415-43b4-982f-dc5e009024a9.jpg",
+      "imageUrl": "https://www.next-estate.de/wp-content/uploads/resizer/resizer.php?w=700&src=../../uploads/photos/branch_b/21163_531bd9d0-3415-43b4-982f-dc5e009024a9.jpg",
       "firstSeen": "2026-07-24",
-      "lastSeen": "2026-08-23",
+      "lastSeen": "2026-09-07",
       "previousPrice": 526500
     },
     {
@@ -1005,9 +1131,9 @@
         "isTop": false
       },
       "pricePerSqm": 8023,
-      "imageUrl": "https://www.next-estate.de/wp-content/uploads/resizer/resizer.php?w=700&src=../../uploads/photos/branch_a/20909__270333.jpg",
+      "imageUrl": "https://www.next-estate.de/wp-content/uploads/resizer/resizer.php?w=700&src=../../uploads/photos/branch_b/20909__270333.jpg",
       "firstSeen": "2026-07-24",
-      "lastSeen": "2026-08-23",
+      "lastSeen": "2026-09-07",
       "previousPrice": 649900
     },
     {
@@ -1026,9 +1152,9 @@
         "isTop": false
       },
       "pricePerSqm": 6091,
-      "imageUrl": "https://www.next-estate.de/wp-content/uploads/resizer/resizer.php?w=700&src=../../uploads/photos/branch_a/21103_e67990e3-5e65-4b3f-a82f-f52f94002e6a.jpg",
+      "imageUrl": "https://www.next-estate.de/wp-content/uploads/resizer/resizer.php?w=700&src=../../uploads/photos/branch_b/21103_e67990e3-5e65-4b3f-a82f-f52f94002e6a.jpg",
       "firstSeen": "2026-07-24",
-      "lastSeen": "2026-08-23",
+      "lastSeen": "2026-09-07",
       "previousPrice": 335000
     },
     {
@@ -1047,31 +1173,31 @@
         "isTop": false
       },
       "pricePerSqm": 6414,
-      "imageUrl": "https://www.next-estate.de/wp-content/uploads/resizer/resizer.php?w=700&src=../../uploads/photos/branch_a/21067_5b03c344-d34f-4992-aef1-a2581a95f74a.jpg",
+      "imageUrl": "https://www.next-estate.de/wp-content/uploads/resizer/resizer.php?w=700&src=../../uploads/photos/branch_b/21067_5b03c344-d34f-4992-aef1-a2581a95f74a.jpg",
       "firstSeen": "2026-07-24",
-      "lastSeen": "2026-08-23",
+      "lastSeen": "2026-09-07",
       "previousPrice": 449000
     },
     {
-      "id": "21075",
-      "url": "https://www.next-estate.de/en/buy/21075/simon-dach-kiez-renovated-2-room-historic-apartment-3rd-floor-with-lift-wooden-floorboards-french-balcony/",
+      "id": "20841",
+      "url": "https://www.next-estate.de/en/buy/20841/between-winskiez-and-kollwitzkiez-2-3-room-apartment-balcony-fitted-kitchen-overlooking-the-quiet-and-green-inner-courtyard/",
       "source": "nextestate",
-      "title": "Simon Dach Kiez: Renovated 2-room historic apartment, 3rd floor with lift, wooden floorboards, French balcony",
+      "title": "Between Winskiez and Kollwitzkiez: 2–3 room apartment, balcony, fitted kitchen, overlooking the quiet and green inner courtyard",
       "status": "For Sale",
-      "neighborhood": "Friedrichshain",
-      "price": 325000,
-      "rooms": 2,
-      "sizeSqm": 52,
+      "neighborhood": "Prenzlauer Berg",
+      "price": 1045000,
+      "rooms": 3,
+      "sizeSqm": 117,
       "floor": {
         "raw": "3",
         "value": 3,
         "isTop": false
       },
-      "pricePerSqm": 6250,
-      "imageUrl": "https://www.next-estate.de/wp-content/uploads/resizer/resizer.php?w=700&src=../../uploads/photos/branch_a/21075__275021.jpg",
+      "pricePerSqm": 8932,
+      "imageUrl": "https://www.next-estate.de/wp-content/uploads/resizer/resizer.php?w=700&src=../../uploads/photos/branch_b/20841_86e18eeb-5176-4ed4-9c80-d5e0d9b0c34a.jpg",
       "firstSeen": "2026-07-24",
-      "lastSeen": "2026-08-23",
-      "previousPrice": 325000
+      "lastSeen": "2026-09-07",
+      "previousPrice": 1045000
     },
     {
       "id": "21007",
@@ -1089,9 +1215,9 @@
         "isTop": false
       },
       "pricePerSqm": 7930,
-      "imageUrl": "https://www.next-estate.de/wp-content/uploads/resizer/resizer.php?w=700&src=../../uploads/photos/branch_a/21007__272799.jpg",
+      "imageUrl": "https://www.next-estate.de/wp-content/uploads/resizer/resizer.php?w=700&src=../../uploads/photos/branch_b/21007__272799.jpg",
       "firstSeen": "2026-07-24",
-      "lastSeen": "2026-08-23",
+      "lastSeen": "2026-09-07",
       "previousPrice": 1475000
     },
     {
@@ -1110,9 +1236,9 @@
         "isTop": false
       },
       "pricePerSqm": 7521,
-      "imageUrl": "https://www.next-estate.de/wp-content/uploads/resizer/resizer.php?w=700&src=../../uploads/photos/branch_a/20847_c2856291-7915-4c23-8381-60eb97745351.jpg",
+      "imageUrl": "https://www.next-estate.de/wp-content/uploads/resizer/resizer.php?w=700&src=../../uploads/photos/branch_b/20847_c2856291-7915-4c23-8381-60eb97745351.jpg",
       "firstSeen": "2026-07-24",
-      "lastSeen": "2026-08-23",
+      "lastSeen": "2026-09-07",
       "previousPrice": 549000
     },
     {
@@ -1131,31 +1257,10 @@
         "isTop": false
       },
       "pricePerSqm": 6238,
-      "imageUrl": "https://www.next-estate.de/wp-content/uploads/resizer/resizer.php?w=700&src=../../uploads/photos/branch_a/20805_ed500c78-f8e6-483c-96ed-0667ab697595.jpg",
+      "imageUrl": "https://www.next-estate.de/wp-content/uploads/resizer/resizer.php?w=700&src=../../uploads/photos/branch_b/20805_ed500c78-f8e6-483c-96ed-0667ab697595.jpg",
       "firstSeen": "2026-07-24",
-      "lastSeen": "2026-08-23",
+      "lastSeen": "2026-09-07",
       "previousPrice": 499000
-    },
-    {
-      "id": "20841",
-      "url": "https://www.next-estate.de/en/buy/20841/between-winskiez-and-kollwitzkiez-2-3-room-apartment-balcony-fitted-kitchen-overlooking-the-quiet-and-green-inner-courtyard/",
-      "source": "nextestate",
-      "title": "Between Winskiez and Kollwitzkiez: 2–3 room apartment, balcony, fitted kitchen, overlooking the quiet and green inner courtyard",
-      "status": "For Sale",
-      "neighborhood": "Prenzlauer Berg",
-      "price": 1045000,
-      "rooms": 3,
-      "sizeSqm": 117,
-      "floor": {
-        "raw": "3",
-        "value": 3,
-        "isTop": false
-      },
-      "pricePerSqm": 8932,
-      "imageUrl": "https://www.next-estate.de/wp-content/uploads/resizer/resizer.php?w=700&src=../../uploads/photos/branch_a/20841_86e18eeb-5176-4ed4-9c80-d5e0d9b0c34a.jpg",
-      "firstSeen": "2026-07-24",
-      "lastSeen": "2026-08-23",
-      "previousPrice": 1045000
     },
     {
       "id": "20887",
@@ -1173,9 +1278,9 @@
         "isTop": false
       },
       "pricePerSqm": 8019,
-      "imageUrl": "https://www.next-estate.de/wp-content/uploads/resizer/resizer.php?w=700&src=../../uploads/photos/branch_a/20887__269611.jpg",
+      "imageUrl": "https://www.next-estate.de/wp-content/uploads/resizer/resizer.php?w=700&src=../../uploads/photos/branch_b/20887__269611.jpg",
       "firstSeen": "2026-07-24",
-      "lastSeen": "2026-08-23",
+      "lastSeen": "2026-09-07",
       "previousPrice": 425000
     },
     {
@@ -1194,9 +1299,9 @@
         "isTop": false
       },
       "pricePerSqm": 9865,
-      "imageUrl": "https://www.next-estate.de/wp-content/uploads/resizer/resizer.php?w=700&src=../../uploads/photos/branch_a/20637_a70b4ac0-85d3-4f6d-b815-8871307cf894.jpg",
+      "imageUrl": "https://www.next-estate.de/wp-content/uploads/resizer/resizer.php?w=700&src=../../uploads/photos/branch_b/20637_a70b4ac0-85d3-4f6d-b815-8871307cf894.jpg",
       "firstSeen": "2026-07-24",
-      "lastSeen": "2026-08-23",
+      "lastSeen": "2026-09-07",
       "previousPrice": 1095000
     },
     {
@@ -1217,8 +1322,8 @@
       "pricePerSqm": 7333,
       "imageUrl": "https://res.cloudinary.com/dbi0cooxc/image/upload/f_jpg,q_70,w_1200,h_630,c_fill,g_auto/v1786271774/_V9A3389_kfcuhd.jpg",
       "firstSeen": "2026-08-23",
-      "lastSeen": "2026-08-23",
-      "previousPrice": null
+      "lastSeen": "2026-09-07",
+      "previousPrice": 880000
     },
     {
       "id": "zeitzer-strasse-5",
@@ -1238,8 +1343,8 @@
       "pricePerSqm": 4825,
       "imageUrl": "https://res.cloudinary.com/dbi0cooxc/image/upload/f_jpg,q_70,w_1200,h_630,c_fill,g_auto/v1742423233/_MG_8307_ouwyll.jpg",
       "firstSeen": "2026-08-23",
-      "lastSeen": "2026-08-23",
-      "previousPrice": null
+      "lastSeen": "2026-09-07",
+      "previousPrice": 690000
     },
     {
       "id": "zillestrasse-69",
@@ -1259,7 +1364,7 @@
       "pricePerSqm": 8468,
       "imageUrl": "https://res.cloudinary.com/dbi0cooxc/image/upload/f_jpg,q_70,w_1200,h_630,c_fill,g_auto/v1781681669/_V9A3435_iie8bd.jpg",
       "firstSeen": "2026-07-23",
-      "lastSeen": "2026-08-23",
+      "lastSeen": "2026-09-07",
       "previousPrice": 669000
     },
     {
@@ -1280,8 +1385,8 @@
       "pricePerSqm": 8958,
       "imageUrl": "https://res.cloudinary.com/dbi0cooxc/image/upload/f_jpg,q_70,w_1200,h_630,c_fill,g_auto/v1780568369/_V9A2273B_yk9quo.jpg",
       "firstSeen": "2026-08-23",
-      "lastSeen": "2026-08-23",
-      "previousPrice": null
+      "lastSeen": "2026-09-07",
+      "previousPrice": 2347000
     },
     {
       "id": "lausitzer-strasse-35",
@@ -1301,7 +1406,28 @@
       "pricePerSqm": 6522,
       "imageUrl": "https://res.cloudinary.com/dbi0cooxc/image/upload/f_jpg,q_70,w_1200,h_630,c_fill,g_auto/v1780640765/_V9A2365_doeope.jpg",
       "firstSeen": "2026-08-23",
-      "lastSeen": "2026-08-23",
+      "lastSeen": "2026-09-07",
+      "previousPrice": 450000
+    },
+    {
+      "id": "21269",
+      "url": "https://www.next-estate.de/en/buy/21269/reuterkiez-neukolln-efficiently-designed-2-room-apartment---quiet-side-wing-of-a-historic-buiding/",
+      "source": "nextestate",
+      "title": "Reuterkiez, Neukölln: Efficiently designed 2-room apartment - quiet side-wing of a historic buiding",
+      "status": "For Sale",
+      "neighborhood": "Neukölln",
+      "price": 295000,
+      "rooms": 2,
+      "sizeSqm": 49,
+      "floor": {
+        "raw": "2",
+        "value": 2,
+        "isTop": false
+      },
+      "pricePerSqm": 6020,
+      "imageUrl": "https://www.next-estate.de/wp-content/uploads/resizer/resizer.php?w=700&src=../../uploads/photos/branch_b/21269_cb7afbaa-8a1e-4f20-921f-10423a3020d6.jpg",
+      "firstSeen": "2026-09-07",
+      "lastSeen": "2026-09-07",
       "previousPrice": null
     },
     {
@@ -1320,10 +1446,10 @@
         "isTop": false
       },
       "pricePerSqm": 6024,
-      "imageUrl": "https://www.next-estate.de/wp-content/uploads/resizer/resizer.php?w=700&src=../../uploads/photos/branch_a/21229_4cb11aa3-5539-4958-a723-0290143c2ede.jpg",
+      "imageUrl": "https://www.next-estate.de/wp-content/uploads/resizer/resizer.php?w=700&src=../../uploads/photos/branch_b/21229_4cb11aa3-5539-4958-a723-0290143c2ede.jpg",
       "firstSeen": "2026-08-23",
-      "lastSeen": "2026-08-23",
-      "previousPrice": null
+      "lastSeen": "2026-09-07",
+      "previousPrice": 494000
     },
     {
       "id": "21181",
@@ -1341,9 +1467,9 @@
         "isTop": false
       },
       "pricePerSqm": 5278,
-      "imageUrl": "https://www.next-estate.de/wp-content/uploads/resizer/resizer.php?w=700&src=../../uploads/photos/branch_a/21181_deddd36e-10a3-405e-b909-d2de1efd2d87.jpg",
+      "imageUrl": "https://www.next-estate.de/wp-content/uploads/resizer/resizer.php?w=700&src=../../uploads/photos/branch_b/21181_deddd36e-10a3-405e-b909-d2de1efd2d87.jpg",
       "firstSeen": "2026-07-24",
-      "lastSeen": "2026-08-23",
+      "lastSeen": "2026-09-07",
       "previousPrice": 285000
     },
     {
@@ -1362,9 +1488,9 @@
         "isTop": false
       },
       "pricePerSqm": 7915,
-      "imageUrl": "https://www.next-estate.de/wp-content/uploads/resizer/resizer.php?w=700&src=../../uploads/photos/branch_a/21063__274761.jpg",
+      "imageUrl": "https://www.next-estate.de/wp-content/uploads/resizer/resizer.php?w=700&src=../../uploads/photos/branch_b/21063__274761.jpg",
       "firstSeen": "2026-07-24",
-      "lastSeen": "2026-08-23",
+      "lastSeen": "2026-09-07",
       "previousPrice": 649000
     },
     {
@@ -1383,9 +1509,9 @@
         "isTop": false
       },
       "pricePerSqm": 6372,
-      "imageUrl": "https://www.next-estate.de/wp-content/uploads/resizer/resizer.php?w=700&src=../../uploads/photos/branch_a/20991__272441.jpg",
+      "imageUrl": "https://www.next-estate.de/wp-content/uploads/resizer/resizer.php?w=700&src=../../uploads/photos/branch_b/20991__272441.jpg",
       "firstSeen": "2026-07-24",
-      "lastSeen": "2026-08-23",
+      "lastSeen": "2026-09-07",
       "previousPrice": 599000
     },
     {
@@ -1404,31 +1530,10 @@
         "isTop": false
       },
       "pricePerSqm": 7414,
-      "imageUrl": "https://www.next-estate.de/wp-content/uploads/resizer/resizer.php?w=700&src=../../uploads/photos/branch_a/20999__272649.jpg",
+      "imageUrl": "https://www.next-estate.de/wp-content/uploads/resizer/resizer.php?w=700&src=../../uploads/photos/branch_b/20999__272649.jpg",
       "firstSeen": "2026-07-24",
-      "lastSeen": "2026-08-23",
+      "lastSeen": "2026-09-07",
       "previousPrice": 645000
-    },
-    {
-      "id": "20713",
-      "url": "https://www.next-estate.de/en/buy/20713/view-of-zionskirche---project-sales-4-rooms-balcony-lift-first-occupancy-after-refurbishment/",
-      "source": "nextestate",
-      "title": "View of Zionskirche – Project Sales: 4 rooms, balcony, lift, first occupancy after refurbishment",
-      "status": "For Sale",
-      "neighborhood": "Mitte",
-      "price": 1639625,
-      "rooms": 4,
-      "sizeSqm": 131,
-      "floor": {
-        "raw": "2",
-        "value": 2,
-        "isTop": false
-      },
-      "pricePerSqm": 12516,
-      "imageUrl": "https://www.next-estate.de/wp-content/uploads/resizer/resizer.php?w=700&src=../../uploads/photos/branch_a/20713_d7cb708a-e351-44c5-b4d8-f9551f2e7fd0.jpg",
-      "firstSeen": "2026-07-24",
-      "lastSeen": "2026-08-23",
-      "previousPrice": 1639625
     },
     {
       "id": "20995",
@@ -1446,10 +1551,31 @@
         "isTop": false
       },
       "pricePerSqm": 8101,
-      "imageUrl": "https://www.next-estate.de/wp-content/uploads/resizer/resizer.php?w=700&src=../../uploads/photos/branch_a/20995__272593.jpg",
+      "imageUrl": "https://www.next-estate.de/wp-content/uploads/resizer/resizer.php?w=700&src=../../uploads/photos/branch_b/20995__272593.jpg",
       "firstSeen": "2026-07-24",
-      "lastSeen": "2026-08-23",
+      "lastSeen": "2026-09-07",
       "previousPrice": 559000
+    },
+    {
+      "id": "rueckerstrasse-5",
+      "url": "https://www.fantasticfrank.com/en/berlin/property/rueckerstrasse-5/",
+      "source": "fantasticfrank",
+      "title": "Rückerstrasse 5, Mitte",
+      "status": "Coming Soon",
+      "neighborhood": "Mitte",
+      "price": 1048000,
+      "rooms": 3,
+      "sizeSqm": 93,
+      "floor": {
+        "raw": "2nd",
+        "value": 2,
+        "isTop": false
+      },
+      "pricePerSqm": 11269,
+      "imageUrl": "https://res.cloudinary.com/dbi0cooxc/image/upload/f_jpg,q_70,w_1200,h_630,c_fill,g_auto/v1711383155/_z8a6014_xxa0wo.jpg",
+      "firstSeen": "2026-09-07",
+      "lastSeen": "2026-09-07",
+      "previousPrice": null
     },
     {
       "id": "21091",
@@ -1467,10 +1593,10 @@
         "isTop": false
       },
       "pricePerSqm": 6969,
-      "imageUrl": "https://www.next-estate.de/wp-content/uploads/resizer/resizer.php?w=700&src=../../uploads/photos/branch_a/21091__275671.jpg",
+      "imageUrl": "https://www.next-estate.de/wp-content/uploads/resizer/resizer.php?w=700&src=../../uploads/photos/branch_b/21091__275671.jpg",
       "firstSeen": "2026-08-23",
-      "lastSeen": "2026-08-23",
-      "previousPrice": null
+      "lastSeen": "2026-09-07",
+      "previousPrice": 899000
     },
     {
       "id": "21243",
@@ -1488,9 +1614,30 @@
         "isTop": false
       },
       "pricePerSqm": 4527,
-      "imageUrl": "https://www.next-estate.de/wp-content/uploads/resizer/resizer.php?w=700&src=../../uploads/photos/branch_a/21243__279477.jpg",
+      "imageUrl": "https://www.next-estate.de/wp-content/uploads/resizer/resizer.php?w=700&src=../../uploads/photos/branch_b/21243__279477.jpg",
       "firstSeen": "2026-08-23",
-      "lastSeen": "2026-08-23",
+      "lastSeen": "2026-09-07",
+      "previousPrice": 249000
+    },
+    {
+      "id": "21249",
+      "url": "https://www.next-estate.de/en/buy/21249/samariterkiez-friedrichshain-newly-refurbished-studio-apartment-herringbone-parquet-flooring-luxury-bathroom-fitted-kitchen/",
+      "source": "nextestate",
+      "title": "Samariterkiez, Friedrichshain: Newly refurbished studio apartment, herringbone parquet flooring, luxury bathroom, fitted kitchen",
+      "status": "For Sale",
+      "neighborhood": "Friedrichshain",
+      "price": 284500,
+      "rooms": 1,
+      "sizeSqm": 38,
+      "floor": {
+        "raw": "1",
+        "value": 1,
+        "isTop": false
+      },
+      "pricePerSqm": 7487,
+      "imageUrl": "https://www.next-estate.de/wp-content/uploads/resizer/resizer.php?w=700&src=../../uploads/photos/branch_b/21249_ee8d00ed-bd90-4e94-b380-eacd435133f6.jpg",
+      "firstSeen": "2026-09-07",
+      "lastSeen": "2026-09-07",
       "previousPrice": null
     },
     {
@@ -1509,9 +1656,9 @@
         "isTop": false
       },
       "pricePerSqm": 8784,
-      "imageUrl": "https://www.next-estate.de/wp-content/uploads/resizer/resizer.php?w=700&src=../../uploads/photos/branch_a/21029_73d59d92-18bd-4203-92ae-9a3bacd71cb5.jpg",
+      "imageUrl": "https://www.next-estate.de/wp-content/uploads/resizer/resizer.php?w=700&src=../../uploads/photos/branch_b/21029_73d59d92-18bd-4203-92ae-9a3bacd71cb5.jpg",
       "firstSeen": "2026-07-24",
-      "lastSeen": "2026-08-23",
+      "lastSeen": "2026-09-07",
       "previousPrice": 650000
     },
     {
@@ -1530,10 +1677,10 @@
         "isTop": false
       },
       "pricePerSqm": 8851,
-      "imageUrl": "https://www.next-estate.de/wp-content/uploads/resizer/resizer.php?w=700&src=../../uploads/photos/branch_a/21205_f06b8409-c254-45cb-8702-790191df7365.jpg",
+      "imageUrl": "https://www.next-estate.de/wp-content/uploads/resizer/resizer.php?w=700&src=../../uploads/photos/branch_b/21205_f06b8409-c254-45cb-8702-790191df7365.jpg",
       "firstSeen": "2026-08-23",
-      "lastSeen": "2026-08-23",
-      "previousPrice": null
+      "lastSeen": "2026-09-07",
+      "previousPrice": 770000
     },
     {
       "id": "21207",
@@ -1551,10 +1698,10 @@
         "isTop": false
       },
       "pricePerSqm": 7992,
-      "imageUrl": "https://www.next-estate.de/wp-content/uploads/resizer/resizer.php?w=700&src=../../uploads/photos/branch_a/21207_7f170def-c26f-44ea-bb21-332c7378a799.jpg",
+      "imageUrl": "https://www.next-estate.de/wp-content/uploads/resizer/resizer.php?w=700&src=../../uploads/photos/branch_b/21207_7f170def-c26f-44ea-bb21-332c7378a799.jpg",
       "firstSeen": "2026-08-23",
-      "lastSeen": "2026-08-23",
-      "previousPrice": null
+      "lastSeen": "2026-09-07",
+      "previousPrice": 983000
     },
     {
       "id": "21133",
@@ -1572,9 +1719,9 @@
         "isTop": false
       },
       "pricePerSqm": 7525,
-      "imageUrl": "https://www.next-estate.de/wp-content/uploads/resizer/resizer.php?w=700&src=../../uploads/photos/branch_a/21133_0fff4677-554b-42a2-8d18-808f9fee49ee.jpg",
+      "imageUrl": "https://www.next-estate.de/wp-content/uploads/resizer/resizer.php?w=700&src=../../uploads/photos/branch_b/21133_0fff4677-554b-42a2-8d18-808f9fee49ee.jpg",
       "firstSeen": "2026-07-24",
-      "lastSeen": "2026-08-23",
+      "lastSeen": "2026-09-07",
       "previousPrice": 444000
     },
     {
@@ -1593,31 +1740,10 @@
         "isTop": false
       },
       "pricePerSqm": 7621,
-      "imageUrl": "https://www.next-estate.de/wp-content/uploads/resizer/resizer.php?w=700&src=../../uploads/photos/branch_a/21037_22ca713b-d551-4b91-94f4-a29a19410be9.jpg",
+      "imageUrl": "https://www.next-estate.de/wp-content/uploads/resizer/resizer.php?w=700&src=../../uploads/photos/branch_b/21037_22ca713b-d551-4b91-94f4-a29a19410be9.jpg",
       "firstSeen": "2026-07-24",
-      "lastSeen": "2026-08-23",
+      "lastSeen": "2026-09-07",
       "previousPrice": 945000
-    },
-    {
-      "id": "20559",
-      "url": "https://www.next-estate.de/en/buy/20559/metzer-strasse-kollwitzkiez-4-room-apartment-garden-terrace-bay-window-2-bathrooms-nolte-fitted-kitchen-elevated-ground-floor/",
-      "source": "nextestate",
-      "title": "Metzer Straße, Kollwitzkiez: 4-room apartment, garden terrace, bay window, 2 bathrooms, Nolte fitted kitchen, elevated ground floor",
-      "status": "For Sale",
-      "neighborhood": "Prenzlauer Berg",
-      "price": 1045000,
-      "rooms": 4,
-      "sizeSqm": 128,
-      "floor": {
-        "raw": "1",
-        "value": 1,
-        "isTop": false
-      },
-      "pricePerSqm": 8164,
-      "imageUrl": "https://www.next-estate.de/wp-content/uploads/resizer/resizer.php?w=700&src=../../uploads/photos/branch_a/20559_d4684210-c662-4cca-919e-3ba63f413ce5.jpg",
-      "firstSeen": "2026-07-24",
-      "lastSeen": "2026-08-23",
-      "previousPrice": 1045000
     },
     {
       "id": "20855",
@@ -1635,9 +1761,9 @@
         "isTop": false
       },
       "pricePerSqm": 7963,
-      "imageUrl": "https://www.next-estate.de/wp-content/uploads/resizer/resizer.php?w=700&src=../../uploads/photos/branch_a/20855_517544a5-c829-4460-aa4f-11fa5ecda135.jpg",
+      "imageUrl": "https://www.next-estate.de/wp-content/uploads/resizer/resizer.php?w=700&src=../../uploads/photos/branch_b/20855_517544a5-c829-4460-aa4f-11fa5ecda135.jpg",
       "firstSeen": "2026-07-24",
-      "lastSeen": "2026-08-23",
+      "lastSeen": "2026-09-07",
       "previousPrice": 1290000
     },
     {
@@ -1656,9 +1782,9 @@
         "isTop": false
       },
       "pricePerSqm": 8562,
-      "imageUrl": "https://www.next-estate.de/wp-content/uploads/resizer/resizer.php?w=700&src=../../uploads/photos/branch_a/20583_e046ebb9-28e5-4792-b4ae-f4b1a0e9b62a.jpg",
+      "imageUrl": "https://www.next-estate.de/wp-content/uploads/resizer/resizer.php?w=700&src=../../uploads/photos/branch_b/20583_e046ebb9-28e5-4792-b4ae-f4b1a0e9b62a.jpg",
       "firstSeen": "2026-07-24",
-      "lastSeen": "2026-08-23",
+      "lastSeen": "2026-09-07",
       "previousPrice": 625000
     },
     {
@@ -1679,8 +1805,8 @@
       "pricePerSqm": 7807,
       "imageUrl": "https://res.cloudinary.com/dbi0cooxc/image/upload/f_jpg,q_70,w_1200,h_630,c_fill,g_auto/v1751026603/_MG_9858-3_fpresi.jpg",
       "firstSeen": "2026-08-23",
-      "lastSeen": "2026-08-23",
-      "previousPrice": null
+      "lastSeen": "2026-09-07",
+      "previousPrice": 445000
     },
     {
       "id": "kastanienallee-26",
@@ -1689,7 +1815,7 @@
       "title": "Kastanienallee 26, Prenzlauer Berg",
       "status": "For Sale",
       "neighborhood": "Prenzlauer Berg",
-      "price": 690000,
+      "price": 650000,
       "rooms": 3,
       "sizeSqm": 87,
       "floor": {
@@ -1697,10 +1823,10 @@
         "value": 1,
         "isTop": false
       },
-      "pricePerSqm": 7931,
+      "pricePerSqm": 7471,
       "imageUrl": "https://res.cloudinary.com/dbi0cooxc/image/upload/f_jpg,q_70,w_1200,h_630,c_fill,g_auto/v1785141504/_V9A1317_zzutfq.jpg",
       "firstSeen": "2026-08-03",
-      "lastSeen": "2026-08-23",
+      "lastSeen": "2026-09-07",
       "previousPrice": 690000
     },
     {
@@ -1721,8 +1847,8 @@
       "pricePerSqm": 8636,
       "imageUrl": "https://res.cloudinary.com/dbi0cooxc/image/upload/f_jpg,q_70,w_1200,h_630,c_fill,g_auto/v1777977272/_V9A5166_horizontal_rgyral.jpg",
       "firstSeen": "2026-08-23",
-      "lastSeen": "2026-08-23",
-      "previousPrice": null
+      "lastSeen": "2026-09-07",
+      "previousPrice": 950000
     },
     {
       "id": "dresdener-strasse-117-1",
@@ -1742,8 +1868,8 @@
       "pricePerSqm": 6888,
       "imageUrl": "https://res.cloudinary.com/dbi0cooxc/image/upload/f_jpg,q_70,w_1200,h_630,c_fill,g_auto/v1779819699/_V9A2223B_mee8zr.jpg",
       "firstSeen": "2026-08-23",
-      "lastSeen": "2026-08-23",
-      "previousPrice": null
+      "lastSeen": "2026-09-07",
+      "previousPrice": 675000
     },
     {
       "id": "20509",
@@ -1761,9 +1887,9 @@
         "isTop": false
       },
       "pricePerSqm": 8292,
-      "imageUrl": "https://www.next-estate.de/wp-content/uploads/resizer/resizer.php?w=700&src=../../uploads/photos/branch_a/20509_0c781948-ae3a-493b-ab17-2308f3098c59.jpg",
+      "imageUrl": "https://www.next-estate.de/wp-content/uploads/resizer/resizer.php?w=700&src=../../uploads/photos/branch_b/20509_0c781948-ae3a-493b-ab17-2308f3098c59.jpg",
       "firstSeen": "2026-07-24",
-      "lastSeen": "2026-08-23",
+      "lastSeen": "2026-09-07",
       "previousPrice": 539000
     },
     {
@@ -1782,9 +1908,9 @@
         "isTop": false
       },
       "pricePerSqm": 5331,
-      "imageUrl": "https://www.next-estate.de/wp-content/uploads/resizer/resizer.php?w=700&src=../../uploads/photos/branch_a/20413__256349.jpg",
+      "imageUrl": "https://www.next-estate.de/wp-content/uploads/resizer/resizer.php?w=700&src=../../uploads/photos/branch_b/20413__256349.jpg",
       "firstSeen": "2026-07-24",
-      "lastSeen": "2026-08-23",
+      "lastSeen": "2026-09-07",
       "previousPrice": 645000
     },
     {
@@ -1794,7 +1920,7 @@
       "title": "Kopenhagener Strasse 36A, Prenzlauer Berg",
       "status": "For Sale",
       "neighborhood": "Prenzlauer Berg",
-      "price": 378000,
+      "price": 350000,
       "rooms": 2,
       "sizeSqm": 51,
       "floor": {
@@ -1802,11 +1928,11 @@
         "value": 0,
         "isTop": false
       },
-      "pricePerSqm": 7412,
+      "pricePerSqm": 6863,
       "imageUrl": "https://res.cloudinary.com/dbi0cooxc/image/upload/f_jpg,q_70,w_1200,h_630,c_fill,g_auto/v1786365886/_V9A3150_dqdqvi.jpg",
       "firstSeen": "2026-08-23",
-      "lastSeen": "2026-08-23",
-      "previousPrice": null
+      "lastSeen": "2026-09-07",
+      "previousPrice": 378000
     },
     {
       "id": "christburger-strasse-48",
@@ -1815,7 +1941,7 @@
       "title": "Christburger Strasse 48, Prenzlauer Berg",
       "status": "For Sale",
       "neighborhood": "Prenzlauer Berg",
-      "price": 424000,
+      "price": 410000,
       "rooms": 2,
       "sizeSqm": 67,
       "floor": {
@@ -1823,11 +1949,11 @@
         "value": 0,
         "isTop": false
       },
-      "pricePerSqm": 6328,
+      "pricePerSqm": 6119,
       "imageUrl": "https://res.cloudinary.com/dbi0cooxc/image/upload/f_jpg,q_70,w_1200,h_630,c_fill,g_auto/v1777965142/_V9A4679-2_igmu0h.jpg",
       "firstSeen": "2026-08-23",
-      "lastSeen": "2026-08-23",
-      "previousPrice": null
+      "lastSeen": "2026-09-07",
+      "previousPrice": 424000
     },
     {
       "id": "21049",
@@ -1845,9 +1971,9 @@
         "isTop": false
       },
       "pricePerSqm": 7560,
-      "imageUrl": "https://www.next-estate.de/wp-content/uploads/resizer/resizer.php?w=700&src=../../uploads/photos/branch_a/21049_3a1c708d-23a0-4ad0-8351-4d2a0e41ffc8.jpg",
+      "imageUrl": "https://www.next-estate.de/wp-content/uploads/resizer/resizer.php?w=700&src=../../uploads/photos/branch_b/21049_3a1c708d-23a0-4ad0-8351-4d2a0e41ffc8.jpg",
       "firstSeen": "2026-07-24",
-      "lastSeen": "2026-08-23",
+      "lastSeen": "2026-09-07",
       "previousPrice": 1890000
     },
     {
@@ -1866,9 +1992,9 @@
         "isTop": false
       },
       "pricePerSqm": 5645,
-      "imageUrl": "https://www.next-estate.de/wp-content/uploads/resizer/resizer.php?w=700&src=../../uploads/photos/branch_a/21169_9fc7b06a-f2fd-4079-85bf-5ff24f9c0fd8.jpg",
+      "imageUrl": "https://www.next-estate.de/wp-content/uploads/resizer/resizer.php?w=700&src=../../uploads/photos/branch_b/21169_9fc7b06a-f2fd-4079-85bf-5ff24f9c0fd8.jpg",
       "firstSeen": "2026-07-24",
-      "lastSeen": "2026-08-23",
+      "lastSeen": "2026-09-07",
       "previousPrice": 389500
     },
     {
@@ -1887,9 +2013,9 @@
         "isTop": false
       },
       "pricePerSqm": 8099,
-      "imageUrl": "https://www.next-estate.de/wp-content/uploads/resizer/resizer.php?w=700&src=../../uploads/photos/branch_a/20461_a57223b3-1599-4586-a713-a921311f858c.jpg",
+      "imageUrl": "https://www.next-estate.de/wp-content/uploads/resizer/resizer.php?w=700&src=../../uploads/photos/branch_b/20461_a57223b3-1599-4586-a713-a921311f858c.jpg",
       "firstSeen": "2026-07-24",
-      "lastSeen": "2026-08-23",
+      "lastSeen": "2026-09-07",
       "previousPrice": 575000
     },
     {
@@ -1908,9 +2034,9 @@
         "isTop": false
       },
       "pricePerSqm": 5211,
-      "imageUrl": "https://www.next-estate.de/wp-content/uploads/resizer/resizer.php?w=700&src=../../uploads/photos/branch_a/21129_cdb9ab26-232d-45a4-930b-4953083e6511.jpg",
+      "imageUrl": "https://www.next-estate.de/wp-content/uploads/resizer/resizer.php?w=700&src=../../uploads/photos/branch_b/21129_cdb9ab26-232d-45a4-930b-4953083e6511.jpg",
       "firstSeen": "2026-07-24",
-      "lastSeen": "2026-08-23",
+      "lastSeen": "2026-09-07",
       "previousPrice": 198000
     },
     {
@@ -1929,93 +2055,51 @@
         "isTop": false
       },
       "pricePerSqm": 3785,
-      "imageUrl": "https://www.next-estate.de/wp-content/uploads/resizer/resizer.php?w=700&src=../../uploads/photos/branch_a/21055_4132dd3d-07f4-47cb-baa9-bba43be561fe.jpg",
+      "imageUrl": "https://www.next-estate.de/wp-content/uploads/resizer/resizer.php?w=700&src=../../uploads/photos/branch_b/21055_4132dd3d-07f4-47cb-baa9-bba43be561fe.jpg",
       "firstSeen": "2026-07-24",
-      "lastSeen": "2026-08-23",
+      "lastSeen": "2026-09-07",
       "previousPrice": 299000
-    },
-    {
-      "id": "20171",
-      "url": "https://www.next-estate.de/en/buy/20171/berlin-spandau-flexible-residential-complex-with-garden---renovated-dream-home-with-potential-for-expansion---approx-800-m2-plot---energy-efficient-quiet-location/",
-      "source": "nextestate",
-      "title": "Berlin-Spandau: Flexible residential complex with garden – renovated dream home with potential for expansion – approx. 800 m² plot – energy-efficient, quiet location",
-      "status": "For Sale",
-      "neighborhood": null,
-      "price": 1950000,
-      "rooms": 10,
-      "sizeSqm": 626,
-      "floor": {
-        "raw": "",
-        "value": null,
-        "isTop": false
-      },
-      "pricePerSqm": 3115,
-      "imageUrl": "https://www.next-estate.de/wp-content/uploads/resizer/resizer.php?w=700&src=../../uploads/photos/branch_a/20171_8a1233f4-91a9-4748-ad9d-f5d628f4e9e1.jpg",
-      "firstSeen": "2026-07-24",
-      "lastSeen": "2026-08-23",
-      "previousPrice": 1950000
-    },
-    {
-      "id": "hofensemble-flieth",
-      "url": "https://www.fantasticfrank.com/en/berlin/property/hofensemble-flieth/",
-      "source": "fantasticfrank",
-      "title": "Hofensemble Flieth, Gerswalde, Uckermark",
-      "status": "For Sale",
-      "neighborhood": "Gerswalde, Uckermark",
-      "price": 690000,
-      "rooms": 3,
-      "sizeSqm": 118,
-      "floor": {
-        "raw": "Garden floor & gallery",
-        "value": null,
-        "isTop": false
-      },
-      "pricePerSqm": 5847,
-      "imageUrl": "https://res.cloudinary.com/dbi0cooxc/image/upload/f_jpg,q_70,w_1200,h_630,c_fill,g_auto/v1773660738/_V9A9730_saadg6.jpg",
-      "firstSeen": "2026-08-23",
-      "lastSeen": "2026-08-23",
-      "previousPrice": null
     },
     {
       "id": "jalousiefabrik-new-development",
       "url": "https://www.fantasticfrank.com/en/berlin/property/jalousiefabrik-new-development/",
       "source": "fantasticfrank",
-      "title": "Jalousiefabrik - New Development, Kreuzberg – 53",
+      "title": "Jalousiefabrik - New Development, Kreuzberg – 60",
       "status": "Coming Soon",
       "neighborhood": "Kreuzberg",
-      "price": 3920001242000,
-      "rooms": 2,
-      "sizeSqm": 125,
+      "price": null,
+      "rooms": null,
+      "sizeSqm": null,
       "floor": {
         "raw": "",
         "value": null,
         "isTop": false
       },
-      "pricePerSqm": 31360009936,
+      "pricePerSqm": null,
       "imageUrl": "https://res.cloudinary.com/dbi0cooxc/image/upload/f_jpg,q_70,w_1200,h_630,c_fill,g_auto/v1786720958/Living_room_web_ujuzc6.jpg",
       "firstSeen": "2026-07-23",
-      "lastSeen": "2026-08-23",
+      "lastSeen": "2026-09-07",
       "previousPrice": 3920001242000
     },
     {
       "id": "jalousiefabrik-factory-lofts",
       "url": "https://www.fantasticfrank.com/en/berlin/property/jalousiefabrik-factory-lofts/",
       "source": "fantasticfrank",
-      "title": "Jalousiefabrik - Factory lofts, Kreuzberg – 56",
+      "title": "Jalousiefabrik - Factory lofts, Kreuzberg – 60",
       "status": "Coming Soon",
       "neighborhood": "Kreuzberg",
-      "price": 4620001414000,
-      "rooms": 2,
-      "sizeSqm": 139,
+      "price": null,
+      "rooms": null,
+      "sizeSqm": null,
       "floor": {
         "raw": "",
         "value": null,
         "isTop": false
       },
-      "pricePerSqm": 33237420245,
-      "imageUrl": "https://res.cloudinary.com/dbi0cooxc/image/upload/f_jpg,q_70,w_1200,h_630,c_fill,g_auto/v1786105279/ChatGPT_Image_7._Aug._2026_15_r9znx6.jpg",
+      "pricePerSqm": null,
+      "imageUrl": "https://res.cloudinary.com/dbi0cooxc/image/upload/f_jpg,q_70,w_1200,h_630,c_fill,g_auto/v1788344173/2644_Project_A_Living_room_02_g1im2f.jpg",
       "firstSeen": "2026-07-23",
-      "lastSeen": "2026-08-23",
+      "lastSeen": "2026-09-07",
       "previousPrice": 4620001414000
     }
   ]
